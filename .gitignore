@@ -55,6 +55,12 @@ server.properties
 secrets/
 credentials/
 automodpack/credentials/
+**/automodpack/.private/
+automodpack-client.json
+automodpack-client-metadata.json
+automodpack-dummy-files.json
+automodpack-deletion-timestamps-files.json
+automodpack-content.json
 config/skinrestorer/*cache*.json
 
 # Editor state

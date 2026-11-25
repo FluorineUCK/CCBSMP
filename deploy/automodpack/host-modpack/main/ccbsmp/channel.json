@@ -1,0 +1,8 @@
+{
+  "pack": "CCBSMP",
+  "release": "v1",
+  "sourceVersionId": "1.0.2",
+  "channel": "stable",
+  "minecraft": "1.21.1",
+  "neoforge": "21.1.265"
+}

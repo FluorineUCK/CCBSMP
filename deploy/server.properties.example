@@ -1,7 +1,8 @@
 # Template only; not an exported runtime configuration.
-# Keep authentication unchanged until identity migration is validated.
+# Requires DirectAuth plus pre-migrated premium account UUIDs; do not apply alone.
 server-port=44629
-online-mode=true
+online-mode=false
+enforce-secure-profile=false
 white-list=true
 enforce-whitelist=true
 enable-command-block=true

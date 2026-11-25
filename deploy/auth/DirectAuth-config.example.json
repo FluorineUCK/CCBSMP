@@ -1,0 +1,25 @@
+{
+  "language": "en",
+  "sessionGracePeriod": 0,
+  "sessionCleanupInterval": 10,
+  "minPasswordLength": 8,
+  "maxPasswordLength": 32,
+  "maxLoginAttempts": 5,
+  "loginCooldownMs": 3000,
+  "loginTimeout": 180,
+  "loginLockoutSeconds": 300,
+  "registrationDelay": 3,
+  "maxAccountsPerIP": 5,
+  "deferredScreenPayloads": [
+    "neoorigins:open_origin_screen",
+    "mca:open_destiny_gui_request",
+    "pixelmon:starterlistpacket",
+    "dragonsurvival:open_dragon_altar",
+    "starterkit:to_client_receive_kit_data_packet"
+  ],
+  "heldPayloadExceptions": [
+    "starterkit:to_server_announce_mod_is_installed_packet"
+  ],
+  "logJailPayloads": false,
+  "otherModsDefaultsVersion": 1
+}
