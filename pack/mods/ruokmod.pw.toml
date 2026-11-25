@@ -1,0 +1,9 @@
+# Imported version: 1.7.4
+name = "RuOK Mod"
+filename = "[钌] ruok-neoforge_1.21.1_Pre-Release_5-1.7.4.jar"
+side = "client"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/7621/820/ruok-neoforge_1.21.1_Pre-Release_5-1.7.4.jar"
+hash-format = "sha256"
+hash = "bed7f62a66ac8ffcddb6605f1e1e9fdca23ea49d58eb33d24b28be9abf0b085d"

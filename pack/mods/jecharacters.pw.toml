@@ -1,0 +1,13 @@
+# Imported version: 4.5.30
+name = "Just Enough Characters"
+filename = "[通用拼音搜索] jecharacters-1.21.1-neoforge-4.5.30.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/I7k4B65h/versions/iNnJuUnx/jecharacters-1.21.1-neoforge-4.5.30.jar"
+hash-format = "sha256"
+hash = "1b8e41c97fe4bc3b569475c2adb1351a38547e25bfda322a6ab80e44efd992e1"
+
+[update.modrinth]
+mod-id = "I7k4B65h"
+version = "iNnJuUnx"

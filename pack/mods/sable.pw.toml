@@ -1,0 +1,13 @@
+# Imported version: 2.0.6
+name = "Sable"
+filename = "sable-neoforge-1.21.1-2.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/T9PomCSv/versions/fg9dTRz9/sable-neoforge-1.21.1-2.0.6.jar"
+hash-format = "sha256"
+hash = "9c199157843bf953a47dff625fc5bb41c01a90538d35ad18e6996bbcb8a617c2"
+
+[update.modrinth]
+mod-id = "T9PomCSv"
+version = "fg9dTRz9"

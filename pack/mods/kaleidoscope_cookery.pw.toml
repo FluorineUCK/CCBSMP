@@ -1,0 +1,13 @@
+# Imported version: 1.7.0-neoforge+mc1.21.1
+name = "Kaleidoscope Cookery"
+filename = "[森罗物语：厨房] kaleidoscopecookery-1.7.0-neoforge+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/v17FatAc/versions/COtTVhOl/kaleidoscopecookery-1.7.0-neoforge%2Bmc1.21.1.jar"
+hash-format = "sha256"
+hash = "49f61b54e38298d90bccd22d23af4ae2a43a5c260c97f2c90941845f11bd0aff"
+
+[update.modrinth]
+mod-id = "v17FatAc"
+version = "COtTVhOl"

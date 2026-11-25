@@ -1,0 +1,13 @@
+# Imported version: 1.5.1+neoforge-1.21.1-160
+name = "Create Cobblestone"
+filename = "createcobblestone-1.5.1+neoforge-1.21.1-160.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ihpnEd80/versions/yJiZnWZD/createcobblestone-1.5.1%2Bneoforge-1.21.1-160.jar"
+hash-format = "sha256"
+hash = "2ba64507b1524ffc74f706455bb7bf47e939740683653fab5a62e3a3cabee584"
+
+[update.modrinth]
+mod-id = "ihpnEd80"
+version = "yJiZnWZD"

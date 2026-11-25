@@ -1,0 +1,13 @@
+# Imported version: 2.5.4b
+name = "Create: Enchantment Industry"
+filename = "create-enchantment-industry-2.5.4b.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JWGBpFUP/versions/L6VSDdC4/create-enchantment-industry-2.5.4b.jar"
+hash-format = "sha256"
+hash = "0230b4dfa5af59bc91aef6a26f13165aeeec7026969ce39c823fc3d198e2241d"
+
+[update.modrinth]
+mod-id = "JWGBpFUP"
+version = "L6VSDdC4"

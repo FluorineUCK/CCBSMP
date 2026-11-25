@@ -1,0 +1,13 @@
+# Imported version: 1.2.0-neoforge+mc1.21.1
+name = "Kaleidoscope Tavern"
+filename = "kaleidoscopetavern-1.2.0-neoforge+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/r9RZvhiJ/versions/W9ILsQt7/kaleidoscopetavern-1.2.0-neoforge%2Bmc1.21.1.jar"
+hash-format = "sha256"
+hash = "03f35e1e614953b22cd1f5e34345613f3a6a283bf1b1c99659b57d58970edeff"
+
+[update.modrinth]
+mod-id = "r9RZvhiJ"
+version = "W9ILsQt7"

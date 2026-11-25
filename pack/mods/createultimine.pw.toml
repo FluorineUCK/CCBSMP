@@ -1,0 +1,13 @@
+# Imported version: 1.4.0
+name = "Create Ultimine"
+filename = "createultimine-1.21.1-neoforge-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vUE54e5E/versions/wsQ3jCm7/createultimine-1.21.1-neoforge-1.4.0.jar"
+hash-format = "sha256"
+hash = "e5a447beea53fe0074bf7ab1977b1210a1c9be57b11427731b6f203cb454f92d"
+
+[update.modrinth]
+mod-id = "vUE54e5E"
+version = "wsQ3jCm7"

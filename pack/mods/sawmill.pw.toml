@@ -1,0 +1,13 @@
+# Imported version: 1.21-1.9.3
+name = "Universal Sawmill"
+filename = "sawmill-1.21-1.9.3-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WRaRZdTd/versions/XctMT753/sawmill-1.21-1.9.3-neoforge.jar"
+hash-format = "sha256"
+hash = "aed00e45d1255aa69c17bdc4ee1dd53d789b2b8c6a0f543fb1b86e19218d34bc"
+
+[update.modrinth]
+mod-id = "WRaRZdTd"
+version = "XctMT753"

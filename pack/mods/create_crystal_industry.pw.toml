@@ -1,0 +1,9 @@
+# Imported version: 1.0.13
+name = "Create Crystal Industry"
+filename = "create_crystal_industry-1.0.13.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/9810/596/create_crystal_industry-1.0.13.jar"
+hash-format = "sha256"
+hash = "cc4b32e587fb6b9ffa01b7e9153ac0af2d2d1d58d63102d6fee3f7968da77a0c"

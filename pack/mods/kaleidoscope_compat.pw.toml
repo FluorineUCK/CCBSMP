@@ -1,0 +1,13 @@
+# Imported version: 2.9.7-neoforge+mc1.21.1
+name = "Kaleidoscope Compat"
+filename = "[森罗物语：兼容] kaleidoscope_compat-2.9.7-neoforge+mc1.21.1-Patch.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Xm1eP54z/versions/K9qzZOOA/kaleidoscope_compat-2.9.7-neoforge%2Bmc1.21.1-Patch.2.jar"
+hash-format = "sha256"
+hash = "9876abc5bba1eaa06ea0c4ef140d1eb3b5a8fe9fa17150392a63e0449bc9eb34"
+
+[update.modrinth]
+mod-id = "Xm1eP54z"
+version = "K9qzZOOA"

@@ -1,0 +1,698 @@
+#.
+#Kinetics
+[kinetics]
+
+	#.
+	#.
+	#[Unit: base SU per RPM]
+	#Base stress impact of each mechanical block per RPM. Actual stress consumption scales with absolute rotation speed. A value of 0 removes the configured stress impact.
+	[kinetics.stress_impact]
+		# Default: 16.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		airtight_regulator_pump = 16.0
+		# Default: 4.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		airtight_valve = 4.0
+		# Default: 16.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		airtight_reactor_kettle_structural_cog = 16.0
+		# Default: 8.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		shaft_driven_airtight_pump = 8.0
+		# Default: 8.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		airtight_pump = 8.0
+		# Default: 16.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		airtight_forging_press_structural_shaft = 16.0
+
+	#.
+	#[Unit: base SU per RPM]
+	#Base stress capacity of each kinetic source per RPM. Actual capacity also depends on absolute rotation speed and source-specific scaling, such as turbine state. A value of 0 removes the configured capacity.
+	[kinetics.stress_capacity]
+		# Default: 1024.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		airtight_engine = 1024.0
+		# Default: 4096.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		tesla_turbine = 4096.0
+
+#.
+#Gas
+[gas]
+
+	#.
+	#.
+	#Pressure Rupture
+	[gas.pressure_rupture]
+		#.
+		#.
+		#[Unit: explosion strength]
+		#Strength of the explosion caused by pressure rupture. Set to 0 to disable the blast; gas release and destruction of the failed pressure-bearing block still occur.
+		# Default: 4.0
+		# Range: 0.0 ~ 64.0
+		explosion_strength = 4.0
+		#.
+		#Allow pressure rupture explosions to destroy surrounding blocks. The failed pressure-bearing block is destroyed regardless of this setting.
+		explosion_damages_surrounding_blocks = false
+
+	#.
+	#Atmosphere
+	[gas.atmosphere]
+		#.
+		#.
+		#Allow open-ended gas pipes to extract air from the environment. This does not disable gas exhaust into the environment.
+		allow_environment_air_extraction = true
+		#.
+		#[Unit: atm; 1 atm = 100000 Pa]
+		#Default Overworld pressure supplied by the built-in atmosphere provider. Also used as the fallback for dimensions without a dedicated provider override.
+		# Default: 1.0
+		# Range: 0.0 ~ 24.0
+		overworld_pressure = 1.0
+		#.
+		#[Unit: atm; 1 atm = 100000 Pa]
+		#Default Nether pressure supplied by the built-in atmosphere provider. A dedicated provider can override this value.
+		# Default: 1.600000023841858
+		# Range: 0.0 ~ 24.0
+		nether_pressure = 1.600000023841858
+		#.
+		#[Unit: atm; 1 atm = 100000 Pa]
+		#Default End pressure supplied by the built-in atmosphere provider. A dedicated provider can override this value.
+		# Default: 0.4000000059604645
+		# Range: 0.0 ~ 24.0
+		end_pressure = 0.4000000059604645
+
+	#.
+	#Entity Push
+	[gas.entity_push]
+		#.
+		#.
+		#Allow released gas to push nearby entities. Disabling this does not change gas consumption, gas-specific effects or pressure rupture explosions.
+		enable_entity_push = true
+		#.
+		#[Unit: multiplier]
+		#Multiplier for gas-release acceleration and impulses, within their speed limits. Set to 0 to disable gas pushing without changing gas-specific effects.
+		# Default: 1.0
+		# Range: 0.0 ~ 4.0
+		strength_multiplier = 1.0
+
+	#.
+	#Intake Suction
+	[gas.item_suction]
+		#.
+		#.
+		#Allow actual atmospheric intake to pull players, mobs and dropped items toward open pipe mouths. Only dropped items settle outside the mouth; nothing is inserted into pipes or inventories. Disabling this does not change gas transfer, gas-specific effects or exhaust pushing.
+		enable_item_suction = true
+
+#.
+#Machines
+[machines]
+
+	#.
+	#.
+	#Residue Outlet
+	[machines.residue_outlet]
+		#.
+		#.
+		#[Unit: buckets]
+		#Fluid storage capacity of one Residue Outlet.
+		# Default: 4
+		# Range: > 1
+		fluid_capacity = 4
+
+	#.
+	#Airtight Forging Press
+	[machines.airtight_forging_press]
+		#.
+		#.
+		#Allow the Airtight Forging Press to process eligible Create pressing recipes in addition to its native recipes.
+		enable_automatic_pressing_recipes = true
+		#.
+		#Allow the Airtight Forging Press to process eligible Create crushing recipes with a Heavy Core installed as the press head and an empty addition slot. Items without a matching recipe are kept. Disabling this option leaves native forging recipes available.
+		enable_automatic_crushing_recipes = true
+		#.
+		#Allow the Airtight Forging Press to process eligible smithing recipes in addition to its native recipes.
+		enable_automatic_smithing_recipes = true
+		#.
+		#Require a smithing upgrade or armor trim template as the press head to copy input item components to the primary output. Disable to allow component copying with other press heads.
+		require_smithing_template_for_component_copy = true
+		#.
+		#[Unit: buckets]
+		#Fluid capacity of the Airtight Forging Press input tank.
+		# Default: 3
+		# Range: > 1
+		fluid_capacity = 3
+		#.
+		#[Unit: kL]
+		#Physical gas volume of the Airtight Forging Press input tank. Gas amount at a given pressure scales with this volume.
+		# Default: 30
+		# Range: > 1
+		gas_volume = 30
+
+	#.
+	#Airtight Fractionation Tower
+	[machines.airtight_fractionation_tower]
+		#.
+		#.
+		#[Unit: slots]
+		#Number of shared item slots in each Airtight Fractionation Tower layer. Applies to newly assembled towers.
+		# Default: 9
+		# Range: 1 ~ 64
+		item_slots_per_layer = 9
+		#.
+		#[Unit: tanks]
+		#Number of shared fluid tanks in each Airtight Fractionation Tower layer. Applies to newly assembled towers.
+		# Default: 1
+		# Range: 1 ~ 9
+		fluid_tanks_per_layer = 1
+		#.
+		#[Unit: tanks]
+		#Number of shared gas tanks in each Airtight Fractionation Tower layer. Applies to newly assembled towers.
+		# Default: 1
+		# Range: 1 ~ 9
+		gas_tanks_per_layer = 1
+		#.
+		#[Unit: buckets]
+		#Fluid capacity of each Airtight Fractionation Tower fluid tank. Applies to newly assembled towers.
+		# Default: 9
+		# Range: 1 ~ 2147483
+		fluid_capacity_per_tank = 9
+		#.
+		#[Unit: kL]
+		#Physical gas volume of each Airtight Fractionation Tower gas tank. Gas amount at a given pressure scales with this volume. Applies to newly assembled towers.
+		# Default: 90
+		# Range: > 1
+		gas_volume_per_tank = 90
+
+	#.
+	#Airtight Hatch
+	[machines.airtight_hatch]
+		#.
+		#.
+		#[Unit: GU/s]
+		#Maximum passive gas transfer through an Airtight Hatch per second. Transfer requires a favorable pressure difference and slows as the connected pressures approach equilibrium.
+		# Default: 20000
+		# Range: > 1
+		max_transfer_per_second = 20000
+
+	#.
+	#Airtight Pump
+	[machines.airtight_pump]
+		#.
+		#.
+		#[Unit: atm; 1 atm = 100000 Pa]
+		#Maximum pressure boost in the pumping direction at Create's configured maximum rotation speed. Boost scales with absolute speed; forward flow stops when the opposing pressure difference reaches the available boost. Set to 0 to disable pressure boost.
+		# Default: 4.0
+		# Range: 0.0 ~ 24.0
+		max_pressure_boost = 4.0
+		#.
+		#[Unit: GU/t]
+		#Maximum free flow at Create's configured maximum rotation speed with an inlet pressure of at least 1 atm. Flow scales with absolute speed and decreases with opposing pressure difference. Inlet pressure below 1 atm further reduces throughput. Set to 0 to disable pump flow.
+		# Default: 4000
+		# Range: 0 ~ 1000000
+		max_flow_per_tick = 4000
+
+	#.
+	#Airtight Regulator Pump
+	[machines.airtight_regulator_pump]
+		#.
+		#.
+		#[Unit: atm; 1 atm = 100000 Pa]
+		#Maximum pressure rise in one pump stage, independent of rotation speed. Supply is limited by inlet pressure plus this rise; active exhaust cannot lower the outlet below atmospheric pressure minus this rise.
+		# Default: 8.0
+		# Range: 0.0 ~ 24.0
+		max_pressure_rise = 8.0
+		#.
+		#[Unit: GU/t]
+		#Shared supply and exhaust budget at Create's configured maximum rotation speed. Flow scales with absolute speed; supply tapers within 0.01 atm of its pressure limit and inlet pressure below 1 atm reduces supply throughput. Set to 0 to disable both supply and exhaust.
+		# Default: 4000
+		# Range: 0 ~ 1000000
+		max_flow_per_tick = 4000
+
+	#.
+	#Airtight Reactor Kettle
+	[machines.airtight_reactor_kettle]
+		#.
+		#.
+		#Allow the Airtight Reactor Kettle to process eligible Create mixing recipes and chilled mixing recipes with no additional processing duration. Automatic brewing is controlled separately. Disabling this option cancels uncommitted automatic mixing operations and leaves other reactor kettle recipe categories available under their existing rules.
+		enable_automatic_mixing_recipes = true
+		#.
+		#Allow the Airtight Reactor Kettle to process brewing recipes generated by Create with no additional processing duration. This option is independent of automatic mixing and Create's mixer brewing option. Disabling it cancels uncommitted automatic brewing operations and leaves other reactor kettle recipe categories available under their existing rules.
+		enable_automatic_brewing_recipes = true
+		#.
+		#Allow the Airtight Reactor Kettle to process eligible shapeless crafting recipes in addition to its native recipes.
+		enable_automatic_shapeless_recipes = true
+		#.
+		#[Unit: multiplier relative to standard behavior; 1 = standard]
+		#Multiplier applied to operating mixer damage, whose base value is absolute rotation speed divided by 32. Set to 0 to disable mixer damage.
+		# Default: 1.0
+		# Range: 0.0 ~ 3.4028234663852886E38
+		mixer_damage_multiplier = 1.0
+		#.
+		#[Unit: buckets]
+		#Fluid capacity of each Airtight Reactor Kettle fluid tank segment.
+		# Default: 9
+		# Range: 1 ~ 2147483
+		fluid_capacity_per_tank = 9
+		#.
+		#[Unit: kL]
+		#Physical gas volume of each Airtight Reactor Kettle gas tank segment. Gas amount at a given pressure scales with this volume.
+		# Default: 90
+		# Range: > 1
+		gas_volume_per_tank = 90
+
+	#.
+	#Airtight Tank
+	[machines.airtight_tank]
+		#.
+		#.
+		#[Unit: kL]
+		#Physical gas volume contributed by each block of an Airtight Tank multiblock. At 1 atm, each liter holds 1 GU; increasing volume increases the gas amount held at the same pressure.
+		# Default: 80
+		# Range: > 1
+		gas_volume_per_block = 80
+		#.
+		#[Unit: blocks]
+		#Maximum height of an Airtight Tank or Creative Airtight Tank multiblock. Existing tanks may need to be reassembled after changing this value.
+		# Default: 4
+		# Range: 1 ~ 32
+		max_height = 4
+		#.
+		#[Unit: blocks]
+		#Maximum width and depth of an Airtight Tank or Creative Airtight Tank multiblock. Existing tanks may need to be reassembled after changing this value.
+		# Default: 3
+		# Range: 1 ~ 16
+		max_width = 3
+
+	#.
+	#Breeze Chamber
+	[machines.breeze_chamber]
+		#.
+		#.
+		#[Unit: kL]
+		#Physical gas volume of the Breeze Chamber tank. Gas amount at a given pressure scales with this volume.
+		# Default: 40
+		# Range: > 1
+		gas_volume = 40
+		#.
+		#[Unit: GU/s]
+		#Maximum gas processing rate of a Breeze Chamber. Actual processing also depends on the available wind charge and operating pressure.
+		# Default: 5120
+		# Range: > 1
+		max_processing_per_second = 5120
+		#.
+		#[Unit: ticks; 20 ticks = 1 second at 20 TPS]
+		#Maximum stored duration of positive or negative wind charge in a Breeze Chamber.
+		# Default: 72000
+		# Range: > 20
+		max_wind_charge_ticks = 72000
+
+	#.
+	#Breeze Cooler
+	[machines.breeze_cooler]
+		#.
+		#.
+		#Allow an Empty Breeze Cooler to capture a Breeze from a spawner or trial spawner.
+		allow_spawner_capture = true
+		#.
+		#[Unit: buckets]
+		#Fluid capacity of the Breeze Cooler input tank. Applies when the block entity is created or loaded.
+		# Default: 4
+		# Range: 1 ~ 2147483
+		fluid_capacity = 4
+		#.
+		#[Unit: K]
+		#Fluid temperature at or above which a non-creative Breeze Cooler is destroyed.
+		# Default: 1300
+		# Range: > 1
+		destruction_temperature_kelvin = 1300
+		#.
+		#[Unit: ticks; 20 ticks = 1 second at 20 TPS]
+		#Maximum stored cooling duration in a Breeze Cooler. This controls cooling time, not fluid capacity.
+		# Default: 72000
+		# Range: > 20
+		max_cooling_ticks = 72000
+		#.
+		#[Unit: ticks; 20 ticks = 1 second at 20 TPS]
+		#Cooling duration added when a snowball hits a Breeze Cooler. Set to 0 to disable cooling with snowballs.
+		# Default: 20
+		# Range: > 0
+		cooling_ticks_per_snowball = 20
+
+	#.
+	#Gas Injection Chamber
+	[machines.gas_injection_chamber]
+		#.
+		#.
+		#[Unit: GU per item]
+		#Base gas consumption per item processed by the Gas Injection Chamber fan. Set to 0 to disable this consumption.
+		# Default: 500
+		# Range: 0 ~ 10000
+		fan_processing_gas_per_item = 500
+		#.
+		#[Unit: kL]
+		#Physical gas volume of the Gas Injection Chamber tank. Gas amount at a given pressure scales with this volume.
+		# Default: 10
+		# Range: > 1
+		gas_volume = 10
+
+	#.
+	#Gas Packager
+	[machines.gas_packager]
+		#.
+		#.
+		#[Unit: kGU]
+		#Gas amount corresponding to one standard balloon volume at 1 atm. The local packing limit scales with ambient pressure.
+		# Default: 10
+		# Range: > 1
+		reference_gas_per_balloon = 10
+
+	#.
+	#Tesla Turbine
+	[machines.tesla_turbine]
+		#.
+		#.
+		#Cause a rotating Tesla Turbine to explode and lose its rotors when incompatible gases are mixed. A stopped turbine clears the mixed gas without exploding or losing rotors.
+		explodes_on_incompatible_gases = true
+		#.
+		#[Unit: multiplier relative to standard behavior; 1 = standard]
+		#Multiplier applied to the explosion strength when incompatible gases are mixed in a Tesla Turbine. Base strength equals the installed rotor count. A value of 0 does not protect the rotors when mixed-gas failure is enabled and the turbine is rotating.
+		# Default: 1.0
+		# Range: 0.0 ~ 3.4028234663852886E38
+		explosion_strength_multiplier = 1.0
+		#.
+		#Allow explosions from incompatible gases in a Tesla Turbine to destroy surrounding blocks. This does not prevent rotor loss when mixed-gas failure is triggered.
+		explosion_damages_surrounding_blocks = false
+
+	#.
+	#Airtight Assembly Driver
+	[machines.airtight_assembly_driver]
+		#.
+		#.
+		#Rotate the preferred Residue Outlet after each successfully generated Fluid Residue batch. Disable to prioritize the first outlet for every batch.
+		use_fluid_residue_round_robin = false
+		#.
+		#Rotate the preferred Residue Outlet after each successfully generated Item Residue batch. Disable to prioritize the first outlet for every batch.
+		use_item_residue_round_robin = false
+		#.
+		#[Unit: multiplier relative to standard behavior; 1 = standard]
+		#Scales Fluid Residue generation with the Airtight Assembly Driver level. Each generation batch produces 8 times the level times this multiplier in mB, rounded down to whole mB and subject to available output space.
+		# Default: 1.0
+		# Range: 0.125 ~ 64.0
+		fluid_residue_quantity_multiplier = 1.0
+		#.
+		#[Unit: multiplier relative to standard behavior; 1 = standard]
+		#Scales standard Item Residue generation progress, whose base coefficient per driver level is 8. Fractional progress accumulates before whole items are emitted; output space can limit successful generation.
+		# Default: 1.0
+		# Range: 0.125 ~ 8.0
+		item_residue_quantity_multiplier = 1.0
+
+#.
+#Equipment
+[equipment]
+
+	#.
+	#.
+	#Gas Canister
+	[equipment.gas_canister]
+		#.
+		#.
+		#[Unit: kL]
+		#Base physical volume of a Gas Canister before Capacity enchantment scaling. Gas amount at a given pressure scales with this volume.
+		# Default: 2
+		# Range: > 1
+		gas_volume = 2
+		#.
+		#[Unit: atm; 1 atm = 100000 Pa]
+		#Maximum absolute pressure a Gas Canister can accept. This value cannot exceed the global 24 atm hard limit.
+		# Default: 10.0
+		# Range: 0.0 ~ 24.0
+		max_pressure = 10.0
+
+	#.
+	#Airtight Cannon
+	[equipment.airtight_cannon]
+		#.
+		#.
+		#[Unit: GU per shot]
+		#Base gas consumption per shot with the Airtight Cannon. Actual consumption also depends on the selected gas supply and applicable upgrades. A value of 0 removes this base cost without bypassing other operating requirements.
+		# Default: 100
+		# Range: > 0
+		gas_per_shot = 100
+
+	#.
+	#Airtight Extend Arm
+	[equipment.airtight_extend_arm]
+		#.
+		#.
+		#[Unit: GU per powered action]
+		#Base gas consumption per powered action with the Airtight Extend Arm. Actual consumption also depends on the selected gas supply and applicable upgrades. A value of 0 removes this base cost without bypassing other operating requirements.
+		# Default: 10
+		# Range: > 0
+		gas_per_powered_action = 10
+
+	#.
+	#Airtight Handheld Drill
+	[equipment.airtight_handheld_drill]
+		#.
+		#.
+		#[Unit: GU per block mined]
+		#Base gas consumption per block mined with the Airtight Handheld Drill. Actual consumption also depends on the selected gas supply and applicable upgrades. A value of 0 removes this base cost without bypassing other operating requirements.
+		# Default: 10
+		# Range: > 0
+		gas_per_block = 10
+		#.
+		#[Unit: blocks]
+		#Maximum number of blocks selected by the Chain Mining template. Ores connect across faces, edges and corners and may merge by specific c:ores/<type> tags; other blocks require face connections and the same block type. Insufficient gas reduces the selected range.
+		# Default: 64
+		# Range: 1 ~ 512
+		chain_mining_max_blocks = 64
+		#.
+		#[Unit: GU per entity hit]
+		#Base gas consumption per entity hit with the Airtight Handheld Drill. Actual consumption also depends on the selected gas supply and applicable upgrades. A value of 0 removes this base cost without bypassing other operating requirements.
+		# Default: 5
+		# Range: > 0
+		gas_per_entity_hit = 5
+		#.
+		#[Unit: multiplier; 1 = unchanged gas cost]
+		#Multiplies the applicable mining gas cost when Harvest Optimization is in Silk Touch mode. Not applied in Fortune mode or when Experience Conversion is active; applicable Magnet costs still multiply the result.
+		# Default: 1.0
+		# Range: 1.0 ~ 3.4028234663852886E38
+		harvest_optimization_gas_multiplier = 1.0
+		#.
+		#[Unit: multiplier relative to standard behavior; 1 = standard]
+		#Multiplies the base per-block gas cost for replacing liquid. This cost replaces the normal mining cost for liquid blocks and is added to it for blocks containing fluid.
+		# Default: 1.0
+		# Range: 1.0 ~ 3.4028234663852886E38
+		liquid_replacement_gas_multiplier = 1.0
+		#.
+		#[Unit: multiplier relative to standard behavior; 1 = standard]
+		#Scales the standard Magnet gas cost, which multiplies applicable mining costs by 1.5. Multiplies applicable mining costs after liquid replacement and Silk Touch adjustments.
+		# Default: 1.0
+		# Range: 1.0 ~ 3.4028234663852886E38
+		magnet_gas_multiplier = 1.0
+		#.
+		#[Unit: multiplier relative to standard behavior; 1 = standard]
+		#Scales the standard Experience Conversion gas cost, which multiplies applicable mining costs by 2. Applied after applicable Magnet costs; Silk Touch does not add its multiplier in this mode.
+		# Default: 1.0
+		# Range: 1.0 ~ 3.4028234663852886E38
+		experience_conversion_gas_multiplier = 1.0
+
+	#.
+	#Airtight Helmet
+	[equipment.airtight_helmet]
+		#.
+		#.
+		#[Unit: multiplier relative to standard behavior; 1 = standard]
+		#Scales the standard effect protection cost of 0.5 GU per effect level per duration tick. Actual consumption also depends on the selected gas supply. A value of 0 removes the cost but still requires a suitable gas supply.
+		# Default: 1.0
+		# Range: 0.0 ~ 3.4028234663852886E38
+		effects_protection_gas_multiplier = 1.0
+		#.
+		#[Unit: GU/s]
+		#Base gas consumption per second while Water Breathing is active and the wearer is underwater. Actual consumption also depends on the selected gas supply. A value of 0 removes the cost but still requires a suitable gas supply.
+		# Default: 20
+		# Range: > 0
+		water_breathing_gas_per_second = 20
+		#.
+		#[Unit: GU/s]
+		#Base gas consumption per second while the Vision Upgrade is active. Actual consumption also depends on the selected gas supply. A value of 0 removes the cost but still requires a suitable gas supply.
+		# Default: 10
+		# Range: > 0
+		vision_gas_per_second = 10
+		#.
+		#[Unit: multiplier relative to standard behavior; 1 = standard]
+		#Scales the standard cost of 5 GU per incoming damage point for the Airtight Helmet Resistance Upgrade. Does not apply to damage that bypasses Resistance. A value of 0 removes the cost but still requires a suitable gas supply.
+		# Default: 1.0
+		# Range: 0.0 ~ 3.4028234663852886E38
+		resistance_gas_multiplier = 1.0
+
+	#.
+	#Airtight Chestplate
+	[equipment.airtight_chestplate]
+		#.
+		#.
+		#[Unit: GU per Elytra boost]
+		#Base gas consumption per Elytra boost with the Airtight Chestplate. Actual consumption also depends on the selected gas supply and applicable upgrades. A value of 0 removes this base cost without bypassing other operating requirements.
+		# Default: 25
+		# Range: > 0
+		gas_per_elytra_boost = 25
+		#.
+		#[Unit: GU/s]
+		#Base gas consumption per second while Creative Flight is active and the wearer is flying. Actual consumption also depends on the selected gas supply. A value of 0 removes the cost but still requires a suitable gas supply.
+		# Default: 50
+		# Range: > 0
+		creative_flight_gas_per_second = 50
+		#.
+		#[Unit: GU/s]
+		#Base gas consumption per second while Regeneration is active and the wearer is recovering health. Actual consumption also depends on the selected gas supply. A value of 0 removes the cost but still requires a suitable gas supply.
+		# Default: 30
+		# Range: > 0
+		regeneration_gas_per_second = 30
+		#.
+		#[Unit: GU/s]
+		#Base gas consumption per second while the Invisibility Upgrade is active. Actual consumption also depends on the selected gas supply. A value of 0 removes the cost but still requires a suitable gas supply.
+		# Default: 10
+		# Range: > 0
+		invisibility_gas_per_second = 10
+		#.
+		#[Unit: multiplier relative to standard behavior; 1 = standard]
+		#Scales the standard cost of 5 GU per incoming damage point for the Airtight Chestplate Resistance Upgrade. Does not apply to damage that bypasses Resistance. A value of 0 removes the cost but still requires a suitable gas supply.
+		# Default: 1.0
+		# Range: 0.0 ~ 3.4028234663852886E38
+		resistance_gas_multiplier = 1.0
+
+	#.
+	#Airtight Leggings
+	[equipment.airtight_leggings]
+		#.
+		#.
+		#[Unit: multiplier relative to standard behavior; 1 = standard]
+		#Scales the standard deflection cost of 25 GU per unit of projectile speed. Actual consumption also depends on the selected gas supply. A value of 0 removes the cost but still requires a suitable gas supply.
+		# Default: 1.0
+		# Range: 0.0 ~ 3.4028234663852886E38
+		projectile_deflection_gas_multiplier = 1.0
+		#.
+		#[Unit: GU/s]
+		#Base gas consumption per second while Quick Swimming is active and the wearer is underwater. Actual consumption also depends on the selected gas supply. A value of 0 removes the cost but still requires a suitable gas supply.
+		# Default: 10
+		# Range: > 0
+		quick_swimming_gas_per_second = 10
+		#.
+		#[Unit: multiplier relative to standard behavior; 1 = standard]
+		#Scales the standard cost of 5 GU per incoming damage point for the Airtight Leggings Resistance Upgrade. Does not apply to damage that bypasses Resistance. A value of 0 removes the cost but still requires a suitable gas supply.
+		# Default: 1.0
+		# Range: 0.0 ~ 3.4028234663852886E38
+		resistance_gas_multiplier = 1.0
+
+	#.
+	#Airtight Boots
+	[equipment.airtight_boots]
+		#.
+		#.
+		#[Unit: multiplier relative to standard behavior; 1 = standard]
+		#Scales the standard cost of 5 GU per incoming damage point for the Airtight Boots Resistance Upgrade. Does not apply to damage that bypasses Resistance. A value of 0 removes the cost but still requires a suitable gas supply.
+		# Default: 1.0
+		# Range: 0.0 ~ 3.4028234663852886E38
+		resistance_gas_multiplier = 1.0
+
+#.
+#Storage
+[storage]
+
+	#.
+	#.
+	#Andesite Crate
+	[storage.andesite_crate]
+		#.
+		#.
+		#[Unit: items]
+		#Maximum number of individual items stored in one Andesite Crate. This is an item count, not a count of item stacks.
+		# Default: 2048
+		# Range: 1 ~ 1048576
+		item_capacity = 2048
+
+	#.
+	#Brass Crate
+	[storage.brass_crate]
+		#.
+		#.
+		#[Unit: items]
+		#Maximum number of individual items stored in one Brass Crate. This is an item count, not a count of item stacks.
+		# Default: 4096
+		# Range: 1 ~ 1048576
+		item_capacity = 4096
+
+	#.
+	#Sturdy Crate
+	[storage.sturdy_crate]
+		#.
+		#.
+		#[Unit: items]
+		#Maximum number of individual items stored in one Sturdy Crate. This is an item count, not a count of item stacks.
+		# Default: 16384
+		# Range: 1 ~ 1048576
+		item_capacity = 16384
+
+	#.
+	#Cardboard Crate
+	[storage.cardboard_crate]
+		#.
+		#.
+		#[Unit: items]
+		#Maximum number of individual items stored in one Cardboard Crate. This is an item count, not a count of item stacks.
+		# Default: 64
+		# Range: 1 ~ 64
+		item_capacity = 64
+
+#.
+#Optical Power
+[optical_power]
+
+	#.
+	#.
+	#Chunk Stabilizer
+	[optical_power.chunk_stabilizer]
+		#.
+		#.
+		#Allow Chunk Stabilizers to keep their own current chunk ticking without power or nearby players, including Create contraptions, trains and Sable structures. Sable also retains its native physics loading around the structure. Disabling releases stabilizer tickets, including their Sable structure tickets. After re-enabling, trains resume automatically; other unloaded devices or structures resume when loaded again.
+		enable_chunk_loading = true
+
+	#.
+	#Optical Power Network
+	[optical_power.network]
+		#.
+		#.
+		#[Unit: lm]
+		#Maximum luminous flux distributed simultaneously by one optical fiber network.
+		# Default: 512.0
+		# Range: 1.0 ~ 65536.0
+		max_network_flux_lm = 512.0
+		#.
+		#[Unit: lm]
+		#Maximum luminous flux allocated to each consumer in an optical fiber network. Actual allocation also depends on source output and the network limit.
+		# Default: 48.0
+		# Range: 1.0 ~ 512.0
+		max_consumer_flux_lm = 48.0
+
+	#.
+	#Amethyst Collector Panel
+	[optical_power.amethyst_collector_panel]
+		#.
+		#.
+		#[Unit: multiplier relative to standard behavior; 1 = standard]
+		#Scales the standard rainy-weather output of 50% of clear-weather output. A value of 0 disables output in rain; 1 preserves the standard reduction; 2 restores clear-weather output.
+		# Default: 1.0
+		# Range: 0.0 ~ 2.0
+		rain_output_multiplier = 1.0
+
+	#.
+	#Photothermal Chamber
+	[optical_power.photothermal_chamber]
+		#.
+		#.
+		#[Unit: lm]
+		#Maximum combined luminous flux admitted to one photothermal chamber inventory. Heating targets depend on local surface illuminance and coverage, not summed input flux.
+		# Default: 48.0
+		# Range: 1.0 ~ 512.0
+		max_received_flux_lm = 48.0

@@ -1,0 +1,13 @@
+# Imported version: 1.0.3
+name = "Create Phantom"
+filename = "createphantom-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/T3CecRuS/versions/IU6Bklxo/createphantom-1.0.3.jar"
+hash-format = "sha256"
+hash = "3ac4adeefcdf4d5ee840fca3f841b63b82cb8c34d9d841bbdb2eba4fc16e2703"
+
+[update.modrinth]
+mod-id = "T3CecRuS"
+version = "IU6Bklxo"

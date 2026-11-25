@@ -1,0 +1,13 @@
+# Imported version: 1.0.2
+name = "KaleidoscopeCookery:Automation"
+filename = "[森罗厨房：自动化] kaleidoscopecookery_automation-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7KEJ7Rz9/versions/IqWk9J0n/kaleidoscopecookery_automation-1.0.2.jar"
+hash-format = "sha256"
+hash = "436f81bc8f90e21dcf1a2a43758d9d0e8d4d424a68438a97a7f20cfdea922a2a"
+
+[update.modrinth]
+mod-id = "7KEJ7Rz9"
+version = "IqWk9J0n"

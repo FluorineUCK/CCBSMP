@@ -1,0 +1,13 @@
+# Imported version: 1.1.2-neoforge+mc1.21.1
+name = "Kaleidoscope End"
+filename = "[森罗物语：末地] kaleidoscope_end-1.1.2-neoforge+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8GKUHBM6/versions/19ZH5NDe/kaleidoscope_end-1.1.2-neoforge%2Bmc1.21.1.jar"
+hash-format = "sha256"
+hash = "14caedaed01b5e2f49258fd6d296330ad73039590df29e18294c3e75b7931fe8"
+
+[update.modrinth]
+mod-id = "8GKUHBM6"
+version = "19ZH5NDe"

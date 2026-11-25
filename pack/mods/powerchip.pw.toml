@@ -1,0 +1,13 @@
+# Imported version: 2.1.2
+name = "Create: Power Chip"
+filename = "powerchip-2.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xjCy9IA8/versions/YIxQG5Q4/powerchip-2.1.2.jar"
+hash-format = "sha256"
+hash = "1f15f94e355f63307271a139c1448fc951ccbe6ea63b54fff38bb55dd6b36a29"
+
+[update.modrinth]
+mod-id = "xjCy9IA8"
+version = "YIxQG5Q4"

@@ -1,0 +1,13 @@
+# Imported version: ${file.jarVersion}
+name = "Retraining"
+filename = "Retraining-neoforge-1.21-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/5436/58/Retraining-neoforge-1.21-2.0.0.jar"
+hash-format = "sha256"
+hash = "5af5827a3035daab71b7a534face245c64237e5521c6c8125628ca116fe8aa26"
+
+[update.curseforge]
+project-id = 543209
+file-id = 5436058

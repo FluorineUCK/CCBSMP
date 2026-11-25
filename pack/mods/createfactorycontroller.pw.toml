@@ -1,0 +1,13 @@
+# Imported version: 1.2.4-neoforge-1.21.1
+name = "Create: Factory Controller"
+filename = "createfactorycontroller-1.2.4-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VR3MrvE2/versions/6Yqv2cwr/createfactorycontroller-1.2.4-neoforge-1.21.1.jar"
+hash-format = "sha256"
+hash = "747fee32b9a886c3bf41b5f17887fd191af5e4906b728a810e664087f593dae7"
+
+[update.modrinth]
+mod-id = "VR3MrvE2"
+version = "6Yqv2cwr"

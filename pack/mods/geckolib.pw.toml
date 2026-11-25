@@ -1,0 +1,13 @@
+# Imported version: 4.9.4
+name = "GeckoLib 4"
+filename = "geckolib-neoforge-1.21.1-4.9.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8BmcQJ2H/versions/nxAPSFAR/geckolib-neoforge-1.21.1-4.9.4.jar"
+hash-format = "sha256"
+hash = "5f5d93386b6a660439a77c5cfda67b47a957864a3a6462a015bcc8402bfbb5b3"
+
+[update.modrinth]
+mod-id = "8BmcQJ2H"
+version = "nxAPSFAR"

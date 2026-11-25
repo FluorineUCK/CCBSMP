@@ -1,0 +1,13 @@
+# Imported version: 1.5.42
+name = "Sophisticated Core"
+filename = "sophisticatedcore-1.21.1-1.5.42.2496.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nmoqTijg/versions/URsV4WGl/sophisticatedcore-1.21.1-1.5.42.2496.jar"
+hash-format = "sha256"
+hash = "d1d8713af68a232043aebc0f16dbb953c2a685042164c614147f6121c17b59b9"
+
+[update.modrinth]
+mod-id = "nmoqTijg"
+version = "URsV4WGl"

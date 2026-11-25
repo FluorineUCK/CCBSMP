@@ -1,0 +1,13 @@
+# Imported version: 1.6.0+snapshot.2980
+name = "AnvilCraft"
+filename = "anvilcraft-neoforge-1.21.1-1.6.0+snapshot.2980.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vuISAWPc/versions/6Rlm3o6b/anvilcraft-neoforge-1.21.1-1.6.0%2Bsnapshot.2980.jar"
+hash-format = "sha256"
+hash = "cdd729ae8eaffa5e476b2ef04395212a7711c9054b362f00f41195c22cc9a04a"
+
+[update.modrinth]
+mod-id = "vuISAWPc"
+version = "6Rlm3o6b"

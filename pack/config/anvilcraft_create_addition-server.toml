@@ -1,0 +1,8 @@
+#The ratio of the relative linear speed of the copper block and the magnet to the amount of charge generated
+# Default: 0.72
+# Range: 0.01 ~ 255.0
+charge_generated_efficiency = 0.72
+#The mysterious coefficient, perhaps related to the stress required by the generator?
+# Default: 1.76
+# Range: 0.01 ~ 255.0
+stress_dissipation_coefficient = 1.76

@@ -1,0 +1,13 @@
+# Imported version: 2.6.1-neoforge
+name = "Create: Fast Schematic Cannon"
+filename = "[机械动力：更快的蓝图加农炮] CreateFastSchematicCannon-2.6.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DebMSCVn/versions/bG6IJw6J/CreateFastSchematicCannon-2.6.1-neoforge-1.21.1.jar"
+hash-format = "sha256"
+hash = "6d5ea8f1a7db565baf8d5ab8823fdbb25ed6cd0e47f028ac6c820c1ad993fd07"
+
+[update.modrinth]
+mod-id = "DebMSCVn"
+version = "bG6IJw6J"

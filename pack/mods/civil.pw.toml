@@ -1,0 +1,13 @@
+# Imported version: 2.0.1-release
+name = "Civillis"
+filename = "civillis-neoforge-2.0.1-release+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Dx2SPPEi/versions/VSlynytd/civillis-neoforge-2.0.1-release%2Bmc1.21.1.jar"
+hash-format = "sha256"
+hash = "54af17b71061e5b161cd528d1b95874bedd44502668ad0803a28d5afb3cf0957"
+
+[update.modrinth]
+mod-id = "Dx2SPPEi"
+version = "VSlynytd"

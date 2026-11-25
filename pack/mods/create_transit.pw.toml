@@ -1,0 +1,13 @@
+# Imported version: 0.2.1
+name = "Create: Transit"
+filename = "create-transit-mc1.21.1-0.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TiQAYxVn/versions/Qi2l5Wgg/create-transit-mc1.21.1-0.2.1.jar"
+hash-format = "sha256"
+hash = "7d79d1ab2b644041d5648ee248483e6624ddac15505c392e985d4e9b8f8d6d50"
+
+[update.modrinth]
+mod-id = "TiQAYxVn"
+version = "Qi2l5Wgg"

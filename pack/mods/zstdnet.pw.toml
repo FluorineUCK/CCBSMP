@@ -1,0 +1,13 @@
+# Imported version: 1.5.0
+name = "ZstdNet"
+filename = "zstdnet-1.21.1-neoforge-1.5.0.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/9044/611/zstdnet-1.21.1-neoforge-1.5.0.jar"
+hash-format = "sha256"
+hash = "cd5e0246b582d2a64e7d6cafc8b0ae64dba42e88872fea1220d0652ae1efa0bb"
+
+[update.curseforge]
+project-id = 1506928
+file-id = 9044611

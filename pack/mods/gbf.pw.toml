@@ -1,0 +1,13 @@
+# Imported version: 1.0.2
+name = "GeckoBetterFPS"
+filename = "gbf-1.21.1-1.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CZyWdBUo/versions/cqGqtGak/gbf-1.21.1-1.0.2.jar"
+hash-format = "sha256"
+hash = "48984167d9e0b3c8608497dc1a09a26b1fa26e8297b0f9e6ad065e5513a776a1"
+
+[update.modrinth]
+mod-id = "CZyWdBUo"
+version = "cqGqtGak"

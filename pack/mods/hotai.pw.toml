@@ -1,0 +1,9 @@
+# Imported version: 2.0
+name = "hotai"
+filename = "[绷带] hotai-2.0.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/5802/32/hotai-2.0.jar"
+hash-format = "sha256"
+hash = "14e2af94e0e60a005090de6b2621c717e4108ff3db8a4b3576858abd3463ba38"

@@ -1,0 +1,13 @@
+# Imported version: 1.1.2-neoforge+mc1.21.1
+name = "Kaleidoscope Nether"
+filename = "[森罗物语：下界] kaleidoscope_nether-1.1.2-neoforge+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/O4YuhMsI/versions/PpoOMArg/kaleidoscope_nether-1.1.2-neoforge%2Bmc1.21.1.jar"
+hash-format = "sha256"
+hash = "4698b09f9a3edd84ab37a9506c3b88c7b59e947b21ae894c477998421335ffb6"
+
+[update.modrinth]
+mod-id = "O4YuhMsI"
+version = "PpoOMArg"

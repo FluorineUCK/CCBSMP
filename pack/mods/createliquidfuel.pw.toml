@@ -1,0 +1,13 @@
+# Imported version: 3.0.0-1.21.1
+name = "Create Liquid Fuel"
+filename = "createliquidfuel-3.0.0-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sH9tXU9f/versions/rLn2bDVE/createliquidfuel-3.0.0-1.21.1.jar"
+hash-format = "sha256"
+hash = "6b0ccd1579f59d13b927d7462a1f3c60b1069da967e54d3fb5629dbe2ff89216"
+
+[update.modrinth]
+mod-id = "sH9tXU9f"
+version = "rLn2bDVE"

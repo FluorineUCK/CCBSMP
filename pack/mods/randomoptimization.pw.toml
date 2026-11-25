@@ -1,0 +1,13 @@
+# Imported version: 1.7.7
+name = "Random Optimization"
+filename = "randomoptimization-1.7.7-all-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Mjoo9rPv/versions/5n7HtT4g/randomoptimization-1.7.7-all-1.21.1.jar"
+hash-format = "sha256"
+hash = "17a36b95992c66a0f231f5f78884afd486d2c5560930657f9c0624e2609f7f5b"
+
+[update.modrinth]
+mod-id = "Mjoo9rPv"
+version = "5n7HtT4g"

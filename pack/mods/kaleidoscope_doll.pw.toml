@@ -1,0 +1,13 @@
+# Imported version: 1.4.2-neoforge+mc1.21.1
+name = "Kaleidoscope Doll"
+filename = "[森罗物语：玩偶] kaleidoscopedoll-1.4.2-neoforge+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vQLjjxNs/versions/iRKxsLXR/kaleidoscopedoll-1.4.2-neoforge%2Bmc1.21.1.jar"
+hash-format = "sha256"
+hash = "f802743a879892b7d62210e43a1f25f46e7f4f94852ff1b531d8affb23da2951"
+
+[update.modrinth]
+mod-id = "vQLjjxNs"
+version = "iRKxsLXR"

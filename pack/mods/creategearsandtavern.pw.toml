@@ -1,0 +1,13 @@
+# Imported version: 1.2.0
+name = "Create: Gears and Tavern"
+filename = "creategearsandtavern-1.2.0-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZjAeukl9/versions/2fjPxg1H/creategearsandtavern-1.2.0-1.21.1.jar"
+hash-format = "sha256"
+hash = "357e0d456130b7d4ab863e844565809a660a9d1de87432a04817cab745989aa2"
+
+[update.modrinth]
+mod-id = "ZjAeukl9"
+version = "2fjPxg1H"

@@ -1,0 +1,13 @@
+# Imported version: 1.12.2
+name = "EntityCulling"
+filename = "[实体渲染机制优化] entityculling-neoforge-1.12.2-mc1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/8uamSG2K/entityculling-neoforge-1.12.2-mc1.21.1.jar"
+hash-format = "sha256"
+hash = "9b4cf7678e8d3e5ee6a2110ca56d5be247c89bce28269804723f2c16c4c2f914"
+
+[update.modrinth]
+mod-id = "NNAgCjsB"
+version = "8uamSG2K"

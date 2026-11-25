@@ -1,0 +1,13 @@
+# Imported version: 19.76.1.481
+name = "Just Enough Items"
+filename = "[JEI物品管理器] jei-1.21.1-neoforge-19.76.1.481.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/u6dRKJwZ/versions/lDv3cHMp/jei-1.21.1-neoforge-19.76.1.481.jar"
+hash-format = "sha256"
+hash = "0614f0a6a6ef9d7e0a313b1d71561a561e8af4936e557710034507cfc356908f"
+
+[update.modrinth]
+mod-id = "u6dRKJwZ"
+version = "lDv3cHMp"

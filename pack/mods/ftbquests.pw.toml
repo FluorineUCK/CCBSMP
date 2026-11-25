@@ -1,0 +1,13 @@
+# Imported version: 2101.1.39
+name = "FTB Quests"
+filename = "[FTB 任务] ftb-quests-neoforge-2101.1.39.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/9650/792/ftb-quests-neoforge-2101.1.39.jar"
+hash-format = "sha256"
+hash = "40f9bea7bb96e8129303b0dc1b9e47b38234f52018ff332f967be03df07a466e"
+
+[update.curseforge]
+project-id = 289412
+file-id = 9650792

@@ -1,0 +1,13 @@
+# Imported version: 
+name = "kotlinforforge-5.13.0-all.jar"
+filename = "kotlinforforge-5.13.0-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ordsPcFz/versions/9ZlVvei8/kotlinforforge-5.13.0-all.jar"
+hash-format = "sha256"
+hash = "1aa52c3e992d8ee4d1b9e9bdb0c62bf7ad03845195136d63f312ade6f30809de"
+
+[update.modrinth]
+mod-id = "ordsPcFz"
+version = "9ZlVvei8"

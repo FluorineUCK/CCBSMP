@@ -1,0 +1,13 @@
+# Imported version: 1.21.1-neoforge-1.0.10
+name = "ImmortalersDelight"
+filename = "[千古乐事] immortalers_delight-1.21.1-neoforge-1.0.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3WqFZ7vw/versions/ltU8uWgl/immortalers_delight-1.21.1-neoforge-1.0.10.jar"
+hash-format = "sha256"
+hash = "b6e5bf7d9eb4471cadc6e27ff356859c8dc98d5fca68a7c3c4a5417ad449a4a2"
+
+[update.modrinth]
+mod-id = "3WqFZ7vw"
+version = "ltU8uWgl"

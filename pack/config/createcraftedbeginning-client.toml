@@ -1,0 +1,107 @@
+#.
+#Equipment Rendering
+[equipment_rendering]
+	#.
+	#.
+	#Narrow the field of view while charging an Airtight Cannon. Disabling this option leaves charging and firing behavior unchanged.
+	enable_cannon_fov_zoom = true
+	#.
+	#Show the player's arm in first person while wearing an Airtight Chestplate.
+	show_chestplate_first_person_arm = true
+
+#.
+#Outlines
+[outlines]
+	#.
+	#.
+	#Show the open and closed sides of cased Airtight Pipes while holding an Airtight Sheet and wearing Engineer's Goggles.
+	show_cased_airtight_pipe_sides = true
+	#.
+	#Show the chunk columns affected by the Amethyst Sound Suppressor when its range display is enabled and the player is wearing Engineer's Goggles.
+	show_amethyst_sound_suppressor_chunks = true
+	#.
+	#Show the current chunk of active Chunk Stabilizers when their range display is enabled and the player is wearing Engineer's Goggles.
+	show_chunk_stabilizer_chunks = true
+	#.
+	#Show gas release area outlines while wearing Engineer's Goggles.
+	show_gas_release_areas = true
+	#.
+	#Show active gas intake area outlines while wearing Engineer's Goggles. Disabling this option does not affect suction.
+	show_gas_intake_areas = true
+
+#.
+#Particles
+[particles]
+	#.
+	#.
+	#Show illuminated crystal glints and successful experience crystal growth particles. Disabling this option does not affect suppression or growth.
+	show_amethyst_sound_suppressor_particles = true
+	#.
+	#Show jetpack particles while flying with an Airtight Chestplate.
+	show_chestplate_jetpack_particles = true
+
+#.
+#Overlays
+[overlays]
+	#.
+	#.
+	#Show the currently selected gas supply in the player HUD. The display remains hidden while the HUD is hidden.
+	show_current_gas_info = true
+	#.
+	#[Unit: pixels]
+	#Horizontal offset of the current gas supply display.
+	# Default: 0
+	# Range: > -2147483648
+	gas_info_x_offset = 0
+	#.
+	#[Unit: pixels]
+	#Vertical offset of the current gas supply display.
+	# Default: 0
+	# Range: > -2147483648
+	gas_info_y_offset = 0
+	#.
+	#[Unit: item stacks]
+	#Maximum number of item stacks displayed in Airtight Forging Press and Airtight Reactor Kettle tooltips while wearing Engineer's Goggles.
+	# Default: 4
+	# Range: 1 ~ 27
+	max_goggle_item_stacks = 4
+
+#.
+#Gas Requests
+[gas_requests]
+	#.
+	#.
+	#[Unit: GU per scroll step]
+	#Amount added to or removed from a gas request per scroll step while holding Alt on the Redstone Requester screen.
+	# Default: 10
+	# Range: > 1
+	alt_scroll_step = 10
+	#.
+	#[Unit: GU per scroll step]
+	#Amount added to or removed from a gas request per scroll step while holding Ctrl on the Redstone Requester screen.
+	# Default: 1
+	# Range: > 1
+	ctrl_scroll_step = 1
+	#.
+	#[Unit: GU per scroll step]
+	#Amount added to or removed from a gas request per scroll step without a modifier key on the Redstone Requester screen.
+	# Default: 1000
+	# Range: > 1
+	scroll_step = 1000
+	#.
+	#[Unit: GU per scroll step]
+	#Amount added to or removed from a gas request per scroll step while holding Shift on the Redstone Requester screen.
+	# Default: 100
+	# Range: > 1
+	shift_scroll_step = 100
+
+#.
+#Amethyst Mirror
+[amethyst_mirror]
+	#.
+	#.
+	#[Unit: multiplier]
+	#Scales mouse sensitivity while dragging an Amethyst Mirror with the Sneak key held; 1 preserves standard sensitivity. Lower values require more mouse movement per 0.1 degree step. Normal dragging is unchanged.
+	# Default: 1.0
+	# Range: 0.009999999776482582 ~ 10.0
+	fine_drag_multiplier = 1.0

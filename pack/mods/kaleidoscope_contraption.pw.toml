@@ -1,0 +1,13 @@
+# Imported version: 1.0.4
+name = "Kaleidoscope Contraption"
+filename = "[森罗物语：动态结构] kaleidoscope_contraption-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JCCAvv9N/versions/6ugJY3s7/kaleidoscope_contraption-1.0.4.jar"
+hash-format = "sha256"
+hash = "015f0549001d8a34c9d04ba6ab0aa2e1bf9c60d34a4c440cd7932dba36cecaa4"
+
+[update.modrinth]
+mod-id = "JCCAvv9N"
+version = "6ugJY3s7"

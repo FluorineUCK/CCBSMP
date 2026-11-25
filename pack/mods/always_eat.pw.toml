@@ -1,0 +1,13 @@
+# Imported version: 1.0.0
+name = "Always Eat"
+filename = "AlwaysEat-neoforge-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yasvseig/versions/8qtPbGnq/AlwaysEat-neoforge-1.0.0.jar"
+hash-format = "sha256"
+hash = "ed6b9bfedaddb5c15c592a83af9a4c76815d94fd70718718be1722a34e5f93ed"
+
+[update.modrinth]
+mod-id = "yasvseig"
+version = "8qtPbGnq"

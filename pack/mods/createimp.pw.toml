@@ -1,0 +1,13 @@
+# Imported version: 1.4.5
+name = "Create Improve"
+filename = "createimp-1.4.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3xu2jXe8/versions/FuuyiFIm/createimp-1.4.5.jar"
+hash-format = "sha256"
+hash = "cd17e8f97bb7da610eabe9ac52027c9185beb504853e2e5a9834ddd054af37f0"
+
+[update.modrinth]
+mod-id = "3xu2jXe8"
+version = "FuuyiFIm"

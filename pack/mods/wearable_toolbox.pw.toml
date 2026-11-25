@@ -1,0 +1,13 @@
+# Imported version: 0.1.10
+name = "Create: Wearable Toolbox"
+filename = "wearable_toolbox-0.1.10.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/9773/440/wearable_toolbox-0.1.10.jar"
+hash-format = "sha256"
+hash = "0b4c69fe61e78d0254fad19708554e563a4f8a9ccd0a9f3428aa7542fb03f63a"
+
+[update.curseforge]
+project-id = 1764993
+file-id = 9773440

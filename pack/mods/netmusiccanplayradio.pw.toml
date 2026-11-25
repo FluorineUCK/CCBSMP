@@ -1,0 +1,13 @@
+# Imported version: 0.2.0-neoforge+mc1.21.1
+name = "NetMusicCanPlayRadio"
+filename = "netmusiccanplayradio-0.2.0-neoforge+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BdvfP32V/versions/p9NYjmPL/netmusiccanplayradio-0.2.0-neoforge%2Bmc1.21.1.jar"
+hash-format = "sha256"
+hash = "af132a1deca354c32bb560699b9d28ba5fe76ae30f8a6e1278b68cdf8770ccde"
+
+[update.modrinth]
+mod-id = "BdvfP32V"
+version = "p9NYjmPL"

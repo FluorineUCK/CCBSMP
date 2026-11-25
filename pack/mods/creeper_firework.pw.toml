@@ -1,0 +1,13 @@
+# Imported version: 2.2.0
+name = "Creeper Firework"
+filename = "[烟花苦力怕] CreeperFirework-neoforge-2.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/owUiXPam/versions/OwxZJkGR/CreeperFirework-neoforge-2.2.0.jar"
+hash-format = "sha256"
+hash = "f047bbfaab90995c51311464d9a277008d92c3689be26cc2400f28aef813a760"
+
+[update.modrinth]
+mod-id = "owUiXPam"
+version = "OwxZJkGR"

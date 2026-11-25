@@ -1,0 +1,9 @@
+# Imported version: 0.7.0-beta
+name = "Create: Hand Made"
+filename = "create_hand_made-0.7.0-beta.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/9701/606/create_hand_made-0.7.0-beta.jar"
+hash-format = "sha256"
+hash = "67ccc4893457434bd780470f5ad1c054350647c3bd8a2b0fe87b7c39987f0a34"

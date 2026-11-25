@@ -1,0 +1,9 @@
+# Imported version: 1.0.0+snapshot.15
+name = "AnvilCraft: Create Addition"
+filename = "anvilcraft_create_addition-neoforge-1.21.1-1.0.0+snapshot.15.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/9048/702/anvilcraft_create_addition-neoforge-1.21.1-1.0.0%2Bsnapshot.15.jar"
+hash-format = "sha256"
+hash = "e3ac4f119ad5166ec519e9eda6d195994bc8667f12091782b9ba5dda468b7247"

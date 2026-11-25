@@ -1,0 +1,13 @@
+# Imported version: 1.3.1-6.0.10
+name = "Create: Mechanical spawner"
+filename = "[机械动力：动力刷怪笼] create_mechanical_spawner-1.21.1-1.3.2-6.0.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/T1hmeGi9/versions/k7Fepzl4/create_mechanical_spawner-1.21.1-1.3.2-6.0.10.jar"
+hash-format = "sha256"
+hash = "f963b0a4e450484b36ec0b5d529fa7f32527dcc60ec93261ceef5c056f0a9134"
+
+[update.modrinth]
+mod-id = "T1hmeGi9"
+version = "k7Fepzl4"

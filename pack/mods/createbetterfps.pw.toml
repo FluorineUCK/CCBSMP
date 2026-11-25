@@ -1,0 +1,13 @@
+# Imported version: 1.1.5
+name = "CreateBetterFps"
+filename = "createbetterfps-1.21.1-1.1.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lMYIHZNH/versions/dxmPYimo/createbetterfps-1.21.1-1.1.5.jar"
+hash-format = "sha256"
+hash = "13fff8caa3fd6de652d12f8a989180c502bc11009e2a16bb0f89bb47fa57bac3"
+
+[update.modrinth]
+mod-id = "lMYIHZNH"
+version = "dxmPYimo"

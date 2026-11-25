@@ -1,0 +1,13 @@
+# Imported version: 1.5.2-neoforge+mc1.21.1
+name = "Net Music Mod"
+filename = "[网络音乐机] netmusic-1.5.2-neoforge+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gKNuqaQq/versions/ePPjVRpW/netmusic-1.5.2-neoforge%2Bmc1.21.1.jar"
+hash-format = "sha256"
+hash = "731fba4b4d47256d5f44f8392b093b53c7d1c650b66111eda75b820f7f89a14b"
+
+[update.modrinth]
+mod-id = "gKNuqaQq"
+version = "ePPjVRpW"

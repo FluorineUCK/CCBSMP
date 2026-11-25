@@ -10,3 +10,6 @@
 *.class binary
 .packwizignore text eol=lf
 *.properties.example text eol=lf
+
+# Pack hashes refer to exact payload bytes; disable checkout line-ending conversion.
+/pack/** -text

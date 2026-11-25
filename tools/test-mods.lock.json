@@ -1,0 +1,2267 @@
+[
+  {
+    "filename": "[FTB 任务] ftb-quests-neoforge-2101.1.39.jar",
+    "sha256": "40f9bea7bb96e8129303b0dc1b9e47b38234f52018ff332f967be03df07a466e",
+    "sha512": "7fcb961c60fef951b4c3cbfd33c86fbffb22359a73794e78379398fd2254361dd318984b6311ad67919f4d6a0d049bf8782064c7a939f19fba813dd41d2a4c99",
+    "size": 1670999,
+    "ids": [
+      "ftbquests"
+    ],
+    "name": "FTB Quests",
+    "version": "2101.1.39",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://mediafilez.forgecdn.net/files/9650/792/ftb-quests-neoforge-2101.1.39.jar",
+    "modrinth": null,
+    "curseforge": {
+      "project-id": 289412,
+      "file-id": 9650792
+    }
+  },
+  {
+    "filename": "[FTB 团队] ftb-teams-neoforge-2101.1.12.jar",
+    "sha256": "b3f33436070b7ae4a706280561f1d2f1d1eb1a089cb13ec9851e99646165aed2",
+    "sha512": "c2c8853615c1ec97e0ace07c320db8f0ad4a18c59746e1d30c86f7af0e6ad36d9bbfe0ca6a365aa63d29244e1690323296fb29d99a38bab97e2c19181a57e376",
+    "size": 308430,
+    "ids": [
+      "ftbteams"
+    ],
+    "name": "FTB Teams",
+    "version": "2101.1.12",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://mediafilez.forgecdn.net/files/9434/81/ftb-teams-neoforge-2101.1.12.jar",
+    "modrinth": null
+  },
+  {
+    "filename": "[JEI物品管理器] jei-1.21.1-neoforge-19.76.1.481.jar",
+    "sha256": "0614f0a6a6ef9d7e0a313b1d71561a561e8af4936e557710034507cfc356908f",
+    "sha512": "1e8f8cc5e00c0301cd57d9a6d3ae40b27ff511f640b3b6dceeb088fd385bf18ced30d72c52a3f17f3a061b938233c10725dadb8a5d70519456a4549cfb81eea4",
+    "size": 7103608,
+    "ids": [
+      "jei"
+    ],
+    "name": "Just Enough Items",
+    "version": "19.76.1.481",
+    "side": "client",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/lDv3cHMp/jei-1.21.1-neoforge-19.76.1.481.jar",
+    "modrinth": {
+      "mod-id": "u6dRKJwZ",
+      "version": "lDv3cHMp"
+    }
+  },
+  {
+    "filename": "[农夫乐事] FarmersDelight-1.21.1-1.3.4.jar",
+    "sha256": "139ad7696462c89c03eea463f805abffa552526c5dadaadae221dd9624cb197c",
+    "sha512": "1f6f8796469f747cff36f477b4f589a3d69613882399f9ee7f86db36c7bca9aa4828731f43db15dc6c7f5a4c1bbe3d4092a232e8cef010b09cec0581848fda90",
+    "size": 3160490,
+    "ids": [
+      "farmersdelight"
+    ],
+    "name": "Farmer's Delight",
+    "version": "1.3.4",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/R2OftAxM/versions/XTVZDOol/FarmersDelight-1.21.1-1.3.4.jar",
+    "modrinth": {
+      "mod-id": "R2OftAxM",
+      "version": "XTVZDOol"
+    }
+  },
+  {
+    "filename": "[千古乐事] immortalers_delight-1.21.1-neoforge-1.0.10.jar",
+    "sha256": "b6e5bf7d9eb4471cadc6e27ff356859c8dc98d5fca68a7c3c4a5417ad449a4a2",
+    "sha512": "6ba0514e60a60e7f284467d84de8e2cb57cc649f1bf977e357be689d0a8c840a2be4f0f21bb1e6fac85333391fecf6ce34816630afea53bd9263d047b4577ea3",
+    "size": 3213540,
+    "ids": [
+      "immortalers_delight"
+    ],
+    "name": "ImmortalersDelight",
+    "version": "1.21.1-neoforge-1.0.10",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/3WqFZ7vw/versions/ltU8uWgl/immortalers_delight-1.21.1-neoforge-1.0.10.jar",
+    "modrinth": {
+      "mod-id": "3WqFZ7vw",
+      "version": "ltU8uWgl"
+    }
+  },
+  {
+    "filename": "[多态合成] polymorph-neoforge-1.2.0+1.21.1.jar",
+    "sha256": "4a09b7a3c8ea4f5b79acadb405a18140fe20d882e6930403c46cc7ad49c5ec06",
+    "sha512": "dce77fffebae80532fec39d35c9c8b5817ba756bb03569022cc0854a8a6cf1868690f91451b587bd60d813e8403b5de91adbc324796bc423ef28deecfb13c775",
+    "size": 172671,
+    "ids": [
+      "polymorph"
+    ],
+    "name": "Polymorph",
+    "version": "1.2.0+1.21.1",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/tagwiZkJ/versions/9yWvrF5o/polymorph-neoforge-1.2.0%2B1.21.1.jar",
+    "modrinth": {
+      "mod-id": "tagwiZkJ",
+      "version": "9yWvrF5o"
+    }
+  },
+  {
+    "filename": "[实体渲染机制优化] entityculling-neoforge-1.12.2-mc1.21.1.jar",
+    "sha256": "9b4cf7678e8d3e5ee6a2110ca56d5be247c89bce28269804723f2c16c4c2f914",
+    "sha512": "03d7a4484f4d05ac8ec6dafdadac1de1b7be79580e3ccb5fadc7d04ca3285355826e5f5f9e5635543ad65197e4914d0c5f3702d4b8bdb6e0f43a752c9a8b43fa",
+    "size": 1524256,
+    "ids": [
+      "entityculling"
+    ],
+    "name": "EntityCulling",
+    "version": "1.12.2",
+    "side": "client",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/8uamSG2K/entityculling-neoforge-1.12.2-mc1.21.1.jar",
+    "modrinth": {
+      "mod-id": "NNAgCjsB",
+      "version": "8uamSG2K"
+    }
+  },
+  {
+    "filename": "[拾光定影] exposure-neoforge-1.21.1-1.9.21.jar",
+    "sha256": "4d8bbb335523e10fd2d11eeaac3a0356c8c542f61620d5853b2ddfbe39c4276a",
+    "sha512": "920602f69d1b115956553a351538a0d75b48fc7a2df3a0c8c9c83b7f046d32a46c7b77ad530f9e4119d3b6e4ed405f76133aedbf3135e5ece12435e14a84fef4",
+    "size": 2206630,
+    "ids": [
+      "exposure"
+    ],
+    "name": "Exposure",
+    "version": "1.9.21",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/hB899VmG/versions/tjX0GpFW/exposure-neoforge-1.21.1-1.9.21.jar",
+    "modrinth": {
+      "mod-id": "hB899VmG",
+      "version": "tjX0GpFW"
+    }
+  },
+  {
+    "filename": "[探险者指南针] ExplorersCompass-1.21.1-3.4.0-neoforge.jar",
+    "sha256": "71e7b47bd88c9c210d7c06fe5276736fc2e225e869778216537d584e6d1faf24",
+    "sha512": "a1b2e385aaacb547763441fc23e9a33a0b1d67bd32094cd605ded3fbdd1c7a0e5fc4520fdfa090c29d2d3384b685e3ead91b32d20030e45632c94145ee3ec668",
+    "size": 174668,
+    "ids": [
+      "explorerscompass"
+    ],
+    "name": "Explorer's Compass",
+    "version": "1.21.1-3.4.0-neoforge",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/RV1qfVQ8/versions/hIJ2Ev1Q/ExplorersCompass-1.21.1-3.4.0-neoforge.jar",
+    "modrinth": {
+      "mod-id": "RV1qfVQ8",
+      "version": "hIJ2Ev1Q"
+    }
+  },
+  {
+    "filename": "[更多嗅探兽花卉] MoreSnifferFlowers-1.21.1-neo-6.8.jar",
+    "sha256": "1a84878443b85d9e9623fc59c7fa7fe31562030d669a2adf08780325aeb917b0",
+    "sha512": "5a246a2ca2369525581a31b82d3e497f33cb6636f669ab2e957165dc08c89ff977dd8e982d687db3e545ed22a07a6df6fea5c7da09ddcc2380232d92525218c7",
+    "size": 4086814,
+    "ids": [
+      "moresnifferflowers"
+    ],
+    "name": "More Sniffer Flowers",
+    "version": "6.8",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/DbriYWc8/versions/zfVnstAD/MoreSnifferFlowers-1.21.1-neo-6.8.jar",
+    "modrinth": {
+      "mod-id": "DbriYWc8",
+      "version": "zfVnstAD"
+    }
+  },
+  {
+    "filename": "[更好的F3] BetterF3-11.0.3-NeoForge-1.21.1.jar",
+    "sha256": "1a97b6ca5c81b3b18d653f403929908e3b48bb1bdb6e8bd8559f89cf0294dc26",
+    "sha512": "59c36a882669399dce2110db42df05e8fe935a2e1194c4bac49abffc3129b2e19373dfe3c4a3d2f8b22f21b1d66ad8cbd653944ce0a71ae05d3d65528d1b7514",
+    "size": 481646,
+    "ids": [
+      "betterf3"
+    ],
+    "name": "BetterF3",
+    "version": "11.0.3",
+    "side": "client",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/8shC1gFX/versions/maXNB1dn/BetterF3-11.0.3-NeoForge-1.21.1.jar",
+    "modrinth": {
+      "mod-id": "8shC1gFX",
+      "version": "maXNB1dn"
+    }
+  },
+  {
+    "filename": "[更好的攀爬] better_climbing-neoforge-4.jar",
+    "sha256": "5b3467bab819272eebea599410e940736d302f18332097e9a2d34193b4189b80",
+    "sha512": "ad1f5603a6f401f4e6ac4e911a002cc3121b7f41e0224e8fb5ea1555b9560ef64795b81aa5d1bad2fa03a7302776fa88767a12dc79b2aa32749ead91eeed5ec4",
+    "size": 7127,
+    "ids": [
+      "better_climbing"
+    ],
+    "name": "Better Climbing",
+    "version": "4",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/ZucWZEBV/versions/RJgDIKSn/better_climbing-neoforge-4.jar",
+    "modrinth": {
+      "mod-id": "ZucWZEBV",
+      "version": "RJgDIKSn"
+    }
+  },
+  {
+    "filename": "[机械动力：交错电网] powergrid-mc1.21.1-0.6.2.jar",
+    "sha256": "e40d67a874431925d502af88e85064883c67936cfd689033d7df560cffcf19e7",
+    "sha512": "60307e23a27526d22bf753d387edef5a2f2a063a04a47b69e98b7f71bbad32fdf17e05f9838008e47a5999a60e5e77a91f0695215d0ab57694f0034fde9873ca",
+    "size": 5738480,
+    "ids": [
+      "powergrid"
+    ],
+    "name": "Create: Power Grid",
+    "version": "0.6.2",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/eWiBLJ9R/versions/jCkPHjmP/powergrid-mc1.21.1-0.6.2.jar",
+    "modrinth": {
+      "mod-id": "eWiBLJ9R",
+      "version": "jCkPHjmP"
+    }
+  },
+  {
+    "filename": "[机械动力：伪装方块+] copycats-3.0.11+mc.1.21.1-neoforge.jar",
+    "sha256": "eab9c71e0cc133c38f1063fc9c892599207240a1f0559ce1e3ecddc4ad7aa759",
+    "sha512": "2487a341060483e670a9fe5f5b4994470c6a9b048c7be061451f859b1861eae4cd15dc75e693a4588942b7c07f56f67b689c8fc8a99de93cc8cf531536684c84",
+    "size": 1805121,
+    "ids": [
+      "copycats"
+    ],
+    "name": "Create: Copycats+",
+    "version": "3.0.11+mc.1.21.1-neoforge",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/zLlVJXf0/copycats-3.0.11%2Bmc.1.21.1-neoforge.jar",
+    "modrinth": {
+      "mod-id": "UT2M39wf",
+      "version": "zLlVJXf0"
+    }
+  },
+  {
+    "filename": "[机械动力：动力刷怪笼] create_mechanical_spawner-1.21.1-1.3.2-6.0.10.jar",
+    "sha256": "f963b0a4e450484b36ec0b5d529fa7f32527dcc60ec93261ceef5c056f0a9134",
+    "sha512": "d7ec9b66a9461258bdfcf739bf46c151c78d8dbee2c8b839b14294af5d22b5e7cc39649b435440bc200ca87c863aa188c76e17d45d062818a0e55270d3e6f30c",
+    "size": 1215649,
+    "ids": [
+      "create_mechanical_spawner"
+    ],
+    "name": "Create: Mechanical spawner",
+    "version": "1.3.1-6.0.10",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/T1hmeGi9/versions/k7Fepzl4/create_mechanical_spawner-1.21.1-1.3.2-6.0.10.jar",
+    "modrinth": {
+      "mod-id": "T1hmeGi9",
+      "version": "k7Fepzl4"
+    }
+  },
+  {
+    "filename": "[机械动力：更快的蓝图加农炮] CreateFastSchematicCannon-2.6.1-neoforge-1.21.1.jar",
+    "sha256": "6d5ea8f1a7db565baf8d5ab8823fdbb25ed6cd0e47f028ac6c820c1ad993fd07",
+    "sha512": "43488e4adc9ec92f9914bd11f10251861850adbffa3e803fdb98f671d65324aa4de72da65a3ece370da272031fcb11683418dddb6f85f6349930e6dce1f7914f",
+    "size": 73994,
+    "ids": [
+      "createfastschematiccannon"
+    ],
+    "name": "Create: Fast Schematic Cannon",
+    "version": "2.6.1-neoforge",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/DebMSCVn/versions/bG6IJw6J/CreateFastSchematicCannon-2.6.1-neoforge-1.21.1.jar",
+    "modrinth": {
+      "mod-id": "DebMSCVn",
+      "version": "bG6IJw6J"
+    }
+  },
+  {
+    "filename": "[机械动力：柴油动力] createdieselgenerators-1.21.1-1.3.16.jar",
+    "sha256": "e04eba6ea9b959f0e8fdfe2aeceafd445ccd777a0a0e5aacd011123d49cdffcd",
+    "sha512": "af43bdbceb4b3443833ee8e97ff7b516516c3bd785efb7e4fd6befb436f65964e53ead3bec77a45ef86ebb2d8057f9cd6c85fda2eff87707c2c7becd0e3c85fb",
+    "size": 3155795,
+    "ids": [
+      "createdieselgenerators"
+    ],
+    "name": "Create Diesel Generators",
+    "version": "1.21.1-1.3.16",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/ZM3tt6p1/versions/yzsE99E2/createdieselgenerators-1.21.1-1.3.16.jar",
+    "modrinth": {
+      "mod-id": "ZM3tt6p1",
+      "version": "yzsE99E2"
+    }
+  },
+  {
+    "filename": "[机械动力：生物科技] create_biotech-1.21.1-2.0.0.jar",
+    "sha256": "29d16438e5953017e56523336eca6b9d7e1759764ad1dac3e2e279356e52eba7",
+    "sha512": "a1b70508a54a33ca1c4f91f125b79d6fab8ecf441c8d0e1171f48a3b265873f623d674096201951732670be05ed9b78e32e7ada4aeecbdd6e125e5db32e4a188",
+    "size": 8344535,
+    "ids": [
+      "create_biotech"
+    ],
+    "name": "Create: Biotech",
+    "version": "2.0.0",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/UW0IjVT0/versions/HwFFLGrz/create_biotech-1.21.1-2.0.0.jar",
+    "modrinth": {
+      "mod-id": "UW0IjVT0",
+      "version": "HwFFLGrz"
+    }
+  },
+  {
+    "filename": "[机械动力：电力学] electroenergetics-1.21.1-1.1.4.jar",
+    "sha256": "2362decf60ace66037eb2ae79f34fed57b5f152e0435164f5f91912ea837052f",
+    "sha512": "022ba387a614954942f45e613807d8416692dc91f808ab6420fd36981d547747b6b8d38802e40161991fd95ebe2502e91197b57fdc629fe2fbb50c4fb7375de0",
+    "size": 4774719,
+    "ids": [
+      "electroenergetics"
+    ],
+    "name": "Create Electro Energetics",
+    "version": "1.21.1-1.1.4",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/qYJdIoAx/versions/ZMfRgLy5/electroenergetics-1.21.1-1.1.4.jar",
+    "modrinth": {
+      "mod-id": "qYJdIoAx",
+      "version": "ZMfRgLy5"
+    }
+  },
+  {
+    "filename": "[机械动力：齿轮与麦穗] create_ratatouille-1.21.1-1.4.0.jar",
+    "sha256": "718725af78207805901df06f5dbcbf5f5f30fb6def1795b07ff0b60c653df194",
+    "sha512": "4d8b5a1430e5001e6d055f836a5de8cfb6454496d992403a06f092f90f9bdec485171c4577c1551b4d5d6356f35013bd76a6e14eb27c406cbb5a8c392c1c9cd1",
+    "size": 918946,
+    "ids": [
+      "ratatouille"
+    ],
+    "name": "Ratatouille",
+    "version": "1.4.0",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/XM0ifg8q/versions/c81IeQl2/create_ratatouille-1.21.1-1.4.0.jar",
+    "modrinth": {
+      "mod-id": "XM0ifg8q",
+      "version": "c81IeQl2"
+    }
+  },
+  {
+    "filename": "[森罗厨房：自动化] kaleidoscopecookery_automation-1.0.2.jar",
+    "sha256": "436f81bc8f90e21dcf1a2a43758d9d0e8d4d424a68438a97a7f20cfdea922a2a",
+    "sha512": "56feac3faaa85a5ed3ee89276f3768dab563b4f43553a4938054e6fde2a35606486999017079b0fbcdc0732fc5e0b43f219957f04f4bd60a49bf4d7f99568a7e",
+    "size": 105057,
+    "ids": [
+      "kaleidoscopecookery_automation"
+    ],
+    "name": "KaleidoscopeCookery:Automation",
+    "version": "1.0.2",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/7KEJ7Rz9/versions/IqWk9J0n/kaleidoscopecookery_automation-1.0.2.jar",
+    "modrinth": {
+      "mod-id": "7KEJ7Rz9",
+      "version": "IqWk9J0n"
+    }
+  },
+  {
+    "filename": "[森罗物语：下界] kaleidoscope_nether-1.1.2-neoforge+mc1.21.1.jar",
+    "sha256": "4698b09f9a3edd84ab37a9506c3b88c7b59e947b21ae894c477998421335ffb6",
+    "sha512": "48245dcbfa03f1996f90f9d182f383605932a85a1e593bcf37c8814ae66335d25abb5c7f793bb4d0b2c37ec7ae5c0eb005dae57eed44c8231a57c9165f1682fa",
+    "size": 1018826,
+    "ids": [
+      "kaleidoscope_nether"
+    ],
+    "name": "Kaleidoscope Nether",
+    "version": "1.1.2-neoforge+mc1.21.1",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/O4YuhMsI/versions/PpoOMArg/kaleidoscope_nether-1.1.2-neoforge%2Bmc1.21.1.jar",
+    "modrinth": {
+      "mod-id": "O4YuhMsI",
+      "version": "PpoOMArg"
+    }
+  },
+  {
+    "filename": "[森罗物语：兼容] kaleidoscope_compat-2.9.7-neoforge+mc1.21.1-Patch.2.jar",
+    "sha256": "9876abc5bba1eaa06ea0c4ef140d1eb3b5a8fe9fa17150392a63e0449bc9eb34",
+    "sha512": "c7aeb8c26cf8d27dafd7dc418a84818d90c369d89924a59657cb09a5b054db563b9b0dbc2443ed528aef5187023499901ec0a61939df36a90e27aa09cff9a660",
+    "size": 1379264,
+    "ids": [
+      "kaleidoscope_compat"
+    ],
+    "name": "Kaleidoscope Compat",
+    "version": "2.9.7-neoforge+mc1.21.1",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/Xm1eP54z/versions/K9qzZOOA/kaleidoscope_compat-2.9.7-neoforge%2Bmc1.21.1-Patch.2.jar",
+    "modrinth": {
+      "mod-id": "Xm1eP54z",
+      "version": "K9qzZOOA"
+    }
+  },
+  {
+    "filename": "[森罗物语：动态结构] kaleidoscope_contraption-1.0.4.jar",
+    "sha256": "015f0549001d8a34c9d04ba6ab0aa2e1bf9c60d34a4c440cd7932dba36cecaa4",
+    "sha512": "6c164a09d1c97c61c8d35d37a70fbcecfbac7854b4086724898c7b38a91e3a53d4612a7f3e2cda6e2a2d29927c211c6e5ad9e9ef525d8c07b6a7dda9a433f963",
+    "size": 475067,
+    "ids": [
+      "kaleidoscope_contraption"
+    ],
+    "name": "Kaleidoscope Contraption",
+    "version": "1.0.4",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/JCCAvv9N/versions/6ugJY3s7/kaleidoscope_contraption-1.0.4.jar",
+    "modrinth": {
+      "mod-id": "JCCAvv9N",
+      "version": "6ugJY3s7"
+    }
+  },
+  {
+    "filename": "[森罗物语：厨房] kaleidoscopecookery-1.7.0-neoforge+mc1.21.1.jar",
+    "sha256": "49f61b54e38298d90bccd22d23af4ae2a43a5c260c97f2c90941845f11bd0aff",
+    "sha512": "426dcca05c564c1235caf90382222d76bedfe82bc788ac744b16025808d8192899f9b33db1425b5e083c73851428edd7ed02a3212f687c7f309f0a2ce56ea2cf",
+    "size": 3696498,
+    "ids": [
+      "kaleidoscope_cookery"
+    ],
+    "name": "Kaleidoscope Cookery",
+    "version": "1.7.0-neoforge+mc1.21.1",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/v17FatAc/versions/COtTVhOl/kaleidoscopecookery-1.7.0-neoforge%2Bmc1.21.1.jar",
+    "modrinth": {
+      "mod-id": "v17FatAc",
+      "version": "COtTVhOl"
+    }
+  },
+  {
+    "filename": "[森罗物语：末地] kaleidoscope_end-1.1.2-neoforge+mc1.21.1.jar",
+    "sha256": "14caedaed01b5e2f49258fd6d296330ad73039590df29e18294c3e75b7931fe8",
+    "sha512": "42c50a817206a68d15a0b5de14ec174a02c52179669a4a692f29d4aa6ffa57bb5d1dddc10726ebba1470f966035827897848bf63cdca81dfe57359e012880713",
+    "size": 485655,
+    "ids": [
+      "kaleidoscope_end"
+    ],
+    "name": "Kaleidoscope End",
+    "version": "1.1.2-neoforge+mc1.21.1",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/8GKUHBM6/versions/19ZH5NDe/kaleidoscope_end-1.1.2-neoforge%2Bmc1.21.1.jar",
+    "modrinth": {
+      "mod-id": "8GKUHBM6",
+      "version": "19ZH5NDe"
+    }
+  },
+  {
+    "filename": "[森罗物语：玩偶] kaleidoscopedoll-1.4.2-neoforge+mc1.21.1.jar",
+    "sha256": "f802743a879892b7d62210e43a1f25f46e7f4f94852ff1b531d8affb23da2951",
+    "sha512": "87d3db8e6b8fded00d72d81c9b7ee07bed2009937dbce8a6c0b34799caefffedd21db9c08fe504acf30fa77d8b7b6f28e804d46fa43ce23ec7dc553f49f89e87",
+    "size": 3744886,
+    "ids": [
+      "kaleidoscope_doll"
+    ],
+    "name": "Kaleidoscope Doll",
+    "version": "1.4.2-neoforge+mc1.21.1",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/vQLjjxNs/versions/iRKxsLXR/kaleidoscopedoll-1.4.2-neoforge%2Bmc1.21.1.jar",
+    "modrinth": {
+      "mod-id": "vQLjjxNs",
+      "version": "iRKxsLXR"
+    }
+  },
+  {
+    "filename": "[火花] spark-1.10.124-neoforge.jar",
+    "sha256": "647e8a81afbe414dba1df4ba15fd06c5d32d4cb544e68828405e8e074c2e16db",
+    "sha512": "f86ce34f2759c69df82578c397ff55b666c84626229a98f598458b960c21b38c95d6bfef4772af7f963c4f4868e5e2d9aef6b99c1d51bab55bf45e0e6e6b5ed4",
+    "size": 3642581,
+    "ids": [
+      "spark"
+    ],
+    "name": "spark",
+    "version": "1.10.124",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/v5qtqRQi/spark-1.10.124-neoforge.jar",
+    "modrinth": {
+      "mod-id": "l6YH9Als",
+      "version": "v5qtqRQi"
+    }
+  },
+  {
+    "filename": "[烟花苦力怕] CreeperFirework-neoforge-2.2.0.jar",
+    "sha256": "f047bbfaab90995c51311464d9a277008d92c3689be26cc2400f28aef813a760",
+    "sha512": "776ced2fc04d52e2617c1a0cae56acafcb9b61a85ff3793b6a26e55509c5ce309c607447fe8b632ff48e39e281b2b673d58f4093dc2895b3d6f6f524179f2bd7",
+    "size": 41106,
+    "ids": [
+      "creeper_firework"
+    ],
+    "name": "Creeper Firework",
+    "version": "2.2.0",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/owUiXPam/versions/OwxZJkGR/CreeperFirework-neoforge-2.2.0.jar",
+    "modrinth": {
+      "mod-id": "owUiXPam",
+      "version": "OwxZJkGR"
+    }
+  },
+  {
+    "filename": "[犀牛] rhino-2101.2.8-build.91.jar",
+    "sha256": "1d53d962aa4dac54bcbb4f998c1845980cf194318f1d6b1580ea6ac15cce5ef3",
+    "sha512": "e3d92f663bc07872a83b0a6474b30a75230e9f92a2844fd98da1842ec9a79712bcb7d8e76574cc11ae3aeceb47f2933c60ddd6cf41f3ad7027bd573623730945",
+    "size": 980936,
+    "ids": [
+      "rhino"
+    ],
+    "name": "Rhino",
+    "version": "2101.2.8-build.91",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/sk9knFPE/versions/SqkDvOLG/rhino-2101.2.8-build.91.jar",
+    "modrinth": {
+      "mod-id": "sk9knFPE",
+      "version": "SqkDvOLG"
+    }
+  },
+  {
+    "filename": "[简单的语音聊天] voicechat-neoforge-1.21.1-2.6.22.jar",
+    "sha256": "63116a4d21bd57221482d971dd85822f7c723c210b60411670cdb0aa26873cac",
+    "sha512": "309e3b18e299b2bccf9128dbb05c2603a9860f7cd68858d23f8fdb8265ea85ec7fb1655c95b87c0a9522ae1fd6380b26e4a4c31207f9c7af80870fcc6207abad",
+    "size": 4918442,
+    "ids": [
+      "voicechat",
+      "voicechat_api"
+    ],
+    "name": "Simple Voice Chat / Simple Voice Chat API",
+    "version": "1.21.1-2.6.22 / 2.6.20",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/2s7zUspF/voicechat-neoforge-1.21.1-2.6.22.jar",
+    "modrinth": {
+      "mod-id": "9eGKb6K1",
+      "version": "2s7zUspF"
+    }
+  },
+  {
+    "filename": "[绷带] hotai-2.0.jar",
+    "sha256": "14e2af94e0e60a005090de6b2621c717e4108ff3db8a4b3576858abd3463ba38",
+    "sha512": "0915e4aaf735cf930329ecf5c1c73f2f2b7f4fac048e5a7d736b813c7872fbb68a4c63232b61ca054017fe77e24bc03c76a8113930be1e3bb031926448fc44ef",
+    "size": 137100,
+    "ids": [
+      "hotai"
+    ],
+    "name": "hotai",
+    "version": "2.0",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://mediafilez.forgecdn.net/files/5802/32/hotai-2.0.jar",
+    "modrinth": null
+  },
+  {
+    "filename": "[网络音乐机] netmusic-1.5.2-neoforge+mc1.21.1.jar",
+    "sha256": "731fba4b4d47256d5f44f8392b093b53c7d1c650b66111eda75b820f7f89a14b",
+    "sha512": "bc4100b08757b3c3f50df8a0c05812bf564900ddfa17cc81749c42fc0653f5346f84685206b87447548d16311fe666a92b568e02a57239ecfc624c595357f33d",
+    "size": 1472596,
+    "ids": [
+      "netmusic"
+    ],
+    "name": "Net Music Mod",
+    "version": "1.5.2-neoforge+mc1.21.1",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/gKNuqaQq/versions/ePPjVRpW/netmusic-1.5.2-neoforge%2Bmc1.21.1.jar",
+    "modrinth": {
+      "mod-id": "gKNuqaQq",
+      "version": "ePPjVRpW"
+    }
+  },
+  {
+    "filename": "[自然罗盘／生物群系指南针] NaturesCompass-1.21.1-3.4.0-neoforge.jar",
+    "sha256": "0e249ac11b2f916c5570d9679e188da652fa5664ba9cdb7be5dc9ff69497539c",
+    "sha512": "5314b536bcb9a594a9cf2bbd46c82468d17e1559bd6c00da9d91e96c0814f50416799a011705f0d184bd731dac3f03dec009c76fea3d02b3556a6013f9649014",
+    "size": 224657,
+    "ids": [
+      "naturescompass"
+    ],
+    "name": "Nature's Compass",
+    "version": "1.21.1-3.4.0-neoforge",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/fPetb5Kh/versions/nFniEtJV/NaturesCompass-1.21.1-3.4.0-neoforge.jar",
+    "modrinth": {
+      "mod-id": "fPetb5Kh",
+      "version": "nFniEtJV"
+    }
+  },
+  {
+    "filename": "[苹果皮] appleskin-neoforge-mc1.21-3.0.9.jar",
+    "sha256": "38b48dd6231341c9f964ce6e42c57ec866c6cc8f72bec938390a59bafb3922df",
+    "sha512": "f4ea46273e407334b63e262e2555c9a8204f7b5e60f23f272fbaa83ad9e88800e0ee186aca840710df2dbe0a18b37758695fef2ae1a902c10b3706e3de772937",
+    "size": 75804,
+    "ids": [
+      "appleskin"
+    ],
+    "name": "AppleSkin",
+    "version": "${file.jarVersion}",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/uAKA6Laj/appleskin-neoforge-mc1.21-3.0.9.jar",
+    "modrinth": {
+      "mod-id": "EsAfCjCV",
+      "version": "uAKA6Laj"
+    }
+  },
+  {
+    "filename": "[试验假人] dummmmmmy-1.21-2.1.2-neoforge.jar",
+    "sha256": "eaece070b290e8399d97dfd01f8e4c0d8da5772efe50d97c99343e35b116cb67",
+    "sha512": "822fb8cfb22fb64893f3ac9000e6c68f49ffdc2816161bca7b06db6b51d0e6839f2a20ce36cb36518519ec01a04f4f852fe8c253da3020836f99f8bf4fa55609",
+    "size": 215883,
+    "ids": [
+      "dummmmmmy"
+    ],
+    "name": "MmmMmmMmmMmm",
+    "version": "1.21-2.1.2",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/Adega8YN/versions/DldwQTMc/dummmmmmy-1.21-2.1.2-neoforge.jar",
+    "modrinth": {
+      "mod-id": "Adega8YN",
+      "version": "DldwQTMc"
+    }
+  },
+  {
+    "filename": "[通用拼音搜索] jecharacters-1.21.1-neoforge-4.5.30.jar",
+    "sha256": "1b8e41c97fe4bc3b569475c2adb1351a38547e25bfda322a6ab80e44efd992e1",
+    "sha512": "e30efe9687d36db5815d5aed7bbe8a143f15e8113310668985d0f26f279096606555e2c58765be56d8af2daa5a324c6db38696ea5933c78f6e29280aab6db3cc",
+    "size": 255428,
+    "ids": [
+      "jecharacters"
+    ],
+    "name": "Just Enough Characters",
+    "version": "4.5.30",
+    "side": "client",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/I7k4B65h/versions/iNnJuUnx/jecharacters-1.21.1-neoforge-4.5.30.jar",
+    "modrinth": {
+      "mod-id": "I7k4B65h",
+      "version": "iNnJuUnx"
+    }
+  },
+  {
+    "filename": "[鈇] flerovium-neoforge-1.21.1-1.1.2-all.jar",
+    "sha256": "2274b5c3e66cda6958b17a968ef8e6ef8710ff8a0a8bb99050fb5a167ba07928",
+    "sha512": "6301ea6991768832fa983f61e1b0574336aea4920e027632a3df93c8a10f5d87041876fad516d16827d9cd13a84b5a8c334c1a0076ca04121e321939d5d6ea52",
+    "size": 182579,
+    "ids": [
+      "flerovium"
+    ],
+    "name": "Flerovium",
+    "version": "1.1.2",
+    "side": "client",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/4Rh1Mobu/versions/oU1q3eIj/flerovium-neoforge-1.21.1-1.1.2-all.jar",
+    "modrinth": {
+      "mod-id": "4Rh1Mobu",
+      "version": "oU1q3eIj"
+    }
+  },
+  {
+    "filename": "[钌] ruok-neoforge_1.21.1_Pre-Release_5-1.7.4.jar",
+    "sha256": "bed7f62a66ac8ffcddb6605f1e1e9fdca23ea49d58eb33d24b28be9abf0b085d",
+    "sha512": "303d212150f67fa66ae116a75b55a60be6db2de064989146ca228d590834ba708d19714c50a2c5c89b101bb3f73dd9baa857db72885eb0d1513b11d0d86ac766",
+    "size": 444850,
+    "ids": [
+      "ruokmod"
+    ],
+    "name": "RuOK Mod",
+    "version": "1.7.4",
+    "side": "client",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://mediafilez.forgecdn.net/files/7621/820/ruok-neoforge_1.21.1_Pre-Release_5-1.7.4.jar",
+    "modrinth": null
+  },
+  {
+    "filename": "[钠 · 扩展] sodium-extra-neoforge-0.9.5+mc1.21.1.jar",
+    "sha256": "37c33efdee16fc515392fd422b6ec8769cbc1079f6a2eb6cff2072411d511faf",
+    "sha512": "1f213565e110e39a3e70ce5327f31448b301d2365f7ea281e06535169fd088f7d635370db7417adc927b1278eaefd75c77def7519395408ed0f86f6be240c076",
+    "size": 483373,
+    "ids": [
+      "sodium_extra"
+    ],
+    "name": "Sodium Extra",
+    "version": "0.9.5+mc1.21.1",
+    "side": "client",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/T819dLGI/sodium-extra-neoforge-0.9.5%2Bmc1.21.1.jar",
+    "modrinth": {
+      "mod-id": "PtjYWJkn",
+      "version": "T819dLGI"
+    }
+  },
+  {
+    "filename": "[钠] sodium-neoforge-0.8.13+mc1.21.1.jar",
+    "sha256": "575d187b15328d7bddd8a9b1bee64333c22c14735f5780ec49eac0cd5503c08d",
+    "sha512": "4f537696af95411e9daf15795fb5fcbc49913d488a96fa912fa8f1d7db408710995e8a1461190f3cd0f8217bf9e35e9539176592428ed587ca2d7aa84450a390",
+    "size": 1292934,
+    "ids": [
+      "sodium"
+    ],
+    "name": "Sodium",
+    "version": "0.8.13+mc1.21.1",
+    "side": "client",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/uMOpc5uV/sodium-neoforge-0.8.13%2Bmc1.21.1.jar",
+    "modrinth": {
+      "mod-id": "AANobbMI",
+      "version": "uMOpc5uV"
+    }
+  },
+  {
+    "filename": "[铁氧体磁芯] ferritecore-7.0.3-neoforge.jar",
+    "sha256": "d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8",
+    "sha512": "19af89a2075bb10a63884fa853ebf84b02c79dc3242430ecdad056fd764fdcde367a7303276b329df01b0736e2ef264c5d80c7dc92c6aebd244f556a230bb417",
+    "size": 121559,
+    "ids": [
+      "ferritecore"
+    ],
+    "name": "Ferrite Core",
+    "version": "7.0.3",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/x7kQWVju/ferritecore-7.0.3-neoforge.jar",
+    "modrinth": {
+      "mod-id": "uXXizFIs",
+      "version": "x7kQWVju"
+    }
+  },
+  {
+    "filename": "aeroworks-1.5.0.jar",
+    "sha256": "30bad4bf907ee5ae2849de163634cf9a5bc8507bb4b12d7d291c59f3265d7bad",
+    "sha512": "5f42a42ffe2a5b910317939f2602b5ab1605cfe5685fa499852060dea757a45ab9e346a3821e8c0e5801844112e4645d891158b3871d7e34e4facd66ad686b3a",
+    "size": 790152,
+    "ids": [
+      "aeroworks"
+    ],
+    "name": "Create: Aeroworks",
+    "version": "1.5.0",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://mediafilez.forgecdn.net/files/8743/51/aeroworks-1.5.0.jar",
+    "modrinth": null
+  },
+  {
+    "filename": "AlwaysEat-neoforge-1.0.0.jar",
+    "sha256": "ed6b9bfedaddb5c15c592a83af9a4c76815d94fd70718718be1722a34e5f93ed",
+    "sha512": "7793bb497f0acfbc1eb3e5d4748036b52c5673e1db5ba736841bb2d8395cc78de52bfdc61fd6155524d36f2e402b260dd85e23b61382981adee49917987f30a8",
+    "size": 5036,
+    "ids": [
+      "always_eat"
+    ],
+    "name": "Always Eat",
+    "version": "1.0.0",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/yasvseig/versions/8qtPbGnq/AlwaysEat-neoforge-1.0.0.jar",
+    "modrinth": {
+      "mod-id": "yasvseig",
+      "version": "8qtPbGnq"
+    }
+  },
+  {
+    "filename": "anvilcraft-neoforge-1.21.1-1.6.0+snapshot.2980.jar",
+    "sha256": "cdd729ae8eaffa5e476b2ef04395212a7711c9054b362f00f41195c22cc9a04a",
+    "sha512": "df106219d42fbb69e20e1b3fca0cc79f886dbeeb6cf1b01ac9d48a4c15fc2f4e7ff2bd982c0aeaa043e48bb831389d29c069865edcee4d26af153de4b7b41f84",
+    "size": 31959700,
+    "ids": [
+      "anvilcraft"
+    ],
+    "name": "AnvilCraft",
+    "version": "1.6.0+snapshot.2980",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/vuISAWPc/versions/6Rlm3o6b/anvilcraft-neoforge-1.21.1-1.6.0%2Bsnapshot.2980.jar",
+    "modrinth": {
+      "mod-id": "vuISAWPc",
+      "version": "6Rlm3o6b"
+    }
+  },
+  {
+    "filename": "anvilcraft_create_addition-neoforge-1.21.1-1.0.0+snapshot.15.jar",
+    "sha256": "e3ac4f119ad5166ec519e9eda6d195994bc8667f12091782b9ba5dda468b7247",
+    "sha512": "764b915a7e8a2f963c6dfaaca71080c418892a25dcf582c7faa8200eb9e61bfd236398c327ecd8ff537fa0217b76f54e6bb3995b43741311e1f40d20f2684fd0",
+    "size": 213665,
+    "ids": [
+      "anvilcraft_create_addition"
+    ],
+    "name": "AnvilCraft: Create Addition",
+    "version": "1.0.0+snapshot.15",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://mediafilez.forgecdn.net/files/9048/702/anvilcraft_create_addition-neoforge-1.21.1-1.0.0%2Bsnapshot.15.jar",
+    "modrinth": null
+  },
+  {
+    "filename": "architectury-13.0.12-neoforge.jar",
+    "sha256": "aa558d884c9d35399bf5471e042d6be30c32e4a1cf0a5d06a4480ad49dba3ac0",
+    "sha512": "286127f99708d1e2723e1dcc9104ebcab258f04db92040fc2394e5b7faf36d731ef3b84e592d94ec0d0f7f899eca84f806b1e012223da4894d4d8af5030ffe0f",
+    "size": 584731,
+    "ids": [
+      "architectury"
+    ],
+    "name": "Architectury",
+    "version": "13.0.12",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/xGfBrBzj/architectury-13.0.12-neoforge.jar",
+    "modrinth": {
+      "mod-id": "lhGA9TYQ",
+      "version": "xGfBrBzj"
+    }
+  },
+  {
+    "filename": "azimuth-1.4.10.jar",
+    "sha256": "e9f56d10a6ae56c8d02d2e9e1668c7b70d545d8e20cf4972f0710e9b01989d8a",
+    "sha512": "29d2ee1b146d91047bc265a4902d43c20a825005921aeb9c7c4e96be0ae880b1bc842ca5e2b9c607dc46bede744ab023dc5ba8876ac8892f06d3550637819349",
+    "size": 143818,
+    "ids": [
+      "azimuth"
+    ],
+    "name": "Azimuth",
+    "version": "1.4.10",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/RpH8tmT1/versions/dxtZVosY/azimuth-1.4.10.jar",
+    "modrinth": {
+      "mod-id": "RpH8tmT1",
+      "version": "dxtZVosY"
+    }
+  },
+  {
+    "filename": "better-advanced-tooltips-2101.1.0-build.5.jar",
+    "sha256": "0f76d46f2f18eb67e67c7974170d7b27deb66473396461c8dc50d6949de1449b",
+    "sha512": "05b5cdad948d1735eab7a67a16aaf32814678c392014ec2ada61b8341c0ed1c1ac181cab1de9da3f2c4632592f4a1a5db254bd0543e6778897c8ccd260894142",
+    "size": 37653,
+    "ids": [
+      "betteradvancedtooltips"
+    ],
+    "name": "Better Advanced Tooltips",
+    "version": "2101.1.0-build.5",
+    "side": "client",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/iHLDc0eo/versions/uPFbnD32/better-advanced-tooltips-2101.1.0-build.5.jar",
+    "modrinth": {
+      "mod-id": "iHLDc0eo",
+      "version": "uPFbnD32"
+    }
+  },
+  {
+    "filename": "bits_n_bobs-2.3.5.jar",
+    "sha256": "3e1647383c6ed1d629b6f20210179d5870bcbf8ba2a2a0ec58af69b53513db68",
+    "sha512": "33aaa835f1b1774a2b2f14ed6015efdf47a5b3827e702814c651ccde08ef5fda7572f6734c3b0f136795b45972a153c8dfe330df708b6487e58e18a29c689cb8",
+    "size": 2433531,
+    "ids": [
+      "bits_n_bobs"
+    ],
+    "name": "Create Bits 'n' Bobs",
+    "version": "2.3.5",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/T8bvmqVZ/versions/g9Lmjjc5/bits_n_bobs-2.3.5.jar",
+    "modrinth": {
+      "mod-id": "T8bvmqVZ",
+      "version": "g9Lmjjc5"
+    }
+  },
+  {
+    "filename": "civillis-neoforge-2.0.1-release+mc1.21.1.jar",
+    "sha256": "54af17b71061e5b161cd528d1b95874bedd44502668ad0803a28d5afb3cf0957",
+    "sha512": "e9fe54f0ed70f31ca2f2a4728a4caec61877c290ace284865643a019b03aea4deb1aa5d242d072943b5e4770c616cfcf86d15ab060808c0fbc8cb6cd1e0dfd26",
+    "size": 747112,
+    "ids": [
+      "civil"
+    ],
+    "name": "Civillis",
+    "version": "2.0.1-release",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/Dx2SPPEi/versions/VSlynytd/civillis-neoforge-2.0.1-release%2Bmc1.21.1.jar",
+    "modrinth": {
+      "mod-id": "Dx2SPPEi",
+      "version": "VSlynytd"
+    }
+  },
+  {
+    "filename": "clientsort-neoforge-3.89.2+1.21.1.jar",
+    "sha256": "de14d1671e25b5446b7a9cd17f3693202ddb78351675d166e2723cbeef7c27e7",
+    "sha512": "64fbd0f381e01c698569c1e292c6aa0699c3c685eca824124f674d03aaebc55bda5c879864061809dfdbc89fd2203c166f719edcb811a6b3cf71a9480647b589",
+    "size": 353091,
+    "ids": [
+      "clientsort"
+    ],
+    "name": "ClientSort",
+    "version": "3.89.2",
+    "side": "client",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/K0AkAin6/versions/2c4hM8Ut/clientsort-neoforge-3.89.2%2B1.21.1.jar",
+    "modrinth": {
+      "mod-id": "K0AkAin6",
+      "version": "2c4hM8Ut"
+    }
+  },
+  {
+    "filename": "cloth-config-15.0.140-neoforge.jar",
+    "sha256": "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4",
+    "sha512": "aaf9b010955b8cd294e5a92f069985b18729fd5e2cf22d351f1dff9680f15488688803ec41e77e941cbde130ceb535014ca4c868047d80ab69c2d508e216654d",
+    "size": 1163890,
+    "ids": [
+      "cloth_config"
+    ],
+    "name": "Cloth Config v15 API",
+    "version": "15.0.140",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/izKINKFg/cloth-config-15.0.140-neoforge.jar",
+    "modrinth": {
+      "mod-id": "9s6osm5g",
+      "version": "izKINKFg"
+    }
+  },
+  {
+    "filename": "colorwheel-neoforge-1.3.2+mc1.21.1.starlight.jar",
+    "sha256": "6f881290ff7f71e36bba189d87c31fb104c668f01aac19ac0d003fac3cc1cd5f",
+    "sha512": "235137566db5f245b27f6db73153d1dac3f40286dc353e2dc7541c5c080ba08e6bb2b94cf0f71248e5b7c182efb84366a23d55e4dc7af90c076473dce60a005f",
+    "size": 515142,
+    "ids": [
+      "colorwheel"
+    ],
+    "name": "Colorwheel",
+    "version": "1.3.2+mc1.21.1",
+    "side": "client",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/BzHgFoGz/versions/lV874ox8/colorwheel-neoforge-1.3.2%2Bmc1.21.1.jar",
+    "modrinth": {
+      "mod-id": "BzHgFoGz",
+      "version": "lV874ox8"
+    }
+  },
+  {
+    "filename": "colorwheel_patcher-neoforge-1.0.5+mc1.21.1.starlight.jar",
+    "sha256": "2285a5154739d2e9889d979e3bdf54104b56d7966dac8d43367305e5aaedcce8",
+    "sha512": "902bca40ac980f4aab2564d64cf47a698b18f44234f9757c9125f755f9890d3350ca4e28e25e601ea8031139cab5b6bf897298bc4033e39ef86c9d7054705cb2",
+    "size": 210569,
+    "ids": [
+      "colorwheel_patcher"
+    ],
+    "name": "Colorwheel Patcher",
+    "version": "1.0.5+mc1.21.1",
+    "side": "client",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/KPsw5jDu/versions/dQqV3sci/colorwheel_patcher-neoforge-1.0.5%2Bmc1.21.1.jar",
+    "modrinth": {
+      "mod-id": "KPsw5jDu",
+      "version": "dQqV3sci"
+    }
+  },
+  {
+    "filename": "cr_aero_structures.jar",
+    "sha256": "bd0ce4ae06004482f21491ab26623b99cd0e7e97375c6c6f8f104092eca2b006",
+    "sha512": "08fc053c2fb3186c11ada383427fa04c0367ef2b274afcf06d5786526c9fd1d43347021e34159a46d3411683a44a644406cb7229e8773c0bbd0c4c07b9048cab",
+    "size": 269552,
+    "ids": [
+      "cr_aero_structures"
+    ],
+    "name": "Creat Aeronautics Structures",
+    "version": "1.1.0-Beta-3.1",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/aX7eWKKb/versions/GgCMtS4V/cr_aero_structures.jar",
+    "modrinth": {
+      "mod-id": "aX7eWKKb",
+      "version": "GgCMtS4V"
+    }
+  },
+  {
+    "filename": "create-1.21.1-6.0.10.jar",
+    "sha256": "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a",
+    "sha512": "11cc8fc049d2f67f6548c7abfada6b82a3adb5c7ca410a742de04bbca76e03862c518721b88d806f6e6d768a4d68531fdb903a85859b25d1484d550cc7bafd4b",
+    "size": 19123767,
+    "ids": [
+      "create"
+    ],
+    "name": "Create",
+    "version": "6.0.10",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/LNytGWDc/versions/UjX6dr61/create-1.21.1-6.0.10.jar",
+    "modrinth": {
+      "mod-id": "LNytGWDc",
+      "version": "UjX6dr61"
+    }
+  },
+  {
+    "filename": "create-aeronautics-bundled-1.21.1-1.3.3.jar",
+    "sha256": "f430c52eedc1a20f7458c9f5b07cc212fe90869bd302c69c6dedf7b75a2a5c9f",
+    "sha512": "e28026fd6447b997f2c9b81c1d939094cf26c5c8572c6194b65282106f17257729efaecec670d0f2c84c6d7b2160102b08abb4e5822cf0fc01a4f4c74e5640a8",
+    "size": 33133981,
+    "ids": [
+      "aeronautics_bundled"
+    ],
+    "name": "Create Aeronautics",
+    "version": "1.3.3",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/oWaK0Q19/versions/demX2roU/create-aeronautics-bundled-1.21.1-1.3.3.jar",
+    "modrinth": {
+      "mod-id": "oWaK0Q19",
+      "version": "demX2roU"
+    }
+  },
+  {
+    "filename": "create-enchantment-industry-2.5.4b.jar",
+    "sha256": "0230b4dfa5af59bc91aef6a26f13165aeeec7026969ce39c823fc3d198e2241d",
+    "sha512": "c3d8511f5eec5a4ec7240f69cf6952038d72d4e32b48a0ace7b10d729a4073c1181e6dbcb2f1a1841480e5fc7bc7da3833b8ed4793dd0c3cc057eb8ac488eb3d",
+    "size": 1607432,
+    "ids": [
+      "create_enchantment_industry"
+    ],
+    "name": "Create: Enchantment Industry",
+    "version": "2.5.4b",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/JWGBpFUP/versions/L6VSDdC4/create-enchantment-industry-2.5.4b.jar",
+    "modrinth": {
+      "mod-id": "JWGBpFUP",
+      "version": "L6VSDdC4"
+    }
+  },
+  {
+    "filename": "create-integrated-farming-1.4.4.jar",
+    "sha256": "ed9ee886491a9d42912bda674de5c86827ef097406538dca5eb4ae3f55490f01",
+    "sha512": "0c3dc2f79cb6f8f10c0b2eaf8dda384db4b22d775d7bdc8d9a18397dfa462f342e01e97972d3ba87de12771926f1f78709116da95d7321c94f321cd989a10546",
+    "size": 869542,
+    "ids": [
+      "create_integrated_farming"
+    ],
+    "name": "Create: Integrated Farming",
+    "version": "1.4.4",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/9k1pAsfR/versions/3WTN4xaW/create-integrated-farming-1.4.4.jar",
+    "modrinth": {
+      "mod-id": "9k1pAsfR",
+      "version": "3WTN4xaW"
+    }
+  },
+  {
+    "filename": "create-transit-mc1.21.1-0.2.1.jar",
+    "sha256": "7d79d1ab2b644041d5648ee248483e6624ddac15505c392e985d4e9b8f8d6d50",
+    "sha512": "a5acde65e08605185fe1fce6aa5aa4d37f6f081f49c10b52d867ef93e75ac62bf1a981790b92ed65b74795b02eed4be9f080b09c4aab262efd0f331c5789154b",
+    "size": 315054,
+    "ids": [
+      "create_transit"
+    ],
+    "name": "Create: Transit",
+    "version": "0.2.1",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/TiQAYxVn/versions/Qi2l5Wgg/create-transit-mc1.21.1-0.2.1.jar",
+    "modrinth": {
+      "mod-id": "TiQAYxVn",
+      "version": "Qi2l5Wgg"
+    }
+  },
+  {
+    "filename": "create_aquatic_ambitions-1.21.1-2.0.4.jar",
+    "sha256": "d50180fd30dc7f034ea4ad5185d18cfa652457be1d8e7a45f0b491d0e6642d44",
+    "sha512": "2150402262c8aefed2e4ce2dbf193fddcac61837983ebb7fe0a78d035c33229015033a63ff568fc1cfcf3914b4c5a3b511ebd8b1a8dc6e824a7a1d1639166c12",
+    "size": 1074131,
+    "ids": [
+      "create_aquatic_ambitions"
+    ],
+    "name": "Create Aquatic Ambitions",
+    "version": "2.0.4",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/9SyaPzp7/versions/DoI3PpXj/create_aquatic_ambitions-1.21.1-2.0.4.jar",
+    "modrinth": {
+      "mod-id": "9SyaPzp7",
+      "version": "DoI3PpXj"
+    }
+  },
+  {
+    "filename": "create_connected-1.3.3-mc1.21.1.jar",
+    "sha256": "0c5eb9ffb5c8d71e6e2a39023feb85c51adfb10d38949bc47c4abbd53b351a4f",
+    "sha512": "485675693980a266611669857fa9cd348e2a29140b87bf0a8ab3e13c3591422cceaa36b7a2eb90084d35ec1868c8eec9f924383bb4dada2dddcb72e9f09361b0",
+    "size": 6786783,
+    "ids": [
+      "create_connected"
+    ],
+    "name": "Create: Connected",
+    "version": "1.3.3-mc1.21.1",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/Xe7EqzfQ/create_connected-1.3.3-mc1.21.1.jar",
+    "modrinth": {
+      "mod-id": "Vg5TIO6d",
+      "version": "Xe7EqzfQ"
+    }
+  },
+  {
+    "filename": "create_crystal_industry-1.0.13.jar",
+    "sha256": "cc4b32e587fb6b9ffa01b7e9153ac0af2d2d1d58d63102d6fee3f7968da77a0c",
+    "sha512": "fd2a025a229f4efb907ea018cb32c3af2d52bbddae75bb58c540a83e314050e92d5da76bd8b954302ade845ea1e1a8da656a2bb34c397183a21444b3bbde78e5",
+    "size": 1303204,
+    "ids": [
+      "create_crystal_industry"
+    ],
+    "name": "Create Crystal Industry",
+    "version": "1.0.13",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://mediafilez.forgecdn.net/files/9810/596/create_crystal_industry-1.0.13.jar",
+    "modrinth": null
+  },
+  {
+    "filename": "create_cyber_goggles-neoforge-1.21.1-8.8.4.jar",
+    "sha256": "e1d99cd868614add3ce1d9c86a3339f3a3fd77c2e7fa93dd3046a208246bf199",
+    "sha512": "26f9c7893e1fff40d2d4d77aa4f18817b952ac8a00b13bfd4ac34edbf11b6e808c0086744e68038eb2e605d0943d1f1b906e8976d146fa888dd84665c4afbc1e",
+    "size": 1239380,
+    "ids": [
+      "create_cyber_goggles"
+    ],
+    "name": "Create: Cyber Goggles",
+    "version": "8.8.4",
+    "side": "client",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/TlQAWQCY/versions/n6rRMglY/create_cyber_goggles-neoforge-1.21.1-8.8.4.jar",
+    "modrinth": {
+      "mod-id": "TlQAWQCY",
+      "version": "n6rRMglY"
+    }
+  },
+  {
+    "filename": "create_hand_made-0.7.0-beta.jar",
+    "sha256": "67ccc4893457434bd780470f5ad1c054350647c3bd8a2b0fe87b7c39987f0a34",
+    "sha512": "d6f8e8b50d733e0b4cdeb609a723be73938dbea5d05acd34f7a73e81df81fdf3ed31042b94b1415e83a9606b402031e0ca78a03d9ffe564081943b542d0e73a9",
+    "size": 511576,
+    "ids": [
+      "create_hand_made"
+    ],
+    "name": "Create: Hand Made",
+    "version": "0.7.0-beta",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://mediafilez.forgecdn.net/files/9701/606/create_hand_made-0.7.0-beta.jar",
+    "modrinth": null
+  },
+  {
+    "filename": "create_ltab-4.1.1.jar",
+    "sha256": "46224ada0a0e4f9615d19faf34182b99a9806495605792dbe86893a7a52ec888",
+    "sha512": "4cdf61c00401058517f617f7c18ead3f8f09ce94c2901163a277ce46e5a4fb4d40713c2018043c1d130838d72cb46806a58709596ecf8cf6a610ea84781a510a",
+    "size": 2894670,
+    "ids": [
+      "create_ltab"
+    ],
+    "name": "Create Let The Adventure Begin",
+    "version": "4.1.0",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/fUa6OtBG/versions/BQPhIZA4/create_ltab-4.1.1.jar",
+    "modrinth": {
+      "mod-id": "fUa6OtBG",
+      "version": "BQPhIZA4"
+    }
+  },
+  {
+    "filename": "createbetterfps-1.21.1-1.1.5.jar",
+    "sha256": "13fff8caa3fd6de652d12f8a989180c502bc11009e2a16bb0f89bb47fa57bac3",
+    "sha512": "d98deec79eefb8e0c8ddda7def8a46f4c66402a213da5242f8ff029f43b844e68914fa31af3c8aed646d131ee9bfac3a63032df399b1f76cc99b5c312f32df24",
+    "size": 26542,
+    "ids": [
+      "createbetterfps"
+    ],
+    "name": "CreateBetterFps",
+    "version": "1.1.5",
+    "side": "client",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/lMYIHZNH/versions/dxmPYimo/createbetterfps-1.21.1-1.1.5.jar",
+    "modrinth": {
+      "mod-id": "lMYIHZNH",
+      "version": "dxmPYimo"
+    }
+  },
+  {
+    "filename": "createcobblestone-1.5.1+neoforge-1.21.1-160.jar",
+    "sha256": "2ba64507b1524ffc74f706455bb7bf47e939740683653fab5a62e3a3cabee584",
+    "sha512": "86e87569446e78ac6bd73a8911e7ccbb3c8e97dfcdf1fc5842fc3c90d77f88c0023a207321e6e476d9053e23c7bcc7e47f080269973ee4d34de886f1c31cb853",
+    "size": 573579,
+    "ids": [
+      "createcobblestone"
+    ],
+    "name": "Create Cobblestone",
+    "version": "1.5.1+neoforge-1.21.1-160",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/ihpnEd80/versions/yJiZnWZD/createcobblestone-1.5.1%2Bneoforge-1.21.1-160.jar",
+    "modrinth": {
+      "mod-id": "ihpnEd80",
+      "version": "yJiZnWZD"
+    }
+  },
+  {
+    "filename": "createcraftedbeginning-0.1.1.jar",
+    "sha256": "03a5f100d385093ff4b9e68c2ed0d94eae38ba04182f05a424ea1aa6fed2e075",
+    "sha512": "5c0ef94533c19b9b284b5977b8049d2ddd6c69aece4595f1596906c3e4bd60c399aa46c28cf00a127e7abfb0048a517f8669b0ff176e0eb5a255e9dacbbaeac7",
+    "size": 8613993,
+    "ids": [
+      "createcraftedbeginning"
+    ],
+    "name": "Create Crafted Beginning",
+    "version": "0.1.1",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://mediafilez.forgecdn.net/files/9658/463/createcraftedbeginning-0.1.1.jar",
+    "modrinth": null
+  },
+  {
+    "filename": "createdeco-2.1.3.jar",
+    "sha256": "edacf1ad0bd6b9f1667d711650dc0cde604356d91caca7ca1ec428c2f9400c6e",
+    "sha512": "c536662f9d47ad57a37419165ded14835b23ad6c3e82a920298ecd7ee074244b0b6062ef9cc7ea4501ddd35919a840faccd7fc64e43eb8df31e12076681c3c0d",
+    "size": 3328498,
+    "ids": [
+      "createdeco"
+    ],
+    "name": "Create Deco",
+    "version": "2.1.3",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/sMvUb4Rb/versions/qrcMVoBD/createdeco-2.1.3.jar",
+    "modrinth": {
+      "mod-id": "sMvUb4Rb",
+      "version": "qrcMVoBD"
+    }
+  },
+  {
+    "filename": "CreateDragonsPlus-1.11.9.jar",
+    "sha256": "37f05a6775bbe811fe8c2833fa6289a1c704d0b25bdd5f239d343a5c6f62ed8a",
+    "sha512": "43299e49afe7132515aa8ad545b8c9566d90f12cfb39456b3d6e1ebc8e03f05787fbc420e7cc9495df4d6b585d13e7a4c4c7385f82f20aeb829c9491b725af53",
+    "size": 1085674,
+    "ids": [
+      "create_dragons_plus"
+    ],
+    "name": "Create: Dragons Plus",
+    "version": "1.11.9",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/dzb1a5WV/versions/b0u9vk8C/CreateDragonsPlus-1.11.9.jar",
+    "modrinth": {
+      "mod-id": "dzb1a5WV",
+      "version": "b0u9vk8C"
+    }
+  },
+  {
+    "filename": "createfactorycontroller-1.2.4-neoforge-1.21.1.jar",
+    "sha256": "747fee32b9a886c3bf41b5f17887fd191af5e4906b728a810e664087f593dae7",
+    "sha512": "c16c1234a184da51d8d9d04ad27457e40fc9df14a21e08436c6c117c47f4d2dab4fe51c046419f8e3c635e4acc6e910d3290556d3cc3a6863bdf202512894ce6",
+    "size": 2289542,
+    "ids": [
+      "createfactorycontroller"
+    ],
+    "name": "Create: Factory Controller",
+    "version": "1.2.4-neoforge-1.21.1",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/VR3MrvE2/versions/6Yqv2cwr/createfactorycontroller-1.2.4-neoforge-1.21.1.jar",
+    "modrinth": {
+      "mod-id": "VR3MrvE2",
+      "version": "6Yqv2cwr"
+    }
+  },
+  {
+    "filename": "createfurnitureseats-5.0.jar",
+    "sha256": "cae0cbda3d5e190fab5b06136e2b59620757d2c0d670aa091873ad203fe54524",
+    "sha512": "5edde6a6ed78856a299f65f67adc558559a6cf36db9911d544e1a1da1fa6d79e308f63c32e30ef55999085a17eaf7e4b9592d4945c595bbf79808e723a406609",
+    "size": 86754,
+    "ids": [
+      "createfurnitureseats"
+    ],
+    "name": "[Furniture] Create/Sable Compat",
+    "version": "5.0",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/W2K5jx3j/versions/nCfG3qog/createfurnitureseats-5.0.jar",
+    "modrinth": {
+      "mod-id": "W2K5jx3j",
+      "version": "nCfG3qog"
+    }
+  },
+  {
+    "filename": "creategearsandtavern-1.2.0-1.21.1.jar",
+    "sha256": "357e0d456130b7d4ab863e844565809a660a9d1de87432a04817cab745989aa2",
+    "sha512": "00f62226a3e78ce82f5ed3900ff38c05eb1f43788799d56146c29c5a309b5c19ed7fbb09c5a5338498fbfa62a388f3cdc5d55800da92ac46279590f116b240df",
+    "size": 160470,
+    "ids": [
+      "creategearsandtavern"
+    ],
+    "name": "Create: Gears and Tavern",
+    "version": "1.2.0",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/ZjAeukl9/versions/2fjPxg1H/creategearsandtavern-1.2.0-1.21.1.jar",
+    "modrinth": {
+      "mod-id": "ZjAeukl9",
+      "version": "2fjPxg1H"
+    }
+  },
+  {
+    "filename": "createimp-1.4.5.jar",
+    "sha256": "cd17e8f97bb7da610eabe9ac52027c9185beb504853e2e5a9834ddd054af37f0",
+    "sha512": "b7935e685fa406806000a8d339de4c997392bc62ecd0b4de26972700cc11a523689474450674dbeb20df2276954b7d519267981a25ed7ea40698f752b6ad6924",
+    "size": 1610435,
+    "ids": [
+      "createimp"
+    ],
+    "name": "Create Improve",
+    "version": "1.4.5",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/3xu2jXe8/versions/FuuyiFIm/createimp-1.4.5.jar",
+    "modrinth": {
+      "mod-id": "3xu2jXe8",
+      "version": "FuuyiFIm"
+    }
+  },
+  {
+    "filename": "createliquidfuel-3.0.0-1.21.1.jar",
+    "sha256": "6b0ccd1579f59d13b927d7462a1f3c60b1069da967e54d3fb5629dbe2ff89216",
+    "sha512": "3925e0f7e7b883d719c12c2cdd409fa954fbd53cbb63295764fdf06d57f63553b5dd99f94ae69b071a2aa17fb5bff53817e3394191d8933f7916220861e1bc76",
+    "size": 21815,
+    "ids": [
+      "createliquidfuel"
+    ],
+    "name": "Create Liquid Fuel",
+    "version": "3.0.0-1.21.1",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/sH9tXU9f/versions/rLn2bDVE/createliquidfuel-3.0.0-1.21.1.jar",
+    "modrinth": {
+      "mod-id": "sH9tXU9f",
+      "version": "rLn2bDVE"
+    }
+  },
+  {
+    "filename": "createphantom-1.0.3.jar",
+    "sha256": "3ac4adeefcdf4d5ee840fca3f841b63b82cb8c34d9d841bbdb2eba4fc16e2703",
+    "sha512": "1ed427186f96300df7d9add3e191c9e17610c3f9e821e1c8958f85a3eb66b06b80ee6110b4e79c2c5ccc0b49bf8c1d802dd383aa998c16a8c680468ff633418f",
+    "size": 476115,
+    "ids": [
+      "createphantom"
+    ],
+    "name": "Create Phantom",
+    "version": "1.0.3",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/T3CecRuS/versions/IU6Bklxo/createphantom-1.0.3.jar",
+    "modrinth": {
+      "mod-id": "T3CecRuS",
+      "version": "IU6Bklxo"
+    }
+  },
+  {
+    "filename": "createultimine-1.21.1-neoforge-1.4.0.jar",
+    "sha256": "e5a447beea53fe0074bf7ab1977b1210a1c9be57b11427731b6f203cb454f92d",
+    "sha512": "9b168a11e5f766cebe2fe94c1ea15015fb40d7d5d12e464a7a60293dd9453b3b8c0092b74597c9b367ff6d8b4df65896f1c1da91baf0be43f49dc4b28fb1ade4",
+    "size": 111560,
+    "ids": [
+      "createultimine"
+    ],
+    "name": "Create Ultimine",
+    "version": "1.4.0",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/vUE54e5E/versions/wsQ3jCm7/createultimine-1.21.1-neoforge-1.4.0.jar",
+    "modrinth": {
+      "mod-id": "vUE54e5E",
+      "version": "wsQ3jCm7"
+    }
+  },
+  {
+    "filename": "curios-neoforge-9.6.0-1.21.1.jar",
+    "sha256": "5ae6703ac25a5cfb138ce34924799b642021c8109aacef578e899e8591d67a3e",
+    "sha512": "1453d7c970f37b357967dbdad080ed107e90eea2b151e88a5e51b271a38ac72686d47a328fb8b3125cb8c6069130b72ac4b1c023f18ba5244f7550e4599bf8a4",
+    "size": 411707,
+    "ids": [
+      "curios"
+    ],
+    "name": "Curios API",
+    "version": "9.6.0+1.21.1",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/KJsZIQrT/curios-neoforge-9.6.0%2B1.21.1.jar",
+    "modrinth": {
+      "mod-id": "vvuO3ImH",
+      "version": "KJsZIQrT"
+    }
+  },
+  {
+    "filename": "fastleafdecay-35.jar",
+    "sha256": "0b90f259caef64c3aa09d05427859990a51adec072540a9c598370b86c966a98",
+    "sha512": "795f7e5a03b65705d18901fe28034df771e1843aabd16bfe49fe77b534938424ce26f3d0f723cd78ada058989bb758d14f091ca111f0b1e4d195e8baa031bbc5",
+    "size": 9511,
+    "ids": [
+      "fastleafdecay"
+    ],
+    "name": "FastLeafDecay",
+    "version": "35",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://mediafilez.forgecdn.net/files/5849/90/fastleafdecay-35.jar",
+    "modrinth": null
+  },
+  {
+    "filename": "fragmentum-5.4.0+1.21.1-neoforge.jar",
+    "sha256": "fb7e1b28d54fda52c62df2a7c050e772030d7c75663d1679371deb0a860d3c1f",
+    "sha512": "426b3a7f2085266ae231d7ef81092baabb0409bbf222b9220472dd3ba482840a0850047aabc4b59d20fd65170ec9920559d29df6527d8119ecf02c69cfa78e53",
+    "size": 7815344,
+    "ids": [
+      "fragmentum"
+    ],
+    "name": "Fragmentum",
+    "version": "5.4.0",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/49C5QgTK/versions/kCXNhuIV/fragmentum-5.4.0%2B1.21.1-neoforge.jar",
+    "modrinth": {
+      "mod-id": "49C5QgTK",
+      "version": "kCXNhuIV"
+    }
+  },
+  {
+    "filename": "ftb-library-neoforge-2101.1.40.jar",
+    "sha256": "d97d8ae91b5049406f1bac5634ecbceafe7ff0f00e850047792deef4aec05d50",
+    "sha512": "e8c6b9670b8fbf20b3e7fde910ed7b3b5a6827180a3373bab3041e6f764a32e8048cbfaed66bc3bea8ace0ba8fd6bf60289ec00e68054c6505ab80a0b11168a1",
+    "size": 1643436,
+    "ids": [
+      "ftblibrary"
+    ],
+    "name": "FTB Library",
+    "version": "2101.1.40",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://maven.ftb.dev/releases/dev/ftb/mods/ftb-library-neoforge/2101.1.40/ftb-library-neoforge-2101.1.40.jar",
+    "modrinth": null
+  },
+  {
+    "filename": "ftb-ultimine-neoforge-2101.1.15.jar",
+    "sha256": "1393a85ceb6e4794450d5f06043e3a033278e31b86de8e03950d8b87604b2213",
+    "sha512": "5938cf3f58b210769539de86e97769f84fe72d60eec6a6d13ecf9d26da5d24c9863c98b70ae688eea9433aef52d0226fd2c9b6f5196012a3a2cba0792e6e3985",
+    "size": 177109,
+    "ids": [
+      "ftbultimine"
+    ],
+    "name": "FTB Ultimine",
+    "version": "2101.1.15",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://mediafilez.forgecdn.net/files/8231/400/ftb-ultimine-neoforge-2101.1.15.jar",
+    "modrinth": null
+  },
+  {
+    "filename": "gbf-1.21.1-1.0.2.jar",
+    "sha256": "48984167d9e0b3c8608497dc1a09a26b1fa26e8297b0f9e6ad065e5513a776a1",
+    "sha512": "b80ce5fc7a04308884b9e93d184c77adfe1f177593ce6b088ebf55aea0ff05b12f13d88a01ec8791584e35155bfbe8212ed10623ed1ca1d2ec8d68f75b074e2d",
+    "size": 147655,
+    "ids": [
+      "gbf"
+    ],
+    "name": "GeckoBetterFPS",
+    "version": "1.0.2",
+    "side": "client",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/CZyWdBUo/versions/cqGqtGak/gbf-1.21.1-1.0.2.jar",
+    "modrinth": {
+      "mod-id": "CZyWdBUo",
+      "version": "cqGqtGak"
+    }
+  },
+  {
+    "filename": "geckolib-neoforge-1.21.1-4.9.4.jar",
+    "sha256": "5f5d93386b6a660439a77c5cfda67b47a957864a3a6462a015bcc8402bfbb5b3",
+    "sha512": "3309f8cd15b653b898b7ab4f4f7991d59855218003ee951a481ebf12512f34b29e4c11ba2352100f3e45f273fa1b8e65be8c1e1202599e5faa9f08da929e688f",
+    "size": 639063,
+    "ids": [
+      "geckolib"
+    ],
+    "name": "GeckoLib 4",
+    "version": "4.9.4",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/nxAPSFAR/geckolib-neoforge-1.21.1-4.9.4.jar",
+    "modrinth": {
+      "mod-id": "8BmcQJ2H",
+      "version": "nxAPSFAR"
+    }
+  },
+  {
+    "filename": "IMBlocker-5.6.2.1-neoforge+1.20.6-1.21.8.jar",
+    "sha256": "e41dc09209a527b839e79080b9103e138aafc850ae81c8274c306e639e9c623a",
+    "sha512": "4cdb92f60ab7b2101feda57e9e18b4b03835430496f75e21c2ff4adce911dc2aaa5aa26825cf3c4e507754b5d1f696deb800348d7c753616457ea874ac22400e",
+    "size": 225646,
+    "ids": [
+      "imblocker"
+    ],
+    "name": "IMBlocker",
+    "version": "5.6.2.1",
+    "side": "client",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/WMDesFsZ/versions/BKOiydts/IMBlocker-5.6.2.1-neoforge%2B1.20.6-1.21.8.jar",
+    "modrinth": {
+      "mod-id": "WMDesFsZ",
+      "version": "BKOiydts"
+    }
+  },
+  {
+    "filename": "ImmediatelyFast-NeoForge-1.6.15+1.21.1.jar",
+    "sha256": "7d7b1d7b9f71d5303e42b2fa45f222a5ab06e0ef5982abb6da5dd9cc449b3702",
+    "sha512": "c115cad7b060373fc597aae08c685e2d56f173b88b792a4a2c229e222f8da293b99865e9553cf716483d3c3d6a18f31c51c5dd55be22d4625ed2c962d7b94fd0",
+    "size": 368896,
+    "ids": [
+      "immediatelyfast"
+    ],
+    "name": "ImmediatelyFast",
+    "version": "1.6.15+1.21.1",
+    "side": "client",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/EJzmEPZV/ImmediatelyFast-NeoForge-1.6.15%2B1.21.1.jar",
+    "modrinth": {
+      "mod-id": "5ZwdcRci",
+      "version": "EJzmEPZV"
+    }
+  },
+  {
+    "filename": "iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+    "sha256": "60d5f8bf52f25e9986440f4a4270a6bd986d9cff994510e1108ac1547063b314",
+    "sha512": "33fddb430e16222902eac75b8b3d57c381b0f3cc729f3b56c4628df12ca108f23a0b11e2feb167923d6d14d1fc7e8ee1a977ec421b19d1951bdca74c4092b9c5",
+    "size": 2540723,
+    "ids": [
+      "iris"
+    ],
+    "name": "Iris",
+    "version": "1.8.14-beta.1+mc1.21.1",
+    "side": "client",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/KduFYu4t/iris-neoforge-1.8.14-beta.1%2Bmc1.21.1.jar",
+    "modrinth": {
+      "mod-id": "YL57xq9U",
+      "version": "KduFYu4t"
+    }
+  },
+  {
+    "filename": "kaleidoscope_lib-1.1.1-neoforge-mc1.21.1.jar",
+    "sha256": "09ad5a3824e35d32c41f8b2a9e749e9cf4e46b616d5b43894ce50e2f1a3963b5",
+    "sha512": "37cbedf6badd8ad2c79bd87b8aba6a3f8e84394c59e5af8432b2ede4569c1a4e4ff304c3c60fd4c699037789c6b380e6a1352a94deee029ace7d52e1d86187be",
+    "size": 509256,
+    "ids": [
+      "kaleidoscope_lib"
+    ],
+    "name": "Kaleidoscope Lib",
+    "version": "1.1.1-neoforge+mc1.21.1",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://mediafilez.forgecdn.net/files/9393/188/kaleidoscope_lib-1.1.1-neoforge-mc1.21.1.jar",
+    "modrinth": null
+  },
+  {
+    "filename": "kaleidoscopetavern-1.2.0-neoforge+mc1.21.1.jar",
+    "sha256": "03f35e1e614953b22cd1f5e34345613f3a6a283bf1b1c99659b57d58970edeff",
+    "sha512": "2481f11727ee303004d2e849739651f63bc28493a79d2e6a784f45632fc92e27ce4a43cc3b08b71740aa1f2a1879c15cc097c65d7a95d9d642c4a9958df6c473",
+    "size": 1708047,
+    "ids": [
+      "kaleidoscope_tavern"
+    ],
+    "name": "Kaleidoscope Tavern",
+    "version": "1.2.0-neoforge+mc1.21.1",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/r9RZvhiJ/versions/W9ILsQt7/kaleidoscopetavern-1.2.0-neoforge%2Bmc1.21.1.jar",
+    "modrinth": {
+      "mod-id": "r9RZvhiJ",
+      "version": "W9ILsQt7"
+    }
+  },
+  {
+    "filename": "kotlinforforge-5.13.0-all.jar",
+    "sha256": "1aa52c3e992d8ee4d1b9e9bdb0c62bf7ad03845195136d63f312ade6f30809de",
+    "sha512": "64a26f73e3299ad09b350d3421e3f97a5ccd158d1936fb50fc57f3c88bf6fd33814568bf43a0886f79ada4be65d65d232d9e20a901833150ec5b89a01c46d459",
+    "size": 7364729,
+    "ids": [],
+    "name": "kotlinforforge-5.13.0-all.jar",
+    "version": "",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/ordsPcFz/versions/9ZlVvei8/kotlinforforge-5.13.0-all.jar",
+    "modrinth": {
+      "mod-id": "ordsPcFz",
+      "version": "9ZlVvei8"
+    }
+  },
+  {
+    "filename": "kubejs-neoforge-2101.7.2-build.381.jar",
+    "sha256": "e4539156a6e93badf140d050306d2b4d7975037541b3c51f746cf78bf6fe14a2",
+    "sha512": "a77488c2ead57b1195244a7176abbe982d6197ccce09996376c36c78560cd7795c1b09bad9053037d3931d47b921bb5de0d58149d0704207c39e21f024361b58",
+    "size": 2295092,
+    "ids": [
+      "kubejs"
+    ],
+    "name": "KubeJS",
+    "version": "2101.7.2-build.381",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://mediafilez.forgecdn.net/files/9396/59/kubejs-neoforge-2101.7.2-build.381.jar",
+    "modrinth": null
+  },
+  {
+    "filename": "lithostitched-1.8.1-neoforge-21.1.jar",
+    "sha256": "e0da669fa5facc61a09b9b7bae21b322993de1fcd1eb05787adffb7309598cca",
+    "sha512": "6c02b8b269269d5aa84cb03bf824a1b5d52838e806c2fec8727eb4049925592dac9bb65c996858751fbb722f22ac59c4be09860e1f01e8f7b97c95be3faf7a57",
+    "size": 1023751,
+    "ids": [
+      "lithostitched"
+    ],
+    "name": "Lithostitched",
+    "version": "1.8.1",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/cZu4cHY3/lithostitched-1.8.1-neoforge-21.1.jar",
+    "modrinth": {
+      "mod-id": "XaDC71GB",
+      "version": "cZu4cHY3"
+    }
+  },
+  {
+    "filename": "loconautics-0.1.3BETA.jar",
+    "sha256": "2cd0b33189b2ebdb3551b59aa8fb5cfef6b4b89d238b99b0185cf45bec05e5de",
+    "sha512": "4105ebb37835ea1955ed6b4c8bbdabe0234949e12f7e31f2eaf458f039e194779639867f4d514d00876d24957a0f92749eda8a9926e97382643a96d3f01aa24b",
+    "size": 4614886,
+    "ids": [
+      "loconautics"
+    ],
+    "name": "Create: Loconautics",
+    "version": "0.1.3BETA",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/VeDZqxHa/versions/dEi5A4wM/loconautics-0.1.3BETA.jar",
+    "modrinth": {
+      "mod-id": "VeDZqxHa",
+      "version": "dEi5A4wM"
+    }
+  },
+  {
+    "filename": "mechanicals-1.21.1-1.1.6.jar",
+    "sha256": "0ce9bb97a68a2fc7340695eacd5b9898f2dc481dc6384df62bfb10c92c9de549",
+    "sha512": "84bfcd2cbd061eb1516fc2adbca0e599a38372b80ef9f5713de70be48d072243b1c5cb84c13177c35f333b6bcf16aa1f70dbd0964ed18e14c2bff733c531c6bc",
+    "size": 2022181,
+    "ids": [
+      "mechanicals"
+    ],
+    "name": "Mechanicals Lib",
+    "version": "1.1.6",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/ProvjTA7/versions/GBSlpwLT/mechanicals-1.21.1-1.1.6.jar",
+    "modrinth": {
+      "mod-id": "ProvjTA7",
+      "version": "GBSlpwLT"
+    }
+  },
+  {
+    "filename": "mezz_config-1.21.1-neoforge-0.7.1-standalone.jar",
+    "sha256": "c42510938584eda0aae134003e367d745fd32ceac1836221cecac4cbc7bfa3a1",
+    "sha512": "e3576344d96b4734d35c7ceb969020ef728a666b771fb6da0465d08d940daff3c48352f6f3ca989edbe7fff57737d2fea4621f6422e858f95efe9fa70b46dfb2",
+    "size": 347249,
+    "ids": [],
+    "name": "mezz_config-1.21.1-neoforge-0.7.1-standalone.jar",
+    "version": "",
+    "side": "client",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/7tEfOcA7/versions/V6oWFnxW/mezz_config-1.21.1-neoforge-0.7.1-standalone.jar",
+    "modrinth": {
+      "mod-id": "7tEfOcA7",
+      "version": "V6oWFnxW"
+    }
+  },
+  {
+    "filename": "moonlight-1.21.1-3.8.5-neoforge.jar",
+    "sha256": "dbba1d1a3af835356c8504dee2adc2fc18d1141fbd0c93dfe08c0951e21a48e0",
+    "sha512": "5c54bee4fd84f13e8ebaaf3c86985b37dd45da39cd4c4fc126108105db49c7345541f5941d5d8422b31fd3c8738cee94f31df90c6cff376ffa760e40b6f6c67b",
+    "size": 2332727,
+    "ids": [
+      "moonlight"
+    ],
+    "name": "Moonlight Lib",
+    "version": "1.21.1-3.8.5",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/FhoIf5nd/moonlight-1.21.1-3.8.5-neoforge.jar",
+    "modrinth": {
+      "mod-id": "twkfQtEc",
+      "version": "FhoIf5nd"
+    }
+  },
+  {
+    "filename": "netmusiccanplayradio-0.2.0-neoforge+mc1.21.1.jar",
+    "sha256": "af132a1deca354c32bb560699b9d28ba5fe76ae30f8a6e1278b68cdf8770ccde",
+    "sha512": "d24d834fdbdedde6e6b669466f060a5306ffb17f7142b45ae78a8d3df49ef209ee6e588c4d5ffdc1893d9e91f15598105b46d00e92b391053d0ad2698ba5f970",
+    "size": 1017551,
+    "ids": [
+      "netmusiccanplayradio"
+    ],
+    "name": "NetMusicCanPlayRadio",
+    "version": "0.2.0-neoforge+mc1.21.1",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/BdvfP32V/versions/p9NYjmPL/netmusiccanplayradio-0.2.0-neoforge%2Bmc1.21.1.jar",
+    "modrinth": {
+      "mod-id": "BdvfP32V",
+      "version": "p9NYjmPL"
+    }
+  },
+  {
+    "filename": "obscure_tooltips-neoforge-1.21.1-4.2.5.jar",
+    "sha256": "2109a6678cf89141dc88f3fed671631cc7401148f605c1cb796c2e780537e8b3",
+    "sha512": "08c4259ff4ad3af1d146581f9cd30ac403c5e2cc410ed685f0a32227062a40363986b9c8af46423dce3240d417b9d8e139cbee1117d8eb50b1da7e0877815fa5",
+    "size": 448989,
+    "ids": [
+      "obscure_tooltips"
+    ],
+    "name": "Obscure Tooltips",
+    "version": "4.2.5",
+    "side": "client",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/5vetjDBY/versions/Yo2oNdw1/obscure_tooltips-neoforge-1.21.1-4.2.5.jar",
+    "modrinth": {
+      "mod-id": "5vetjDBY",
+      "version": "Yo2oNdw1"
+    }
+  },
+  {
+    "filename": "OELib-neoforge-1.21.1-0.2.3.jar",
+    "sha256": "876e7d8837be3e4471880a698fbced371f5094a8610d73f72cb87ae38b4dbcae",
+    "sha512": "bf5ffa8abad4b972a2b49ac109c7f7a7fad1c9eb84f51851185c1c3717941c7d3a0229c284e9ddfafcaf2bde8bd17df9e13ce5e991d567ede505346c42a60b1b",
+    "size": 840689,
+    "ids": [
+      "oelib"
+    ],
+    "name": "OELib",
+    "version": "0.2.3",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/7ODqOXka/versions/GLkyyaFG/OELib-neoforge-1.21.1-0.2.3.jar",
+    "modrinth": {
+      "mod-id": "7ODqOXka",
+      "version": "GLkyyaFG"
+    }
+  },
+  {
+    "filename": "oneenoughblock-neoforge-1.21.1-1.1.2-hotfix.jar",
+    "sha256": "6ded4ef519b1598d66fc120df6271060b848fb06a174f74540e3de2ef407155b",
+    "sha512": "e3964e1bd3f8680da45c581284c132404e8b46a820ef6055a7157a08c72a44ddbf123ed37af2d5526bd3cefec3b21ae83597f87ada981a359cc4852724f68f75",
+    "size": 85490,
+    "ids": [
+      "oneenoughblock"
+    ],
+    "name": "OneEnoughBlock",
+    "version": "1.1.2-hotfix",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/gP7RIb0Q/versions/PDVoFCX9/oneenoughblock-neoforge-1.21.1-1.1.2-hotfix.jar",
+    "modrinth": {
+      "mod-id": "gP7RIb0Q",
+      "version": "PDVoFCX9"
+    }
+  },
+  {
+    "filename": "oneenoughfluid-neoforge-1.21.1-1.1.1-hotfix.jar",
+    "sha256": "83c71976dd10b26556d52ac2d3f2b62ed19ea07e28ce6b1ff7ca723f79b16ed8",
+    "sha512": "264600a89ade7c27138d8fb27739d32dd545904e721479d120bc24052df0b071ab349a4df88012ec4e5dc2d9a68d0c52d52d37fad07e4bf902a2ab111513ec30",
+    "size": 81894,
+    "ids": [
+      "oneenoughfluid"
+    ],
+    "name": "OneEnoughFluid",
+    "version": "1.1.1-hotfix",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/dNn2uCxa/versions/DlqCeJC6/oneenoughfluid-neoforge-1.21.1-1.1.1-hotfix.jar",
+    "modrinth": {
+      "mod-id": "dNn2uCxa",
+      "version": "DlqCeJC6"
+    }
+  },
+  {
+    "filename": "oneenoughitem-neoforge-1.21.1-1.0.8.jar",
+    "sha256": "f2bd5eeeefb7155f95d686a055d0c713da540c3ce6d2fd09fe18caea4f686583",
+    "sha512": "cfb459b24ad65646b2c1abfd3ed23d92e14c69bc1b973cd164d31ccbc2861611220b323be4dfafd14308e448eed7dc25a0703e0a6793a03325032ee802f52a80",
+    "size": 260782,
+    "ids": [
+      "oneenoughitem"
+    ],
+    "name": "oneenoughitem",
+    "version": "1.0.8",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/7pCNymxz/versions/1gXNmHrU/oneenoughitem-neoforge-1.21.1-1.0.8.jar",
+    "modrinth": {
+      "mod-id": "7pCNymxz",
+      "version": "1gXNmHrU"
+    }
+  },
+  {
+    "filename": "Platform-neoforge-1.21.1-1.4.2.jar",
+    "sha256": "56f63d73614e35841f6f8ac79d2eb2f7d8b9ff6414272eecac19274644c849ac",
+    "sha512": "24f9640cc830ffc9b921f89187aaa2ee41aeb9949b36a9ab11b94313c9f4eebb94e5aa7ee3089237f677d3c72aa860bb2bf332c900030c8f7dd5bbcc25ece73a",
+    "size": 550771,
+    "ids": [
+      "platform"
+    ],
+    "name": "Platform",
+    "version": "1.4.2",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/i6fiqm5y/versions/rh4p4ixM/Platform-neoforge-1.21.1-1.4.2.jar",
+    "modrinth": {
+      "mod-id": "i6fiqm5y",
+      "version": "rh4p4ixM"
+    }
+  },
+  {
+    "filename": "powerchip-2.1.2.jar",
+    "sha256": "1f15f94e355f63307271a139c1448fc951ccbe6ea63b54fff38bb55dd6b36a29",
+    "sha512": "e760d02207048eece835f4e8f600b5ba8a995029905fa86d9b34a1910ceaa3c108fdca33a0e75ab01e0ea6fef4517e3a069c2faa7d038802a751e8c36bdd49ca",
+    "size": 154683,
+    "ids": [
+      "powerchip"
+    ],
+    "name": "Create: Power Chip",
+    "version": "2.1.2",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/xjCy9IA8/versions/YIxQG5Q4/powerchip-2.1.2.jar",
+    "modrinth": {
+      "mod-id": "xjCy9IA8",
+      "version": "YIxQG5Q4"
+    }
+  },
+  {
+    "filename": "ragdoll_corpse-1.21.1-0.4.0.jar",
+    "sha256": "86fee7f780560a3168440e56cb635d116d5b6dd19aececa10e0194ae5926e8f1",
+    "sha512": "611493182032dbdad646ca61df53dfd8dfe0b5a536fe713de48cc71ce4c4c8d07ed24e27634371bed2f309e3df09336ae36f310caa29526e6e814f8c19a2d904",
+    "size": 886046,
+    "ids": [
+      "ragdoll_corpse"
+    ],
+    "name": "Sable: Ragdoll Corpse",
+    "version": "0.4.0",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/uetGbPKW/versions/7o7DeIN5/ragdoll_corpse-1.21.1-0.4.0.jar",
+    "modrinth": {
+      "mod-id": "uetGbPKW",
+      "version": "7o7DeIN5"
+    }
+  },
+  {
+    "filename": "randomoptimization-1.7.7-all-1.21.1.jar",
+    "sha256": "17a36b95992c66a0f231f5f78884afd486d2c5560930657f9c0624e2609f7f5b",
+    "sha512": "869f0088ad9007ff029c4272e4c07243fcb10b15aaa27bc9ba7a526227a442cc9b27a11759cc081b8312c5b2327abb3cfc66add38ee6cb29e8747865c7596ce4",
+    "size": 152216,
+    "ids": [
+      "randomoptimization"
+    ],
+    "name": "Random Optimization",
+    "version": "1.7.7",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/Mjoo9rPv/versions/5n7HtT4g/randomoptimization-1.7.7-all-1.21.1.jar",
+    "modrinth": {
+      "mod-id": "Mjoo9rPv",
+      "version": "5n7HtT4g"
+    }
+  },
+  {
+    "filename": "Retraining-neoforge-1.21-2.0.0.jar",
+    "sha256": "5af5827a3035daab71b7a534face245c64237e5521c6c8125628ca116fe8aa26",
+    "sha512": "3de3e1b1a508c336f833e0aaa9470a13844271073b9b159c102fd64f36c122b3ed6c47ba772ab424205228acf942b1e9af727b64c74b71267903efc124c8dd54",
+    "size": 21051,
+    "ids": [
+      "retraining"
+    ],
+    "name": "Retraining",
+    "version": "${file.jarVersion}",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://mediafilez.forgecdn.net/files/5436/58/Retraining-neoforge-1.21-2.0.0.jar",
+    "modrinth": null,
+    "curseforge": {
+      "project-id": 543209,
+      "file-id": 5436058
+    }
+  },
+  {
+    "filename": "sable-neoforge-1.21.1-2.0.6.jar",
+    "sha256": "9c199157843bf953a47dff625fc5bb41c01a90538d35ad18e6996bbcb8a617c2",
+    "sha512": "76d293ce751a01cb9c095a3659b0a41e03e005480bc9d76dfdc73ec7c2eabf7923740c7b077921d42616673c496cd5143569f2085ddcebe174fd91d81e2a04b8",
+    "size": 12986135,
+    "ids": [
+      "sable"
+    ],
+    "name": "Sable",
+    "version": "2.0.6",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/T9PomCSv/versions/fg9dTRz9/sable-neoforge-1.21.1-2.0.6.jar",
+    "modrinth": {
+      "mod-id": "T9PomCSv",
+      "version": "fg9dTRz9"
+    }
+  },
+  {
+    "filename": "sable_player_ragdoll-1.21.1-0.8.1.jar",
+    "sha256": "52231de8cf20713040e948ec41c0813d8b1eab2e7ec327c1ff5da8bdc3ba33fd",
+    "sha512": "3cb14194cd5fac318cd0933a059442463a6a620926bdccb04d44d81e7c9fb0578f7a95f494f37f9b70ee32fac1e2f18e81203a2acc52f4d264897f1a691f8b85",
+    "size": 1529122,
+    "ids": [
+      "sable_player_ragdoll"
+    ],
+    "name": "Sable Ragdolls",
+    "version": "0.8.1",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/I3mWDgfy/versions/7VQ9pGev/sable_player_ragdoll-1.21.1-0.8.1.jar",
+    "modrinth": {
+      "mod-id": "I3mWDgfy",
+      "version": "7VQ9pGev"
+    }
+  },
+  {
+    "filename": "sawmill-1.21-1.9.3-neoforge.jar",
+    "sha256": "aed00e45d1255aa69c17bdc4ee1dd53d789b2b8c6a0f543fb1b86e19218d34bc",
+    "sha512": "efb42e0328b891b03b0d87cf9e25df2c3342f0ebb6b3b5256bb7a1a9188141f69b0dbe934c3f24b3f241a4129e2794d3ce1c719b14fb656260dcb8c2e3e9e604",
+    "size": 531042,
+    "ids": [
+      "sawmill"
+    ],
+    "name": "Universal Sawmill",
+    "version": "1.21-1.9.3",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/WRaRZdTd/versions/XctMT753/sawmill-1.21-1.9.3-neoforge.jar",
+    "modrinth": {
+      "mod-id": "WRaRZdTd",
+      "version": "XctMT753"
+    }
+  },
+  {
+    "filename": "servercore-neoforge-1.5.19+1.21.1.jar",
+    "sha256": "a5706aa0bb3a47c5f1adab44306685736688ec03414f60beb4fcbe05b99f5a82",
+    "sha512": "55b97df4cc46f52db85b96487188d73c62d511229d98859991c115414c5f1ab37f2f40a0f2edb5692220aa94d6c48b392b0a2d8593b3c3381b1fcbde2a728c8f",
+    "size": 1462674,
+    "ids": [
+      "servercore"
+    ],
+    "name": "ServerCore",
+    "version": "1.5.19+1.21.1",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/6N9hXiRa/servercore-neoforge-1.5.19%2B1.21.1.jar",
+    "modrinth": {
+      "mod-id": "4WWQxlQP",
+      "version": "6N9hXiRa"
+    }
+  },
+  {
+    "filename": "serverwarashi-1.21.1-2.1.1.5.jar",
+    "sha256": "4c9c56802fb669fb3d8eeb99e320c6f1108949bae658b196f103b4192963dc1f",
+    "sha512": "b8a2d27149ee87e052857782cb8c377e2015090a766cb8e279fa1aa98aa81f905fb6c64481f606f3b493450b53ab82ae0de691e88aaab93cfeb0e3de86432fcb",
+    "size": 1021526,
+    "ids": [
+      "serverwarashi"
+    ],
+    "name": "ServerWarashi",
+    "version": "2.1.1.5",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://mediafilez.forgecdn.net/files/9218/494/serverwarashi-1.21.1-2.1.1.5.jar",
+    "modrinth": null,
+    "curseforge": {
+      "project-id": 1359418,
+      "file-id": 9218494
+    }
+  },
+  {
+    "filename": "simulatedcoasters-0.1.6.jar",
+    "sha256": "197c667ec57ff6d231b7fd81b270d96f4ba8109b02e706a6830d580e9d609cc5",
+    "sha512": "51c110b56bf70a2405db5d3f1bb56e79686e9b0f7e96a5246e37d11c6f29e2cd240567893b380d6f6056c1834edebb9e7638aca1538a09ff9e42c3bef2d7fe79",
+    "size": 1907773,
+    "ids": [
+      "simulatedcoasters"
+    ],
+    "name": "Create: Coasters Simulated",
+    "version": "0.1.6",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/W1ZUfWdr/versions/HQOOL6Do/simulatedcoasters-0.1.6.jar",
+    "modrinth": {
+      "mod-id": "W1ZUfWdr",
+      "version": "HQOOL6Do"
+    }
+  },
+  {
+    "filename": "sophisticatedbackpacks-1.21.1-3.26.23.2263.jar",
+    "sha256": "8df6a8ebad2aebc71bc54e51eddd47fe931ed8bc338f7d1924e272ac72e38092",
+    "sha512": "827f9f09a645f21a12357729f43e1dd3629ab62c6413eac39bdea9f503a4fb1de4db9fc35dce64f74b0b6e5cdf2b7c8a5de46e66c30c75e35d3454947763a083",
+    "size": 1272052,
+    "ids": [
+      "sophisticatedbackpacks"
+    ],
+    "name": "Sophisticated Backpacks",
+    "version": "3.26.23",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/8YikAvYD/sophisticatedbackpacks-1.21.1-3.26.23.2263.jar",
+    "modrinth": {
+      "mod-id": "TyCTlI4b",
+      "version": "8YikAvYD"
+    }
+  },
+  {
+    "filename": "sophisticatedcore-1.21.1-1.5.42.2496.jar",
+    "sha256": "d1d8713af68a232043aebc0f16dbb953c2a685042164c614147f6121c17b59b9",
+    "sha512": "d5a57db0c3485d8455ae64780e174d962a53a2592932ddf39c5b74197bb39431eb225d26b834cf90513f5c8ec45945e9dc1230bf8fe11f7801a52d8658e9acd5",
+    "size": 1856954,
+    "ids": [
+      "sophisticatedcore"
+    ],
+    "name": "Sophisticated Core",
+    "version": "1.5.42",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/URsV4WGl/sophisticatedcore-1.21.1-1.5.42.2496.jar",
+    "modrinth": {
+      "mod-id": "nmoqTijg",
+      "version": "URsV4WGl"
+    }
+  },
+  {
+    "filename": "spawn-4.0.8-1.21.1.jar",
+    "sha256": "705dabdfb29b163500334a08c095b51ea8800db08b6c96ec430c52b30d6d9842",
+    "sha512": "f6db8f8a11d90d973ad4e7041816793a70e298949c4d378cb08a2b78937327c8f2d5c75d1f938a0493adad1a5a1c6fda67949867b7c7b1c56c5d58eda8ae8204",
+    "size": 73681436,
+    "ids": [
+      "spawn"
+    ],
+    "name": "Spawn",
+    "version": "4.0.8-1.21.1",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/rex9wwpz/versions/OgmUYgeL/spawn-4.0.8-1.21.1.jar",
+    "modrinth": {
+      "mod-id": "rex9wwpz",
+      "version": "OgmUYgeL"
+    }
+  },
+  {
+    "filename": "stellarcreateoptimization-neoforge-1.21.1-1.1.3.jar",
+    "sha256": "251d5f7a7a916d6202e5ac5241e2f6aafef3e884c06d95c3a2d21045507448f9",
+    "sha512": "abb30425d100d3dcdde5fc9182ffd06a9f12be3603d571386d4303f85c0a1ad1ea0f909c692352039a3934dd71c3ea0c09d3253a1173c6afac47abd9a875ee08",
+    "size": 1985745,
+    "ids": [
+      "stellarcreateoptimization"
+    ],
+    "name": "StellarCreateOptimization",
+    "version": "1.1.3",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://mediafilez.forgecdn.net/files/9647/977/stellarcreateoptimization-neoforge-1.21.1-1.1.3.jar",
+    "modrinth": null,
+    "curseforge": {
+      "project-id": 1637437,
+      "file-id": 9647977
+    }
+  },
+  {
+    "filename": "struts-1.3.1.jar",
+    "sha256": "21002a8b6881a3d08da74f03f29ab23551db50d755d7e75b8b94847511d9a863",
+    "sha512": "f7c9c3b66c926c163a8c747d3b50c45589f1796711bc9de0e3bb3f024cb18a552e9b7df6e667b813d12aba50377a39a1cd80a493925f164deb89c8a9dc709f49",
+    "size": 216678,
+    "ids": [
+      "struts"
+    ],
+    "name": "Strut Your Stuff",
+    "version": "1.3.1",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/sHO3MhQx/versions/BOTN7zzN/struts-1.3.1.jar",
+    "modrinth": {
+      "mod-id": "sHO3MhQx",
+      "version": "BOTN7zzN"
+    }
+  },
+  {
+    "filename": "supplementaries-1.21.1-4.1.4-neoforge.jar",
+    "sha256": "04bf0c80070fdcafd4dfc2f8a259d32ec7abc7c31b7667e00d01d67e77d5c7f0",
+    "sha512": "13bee8c952bdcd3ad646da308b0b919be4bb35e19e33481cb9281d67279e63a638213a7064c0528709e4aceec2dea197ea360f0b4b83702e65b28f597bee7e96",
+    "size": 13944698,
+    "ids": [
+      "supplementaries"
+    ],
+    "name": "Supplementaries",
+    "version": "1.21.1-4.1.4",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/fFEIiSDQ/versions/JuYIXjpy/supplementaries-1.21.1-4.1.4-neoforge.jar",
+    "modrinth": {
+      "mod-id": "fFEIiSDQ",
+      "version": "JuYIXjpy"
+    }
+  },
+  {
+    "filename": "teallib-1.3.teal.jar",
+    "sha256": "297004b131df16839a09f97ecd703ea20e89937289e5613d3711e385f9377218",
+    "sha512": "11060adb8aae151879e8e4db4ad5409df1044784fe9e6d6a5f4750ea778317bd37ca9129f39d23e18988b912ab036a9fb3a128761726f927ac23797dd02ed381",
+    "size": 262609,
+    "ids": [
+      "teallib"
+    ],
+    "name": "Teal Lib",
+    "version": "1.3.teal",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/rLJ1qF79/versions/lZTBRemW/teallib-1.3.teal.jar",
+    "modrinth": {
+      "mod-id": "rLJ1qF79",
+      "version": "lZTBRemW"
+    }
+  },
+  {
+    "filename": "tectonic-3.0.28-neoforge-21.1.jar",
+    "sha256": "cf188c70e7dd94f6e3a81cef9fe99f1151f13217809f7576aaedb0c3e6547ae1",
+    "sha512": "e07b9cb54f078b7bf74c925c5cebd6643f0b4c210b8f94474e68659b69468ece7d61432f70eafe7abaa1dfa798e4638aad297987c121dc127588c2623b7f7a81",
+    "size": 451757,
+    "ids": [
+      "tectonic"
+    ],
+    "name": "Tectonic",
+    "version": "3.0.28",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/n4iyW7aB/tectonic-3.0.28-neoforge-21.1.jar",
+    "modrinth": {
+      "mod-id": "lWDHr9jE",
+      "version": "n4iyW7aB"
+    }
+  },
+  {
+    "filename": "VanillaBackport-neoforge-1.21.1-1.2.2.jar",
+    "sha256": "af66aa2458f21c691b5c0feb14439e15c72e14051ed592050df1b6bf8bdeb089",
+    "sha512": "89b0fbe66fb26cbc74d8ba55d2e6c76ea9652a0812582a955b1f32604a1d033f2be59f06df7cd4232520b8edba6074ac724525136d5ceaa1cfce88a53ab7d9a0",
+    "size": 63870495,
+    "ids": [
+      "vanillabackport"
+    ],
+    "name": "VanillaBackport",
+    "version": "1.2.2",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/6xwxDTgf/versions/mGS7BxD4/VanillaBackport-neoforge-1.21.1-1.2.2.jar",
+    "modrinth": {
+      "mod-id": "6xwxDTgf",
+      "version": "mGS7BxD4"
+    }
+  },
+  {
+    "filename": "vanillin-neoforge-1.21.1-1.1.3-local.starlight.jar",
+    "sha256": "88eadd068f6d81787721a0db3b6127ba28f9f60971dfbdde401f467c9c2c7905",
+    "sha512": "c279314307d48b5332d3052756e50181d5d10e7a3dcd78035f02859eb17de4999f09d4bf921cbf79306681d04c4cff9cc0d16b9b0c3b3a3887f9f89d08d90b90",
+    "size": 123858,
+    "ids": [
+      "vanillin"
+    ],
+    "name": "Vanillin",
+    "version": "1.1.3",
+    "side": "client",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": null,
+    "modrinth": null
+  },
+  {
+    "filename": "wearable_toolbox-0.1.10.jar",
+    "sha256": "0b4c69fe61e78d0254fad19708554e563a4f8a9ccd0a9f3428aa7542fb03f63a",
+    "sha512": "f256b68ed621eeb7d3d9f88b8b7d899007792c7b8901bbfa9187c7c36755f5836eb125b63a45396c76af97aff0806f92c8705972b58c6a631377aa4c18c9bb9e",
+    "size": 291675,
+    "ids": [
+      "wearable_toolbox"
+    ],
+    "name": "Create: Wearable Toolbox",
+    "version": "0.1.10",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://mediafilez.forgecdn.net/files/9773/440/wearable_toolbox-0.1.10.jar",
+    "modrinth": null,
+    "curseforge": {
+      "project-id": 1764993,
+      "file-id": 9773440
+    }
+  },
+  {
+    "filename": "xaeroworldmap-neoforge-1.21.1-1.47.0.jar",
+    "sha256": "6a42b6f01bd96b496e5fcc07d4541bad1a699d9ec8ad58ad40d5dcfe23a7d4c7",
+    "sha512": "4d2d78bc85afa002f682ef344b7284cf1baa4903cc5a11cd1d7bd260ac63952580ae717bab47079540ead633cdd5d8e4fdf230dc99a68bcb7a269500e7dada13",
+    "size": 1427078,
+    "ids": [
+      "xaeroworldmap"
+    ],
+    "name": "Xaero's World Map",
+    "version": "1.47.0",
+    "side": "client",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/SnQ4SoDe/xaeroworldmap-neoforge-1.21.1-1.47.0.jar",
+    "modrinth": {
+      "mod-id": "NcUtCpym",
+      "version": "SnQ4SoDe"
+    }
+  },
+  {
+    "filename": "zstdnet-1.21.1-neoforge-1.5.0.jar",
+    "sha256": "cd5e0246b582d2a64e7d6cafc8b0ae64dba42e88872fea1220d0652ae1efa0bb",
+    "sha512": "89cfe4bd70c9147536320787da06637b9d7d70d2ba9f094600a5f2a926e622a3c58315f19fd39c3da221a489b4eb6b02170fc33e2bd53076574e8d8add5bb6c4",
+    "size": 8632283,
+    "ids": [
+      "zstdnet"
+    ],
+    "name": "ZstdNet",
+    "version": "1.5.0",
+    "side": "both",
+    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "url": "https://mediafilez.forgecdn.net/files/9044/611/zstdnet-1.21.1-neoforge-1.5.0.jar",
+    "modrinth": null,
+    "curseforge": {
+      "project-id": 1506928,
+      "file-id": 9044611
+    }
+  }
+]

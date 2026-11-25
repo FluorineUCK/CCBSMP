@@ -1,0 +1,13 @@
+[
+  {
+    "path": "hotai/ca/fxco/moreculling/mixin/models/cullshape/BlockStateBase_cullShapeMixin.class",
+    "sha256": "76a67f673208335a6d177fff8c4cfb46f4862f0787f1682f2ed94ebfe27ca916",
+    "side": "client",
+    "target_mod_id": "moreculling",
+    "target_file": "moreculling-neoforge-1.21.1-1.0.11.jar.disabled",
+    "target_jar_sha256": "fbde3e7f2d0489c465c6b9f1642e53b9ef9b07126b505ab0193fa8679f0466e1",
+    "target_enabled": false,
+    "runtime_verified": false,
+    "note": "Preserved Test class replacement; target mod is disabled. Do not enable it implicitly."
+  }
+]

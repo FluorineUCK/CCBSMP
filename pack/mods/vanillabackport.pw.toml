@@ -1,0 +1,13 @@
+# Imported version: 1.2.2
+name = "VanillaBackport"
+filename = "VanillaBackport-neoforge-1.21.1-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6xwxDTgf/versions/mGS7BxD4/VanillaBackport-neoforge-1.21.1-1.2.2.jar"
+hash-format = "sha256"
+hash = "af66aa2458f21c691b5c0feb14439e15c72e14051ed592050df1b6bf8bdeb089"
+
+[update.modrinth]
+mod-id = "6xwxDTgf"
+version = "mGS7BxD4"

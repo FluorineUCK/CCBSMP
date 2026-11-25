@@ -1,0 +1,9 @@
+# Imported version: 2101.7.2-build.381
+name = "KubeJS"
+filename = "kubejs-neoforge-2101.7.2-build.381.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/9396/59/kubejs-neoforge-2101.7.2-build.381.jar"
+hash-format = "sha256"
+hash = "e4539156a6e93badf140d050306d2b4d7975037541b3c51f746cf78bf6fe14a2"

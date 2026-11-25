@@ -1,0 +1,13 @@
+# Imported version: 2.0.0
+name = "Create: Biotech"
+filename = "[机械动力：生物科技] create_biotech-1.21.1-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UW0IjVT0/versions/HwFFLGrz/create_biotech-1.21.1-2.0.0.jar"
+hash-format = "sha256"
+hash = "29d16438e5953017e56523336eca6b9d7e1759764ad1dac3e2e279356e52eba7"
+
+[update.modrinth]
+mod-id = "UW0IjVT0"
+version = "HwFFLGrz"

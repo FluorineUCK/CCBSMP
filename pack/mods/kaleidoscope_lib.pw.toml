@@ -1,0 +1,9 @@
+# Imported version: 1.1.1-neoforge+mc1.21.1
+name = "Kaleidoscope Lib"
+filename = "kaleidoscope_lib-1.1.1-neoforge-mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/9393/188/kaleidoscope_lib-1.1.1-neoforge-mc1.21.1.jar"
+hash-format = "sha256"
+hash = "09ad5a3824e35d32c41f8b2a9e749e9cf4e46b616d5b43894ce50e2f1a3963b5"

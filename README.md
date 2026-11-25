@@ -26,10 +26,33 @@ README.md
 
 ## 当前状态
 
-本次仅完成结构调整。`pack/index.toml` 当前为空，不能用它替代完整整合包。
-`jei.pw.toml`、`imblocker.pw.toml` 是后续导入时的命名示例，尚未创建虚构的下载地址或哈希。
-现用 Test 中的模组、配置和 Hotai 补丁尚未迁入本仓库；Test 与正式服务器均未被修改。
-候选版本为 1.1.0-rc.1，游戏版本 Minecraft 1.21.1 / NeoForge 21.1.265。
+已从当前 CCBSMP Test 导入 128 个启用模组的审计锁，其中 127 个已生成真实下载源的 `.pw.toml`。
+导入 171 个配置、KubeJS 与 Hotai 文件；排除 40 个个人设置、缓存、备份和禁用模组配置。
+`defaultconfigs/` 在 Test 中为空，保留目录。资源包与光影不在本次导入范围内。
+本次快照中 ModernFix 已不在 Test 启用目录，未重新添加；未修改 Test 或正式服务器。
+
+**尚不可完整发布：** Vanillin `1.1.3-local.starlight` 的准确发布源待匹配。没有替换为原版，也没有把 JAR 提交到仓库。
+其精确文件名、哈希和安装侧保存在 `tools/test-mods.lock.json`，未伪造 `.pw.toml` 链接。
+CF 原版 1.1.3 为 870344 字节，Test 构建为 123858 字节，SHA256 不同。
+
+Hotai 按 Test 原路径保留一个 More Culling `.class` 补丁；目标 More Culling 当前禁用，补丁不意味着目标模组已启用。
+`tools/hotai/patches.lock.json` 记录补丁、目标 JAR 哈希与安装侧；未运行游戏验证或转换 `.badiff`。
+
+候选版本 1.1.0-rc.1，Minecraft 1.21.1 / NeoForge 21.1.265。
+
+## 本地检查
+
+Python 3.11+，不依赖第三方 Python 包：
+
+```powershell
+python tools/verify_pack.py --allow-incomplete  # 检查现有文件和索引，不代表可发布
+python tools/verify_pack.py                     # 默认阻止未补齐下载源的发布
+python -m unittest discover -s tools -p "test_*.py"
+```
+
+`tools/import_test.py --source <实例目录>` 按已核对的审计锁导入，不下载模组、不修改实例、不自动删除仓库文件。
+再次导入前先审阅源文件变化并更新锁；删除/排除已有文件需显式审核，校验器会拒绝未纳入索引的文件。
+`tools/import-report.json` 列出所有导入、排除与未匹配项；审计锁不替代 packwiz 发布元数据。
 
 ## 模组与索引
 
@@ -58,6 +81,6 @@ Git push 不部署、不重启服务器。世界、玩家数据和身份数据�
 
 ## 下一步
 
-从 Test 导入完整模组元数据、补齐前置并筛选受控配置；随后导入经验证的 Hotai 补丁，再实现构建、验证与 AutoModpack 发布流程。
+补齐 local.starlight 的精确发布来源，再进行干净实例重建、安装侧复核与 AutoModpack 集成。当前记录的安装侧来自服务端基线及明确计划，不代表已经完成专用服务端运行验证。
 
 格式参考：https://packwiz.infra.link/reference/pack-format/pack-toml/

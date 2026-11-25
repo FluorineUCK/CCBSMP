@@ -1,0 +1,13 @@
+# Imported version: 2.1.1.5
+name = "ServerWarashi"
+filename = "serverwarashi-1.21.1-2.1.1.5.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/9218/494/serverwarashi-1.21.1-2.1.1.5.jar"
+hash-format = "sha256"
+hash = "4c9c56802fb669fb3d8eeb99e320c6f1108949bae658b196f103b4192963dc1f"
+
+[update.curseforge]
+project-id = 1359418
+file-id = 9218494

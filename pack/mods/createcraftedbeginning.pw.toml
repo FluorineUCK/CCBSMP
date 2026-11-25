@@ -1,0 +1,9 @@
+# Imported version: 0.1.1
+name = "Create Crafted Beginning"
+filename = "createcraftedbeginning-0.1.1.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/9658/463/createcraftedbeginning-0.1.1.jar"
+hash-format = "sha256"
+hash = "03a5f100d385093ff4b9e68c2ed0d94eae38ba04182f05a424ea1aa6fed2e075"
