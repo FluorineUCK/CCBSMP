@@ -8,6 +8,33 @@
     "target_jar_sha256": "fbde3e7f2d0489c465c6b9f1642e53b9ef9b07126b505ab0193fa8679f0466e1",
     "target_enabled": false,
     "runtime_verified": false,
-    "note": "Preserved Test class replacement; target mod is disabled. Do not enable it implicitly."
+    "note": "Preserved Test class replacement; target mod is disabled. Do not enable it implicitly.",
+    "class_source": {
+      "path": "tools/hotai/artifacts/ca/fxco/moreculling/mixin/models/cullshape/BlockStateBase_cullShapeMixin.class",
+      "sha256": "76a67f673208335a6d177fff8c4cfb46f4862f0787f1682f2ed94ebfe27ca916"
+    },
+    "diff_source": {
+      "path": "tools/hotai/artifacts/ca/fxco/moreculling/mixin/models/cullshape/BlockStateBase_cullShapeMixin.badiff",
+      "sha256": "854f754feb17e6069f495e94d8d4d0d09fc561b001db708f1f7e2d7c8497c126"
+    }
+  },
+  {
+    "path": "hotai/dev/leo/sableplayerragdoll/mob/MobRagdollSourceRecovery.badiff",
+    "sha256": "316e4265b82b08a117be0579411e02ca472c8b536cb3ce01ad9ad7c65c7788e3",
+    "side": "both",
+    "target_mod_id": "sable_player_ragdoll",
+    "target_file": "sable_player_ragdoll-1.21.1-0.8.1.jar",
+    "target_jar_sha256": "52231de8cf20713040e948ec41c0813d8b1eab2e7ec327c1ff5da8bdc3ba33fd",
+    "target_enabled": true,
+    "runtime_verified": true,
+    "note": "Isolated NeoForge 21.1.265 + Sable 2.0.6 dedicated server: Hotai target loaded, zombie summoned, clean shutdown. Full ragdoll gameplay and Spark A/B not tested.",
+    "class_source": {
+      "path": "tools/hotai/artifacts/dev/leo/sableplayerragdoll/mob/MobRagdollSourceRecovery.class",
+      "sha256": "b567e35f61b6f1b72e31b7123fdcc2f67665401488cd5fbed4ed7f0ad622236c"
+    },
+    "diff_source": {
+      "path": "tools/hotai/artifacts/dev/leo/sableplayerragdoll/mob/MobRagdollSourceRecovery.badiff",
+      "sha256": "316e4265b82b08a117be0579411e02ca472c8b536cb3ce01ad9ad7c65c7788e3"
+    }
   }
 ]

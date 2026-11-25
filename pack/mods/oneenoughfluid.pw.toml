@@ -1,13 +1,13 @@
-# Imported version: 1.1.1-hotfix
+# Imported version: 1.1.3
 name = "OneEnoughFluid"
-filename = "oneenoughfluid-neoforge-1.21.1-1.1.1-hotfix.jar"
+filename = "OneEnoughFluid-neoforge-1.21.1-1.1.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/dNn2uCxa/versions/DlqCeJC6/oneenoughfluid-neoforge-1.21.1-1.1.1-hotfix.jar"
+url = "https://mediafilez.forgecdn.net/files/9405/257/OneEnoughFluid-neoforge-1.21.1-1.1.3.jar"
 hash-format = "sha256"
-hash = "83c71976dd10b26556d52ac2d3f2b62ed19ea07e28ce6b1ff7ca723f79b16ed8"
+hash = "91ea4e323c7637802ff625a7b835d86a4fe34ff4944a6b5cd5da4d734af7df8d"
 
-[update.modrinth]
-mod-id = "dNn2uCxa"
-version = "DlqCeJC6"
+[update.curseforge]
+project-id = 1366406
+file-id = 9405257

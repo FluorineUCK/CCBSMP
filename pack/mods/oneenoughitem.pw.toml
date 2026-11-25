@@ -1,13 +1,13 @@
-# Imported version: 1.0.8
-name = "oneenoughitem"
-filename = "oneenoughitem-neoforge-1.21.1-1.0.8.jar"
+# Imported version: 1.0.10
+name = "OneEnoughItem"
+filename = "OneEnoughItem-neoforge-1.21.1-1.0.10.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/7pCNymxz/versions/1gXNmHrU/oneenoughitem-neoforge-1.21.1-1.0.8.jar"
+url = "https://mediafilez.forgecdn.net/files/9405/255/OneEnoughItem-neoforge-1.21.1-1.0.10.jar"
 hash-format = "sha256"
-hash = "f2bd5eeeefb7155f95d686a055d0c713da540c3ce6d2fd09fe18caea4f686583"
+hash = "e0597fa6a84ac8aa906904c6d32adcc794e290dc129f829d718120d36becb9e0"
 
-[update.modrinth]
-mod-id = "7pCNymxz"
-version = "1gXNmHrU"
+[update.curseforge]
+project-id = 1312660
+file-id = 9405255

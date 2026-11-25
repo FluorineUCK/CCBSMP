@@ -340,6 +340,25 @@
     }
   },
   {
+    "filename": "[机械动力：矿石开掘] createoreexcavation-1.21-1.6.8.jar",
+    "sha256": "d3a2e1a6e65de7e50ae9e279de399b6535da407abc8e6b4688a56f2e461aab99",
+    "sha512": "844ae32ff0d22f4d3c83db3bae2f6edc0f74cd1a530f900bf18829838d5a354b1e439e52688416130d9fd9a52c3310458bbdbc7458f4c1c1d8ffb088ae802d32",
+    "size": 476990,
+    "ids": [
+      "createoreexcavation"
+    ],
+    "name": "Create Ore Excavation",
+    "version": "1.6.8",
+    "url": "https://cdn.modrinth.com/data/ResbpANg/versions/tivxiPTo/createoreexcavation-1.21-1.6.8.jar",
+    "modrinth": {
+      "mod-id": "ResbpANg",
+      "version": "tivxiPTo"
+    },
+    "curseforge": null,
+    "side": "both",
+    "side_basis": "Published environment; client-only user choices override optional server support."
+  },
+  {
     "filename": "[机械动力：齿轮与麦穗] create_ratatouille-1.21.1-1.4.0.jar",
     "sha256": "718725af78207805901df06f5dbcbf5f5f30fb6def1795b07ff0b60c653df194",
     "sha512": "4d8b5a1430e5001e6d055f836a5de8cfb6454496d992403a06f092f90f9bdec485171c4577c1551b4d5d6356f35013bd76a6e14eb27c406cbb5a8c392c1c9cd1",
@@ -851,6 +870,25 @@
     }
   },
   {
+    "filename": "BEB-NeoForge-1.21-6.0.0.jar",
+    "sha256": "fb31fe9e9684481443d888fadbd54f39e7cb19309a171d53bdf9473cff9c2ba6",
+    "sha512": "7cc5dc954d19c9f483254ddad0ac31d263c173d9c179931b5fc024c00badf6838ee131ccde5b15a7d10c9cabd1a9f70e894a5d39720fcaa30fd96efca33fc46a",
+    "size": 1772579,
+    "ids": [
+      "beb"
+    ],
+    "name": "Beautiful Enchanted Books",
+    "version": "6.0.0",
+    "url": "https://cdn.modrinth.com/data/pcqEicMM/versions/XeLhIDWZ/BEB-NeoForge-1.21-6.0.0.jar",
+    "modrinth": {
+      "mod-id": "pcqEicMM",
+      "version": "XeLhIDWZ"
+    },
+    "curseforge": null,
+    "side": "client",
+    "side_basis": "Client-only published environment or explicit user choice."
+  },
+  {
     "filename": "better-advanced-tooltips-2101.1.0-build.5.jar",
     "sha256": "0f76d46f2f18eb67e67c7974170d7b27deb66473396461c8dc50d6949de1449b",
     "sha512": "05b5cdad948d1735eab7a67a16aaf32814678c392014ec2ada61b8341c0ed1c1ac181cab1de9da3f2c4632592f4a1a5db254bd0543e6778897c8ccd260894142",
@@ -902,24 +940,6 @@
     "modrinth": {
       "mod-id": "Dx2SPPEi",
       "version": "VSlynytd"
-    }
-  },
-  {
-    "filename": "clientsort-neoforge-3.89.2+1.21.1.jar",
-    "sha256": "de14d1671e25b5446b7a9cd17f3693202ddb78351675d166e2723cbeef7c27e7",
-    "sha512": "64fbd0f381e01c698569c1e292c6aa0699c3c685eca824124f674d03aaebc55bda5c879864061809dfdbc89fd2203c166f719edcb811a6b3cf71a9480647b589",
-    "size": 353091,
-    "ids": [
-      "clientsort"
-    ],
-    "name": "ClientSort",
-    "version": "3.89.2",
-    "side": "client",
-    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
-    "url": "https://cdn.modrinth.com/data/K0AkAin6/versions/2c4hM8Ut/clientsort-neoforge-3.89.2%2B1.21.1.jar",
-    "modrinth": {
-      "mod-id": "K0AkAin6",
-      "version": "2c4hM8Ut"
     }
   },
   {
@@ -1067,22 +1087,23 @@
     }
   },
   {
-    "filename": "create-transit-mc1.21.1-0.2.1.jar",
-    "sha256": "7d79d1ab2b644041d5648ee248483e6624ddac15505c392e985d4e9b8f8d6d50",
-    "sha512": "a5acde65e08605185fe1fce6aa5aa4d37f6f081f49c10b52d867ef93e75ac62bf1a981790b92ed65b74795b02eed4be9f080b09c4aab262efd0f331c5789154b",
-    "size": 315054,
+    "filename": "create-transit-mc1.21.1-0.3.0.jar",
+    "sha256": "5658b71204f9fb2754fdd1e0b144e24e2c2fcab6b49430061dad0c7c49c8f92c",
+    "sha512": "e3cf017b910b6218b76664137c90ad3ea240ddf8790e3ba52b42f719c2ed5255f8c0f70684b1cd0eeb44e68af3ead27fd92349f8a3f6ea11645ae24b96fc76f0",
+    "size": 317519,
     "ids": [
       "create_transit"
     ],
     "name": "Create: Transit",
-    "version": "0.2.1",
-    "side": "both",
-    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
-    "url": "https://cdn.modrinth.com/data/TiQAYxVn/versions/Qi2l5Wgg/create-transit-mc1.21.1-0.2.1.jar",
+    "version": "0.3.0",
+    "url": "https://cdn.modrinth.com/data/TiQAYxVn/versions/bblYDGb4/create-transit-mc1.21.1-0.3.0.jar",
     "modrinth": {
       "mod-id": "TiQAYxVn",
-      "version": "Qi2l5Wgg"
-    }
+      "version": "bblYDGb4"
+    },
+    "curseforge": null,
+    "side": "both",
+    "side_basis": "Published environment; client-only user choices override optional server support."
   },
   {
     "filename": "create_aquatic_ambitions-1.21.1-2.0.4.jar",
@@ -1134,24 +1155,6 @@
     "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
     "url": "https://mediafilez.forgecdn.net/files/9810/596/create_crystal_industry-1.0.13.jar",
     "modrinth": null
-  },
-  {
-    "filename": "create_cyber_goggles-neoforge-1.21.1-8.8.4.jar",
-    "sha256": "e1d99cd868614add3ce1d9c86a3339f3a3fd77c2e7fa93dd3046a208246bf199",
-    "sha512": "26f9c7893e1fff40d2d4d77aa4f18817b952ac8a00b13bfd4ac34edbf11b6e808c0086744e68038eb2e605d0943d1f1b906e8976d146fa888dd84665c4afbc1e",
-    "size": 1239380,
-    "ids": [
-      "create_cyber_goggles"
-    ],
-    "name": "Create: Cyber Goggles",
-    "version": "8.8.4",
-    "side": "client",
-    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
-    "url": "https://cdn.modrinth.com/data/TlQAWQCY/versions/n6rRMglY/create_cyber_goggles-neoforge-1.21.1-8.8.4.jar",
-    "modrinth": {
-      "mod-id": "TlQAWQCY",
-      "version": "n6rRMglY"
-    }
   },
   {
     "filename": "create_hand_made-0.7.0-beta.jar",
@@ -1292,24 +1295,6 @@
     }
   },
   {
-    "filename": "createfurnitureseats-5.0.jar",
-    "sha256": "cae0cbda3d5e190fab5b06136e2b59620757d2c0d670aa091873ad203fe54524",
-    "sha512": "5edde6a6ed78856a299f65f67adc558559a6cf36db9911d544e1a1da1fa6d79e308f63c32e30ef55999085a17eaf7e4b9592d4945c595bbf79808e723a406609",
-    "size": 86754,
-    "ids": [
-      "createfurnitureseats"
-    ],
-    "name": "[Furniture] Create/Sable Compat",
-    "version": "5.0",
-    "side": "both",
-    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
-    "url": "https://cdn.modrinth.com/data/W2K5jx3j/versions/nCfG3qog/createfurnitureseats-5.0.jar",
-    "modrinth": {
-      "mod-id": "W2K5jx3j",
-      "version": "nCfG3qog"
-    }
-  },
-  {
     "filename": "creategearsandtavern-1.2.0-1.21.1.jar",
     "sha256": "357e0d456130b7d4ab863e844565809a660a9d1de87432a04817cab745989aa2",
     "sha512": "00f62226a3e78ce82f5ed3900ff38c05eb1f43788799d56146c29c5a309b5c19ed7fbb09c5a5338498fbfa62a388f3cdc5d55800da92ac46279590f116b240df",
@@ -1400,22 +1385,23 @@
     }
   },
   {
-    "filename": "curios-neoforge-9.6.0-1.21.1.jar",
-    "sha256": "5ae6703ac25a5cfb138ce34924799b642021c8109aacef578e899e8591d67a3e",
-    "sha512": "1453d7c970f37b357967dbdad080ed107e90eea2b151e88a5e51b271a38ac72686d47a328fb8b3125cb8c6069130b72ac4b1c023f18ba5244f7550e4599bf8a4",
-    "size": 411707,
+    "filename": "curios-neoforge-9.6.1+1.21.1.jar",
+    "sha256": "84188457b9ef22e74113f1856fca7ffeb1195445627bfdf976f2e3006f0f3f5b",
+    "sha512": "da2b98fac6c9c01cddbc37e35392f9ba4ef430b580549297bfbff2f04632d31b63da66f5db281e28bc7828f7a0f31672c0a71008ac8f2f530fe43e78ae0c4bc0",
+    "size": 411934,
     "ids": [
       "curios"
     ],
     "name": "Curios API",
-    "version": "9.6.0+1.21.1",
-    "side": "both",
-    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
-    "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/KJsZIQrT/curios-neoforge-9.6.0%2B1.21.1.jar",
+    "version": "9.6.1+1.21.1",
+    "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/8lywiRts/curios-neoforge-9.6.1%2B1.21.1.jar",
     "modrinth": {
       "mod-id": "vvuO3ImH",
-      "version": "KJsZIQrT"
-    }
+      "version": "8lywiRts"
+    },
+    "curseforge": null,
+    "side": "both",
+    "side_basis": "Published environment; client-only user choices override optional server support."
   },
   {
     "filename": "fastleafdecay-35.jar",
@@ -1451,6 +1437,20 @@
     }
   },
   {
+    "filename": "free_creates_railway.jar",
+    "sha256": "c8f37cae817edd382e250a318d797c417633875ad86efd6fc8a16470025f6de1",
+    "sha512": "28f119f6f86b38b99418ef68da023f2e02071830184cf60c428a82457cd84c9862d6eef521b3ddcc34c4fc7252f57697ec38e213741c26a3da64ce27cd5e8614",
+    "size": 12797,
+    "ids": [
+      "fc_railway"
+    ],
+    "name": "Free Creates Railway",
+    "version": "1.0.0",
+    "url": "https://github.com/LrcxzzMC/Fcr/releases/download/Release1.0.0/free_creates_railway.jar",
+    "side": "both",
+    "side_basis": "Published environment; client-only user choices override optional server support."
+  },
+  {
     "filename": "ftb-library-neoforge-2101.1.40.jar",
     "sha256": "d97d8ae91b5049406f1bac5634ecbceafe7ff0f00e850047792deef4aec05d50",
     "sha512": "e8c6b9670b8fbf20b3e7fde910ed7b3b5a6827180a3373bab3041e6f764a32e8048cbfaed66bc3bea8ace0ba8fd6bf60289ec00e68054c6505ab80a0b11168a1",
@@ -1479,6 +1479,25 @@
     "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
     "url": "https://mediafilez.forgecdn.net/files/8231/400/ftb-ultimine-neoforge-2101.1.15.jar",
     "modrinth": null
+  },
+  {
+    "filename": "fuck-sable-1.8.0.jar",
+    "sha256": "7104ad0d3823b02ea047c7043103987476dcbe3230ce323bf2c68d11781bc13d",
+    "sha512": "7d048282db2414ff389550c2f173926ecce358432bf0e65480c340f70d0e96bedd4191150ae32edca6bac5180e2c3010af03d6ad43996f67246bc7d605df9fbd",
+    "size": 203063,
+    "ids": [
+      "fucksable"
+    ],
+    "name": "fuck Sable",
+    "version": "1.8.0",
+    "url": "https://cdn.modrinth.com/data/YS1hdEUp/versions/7yXD09Rw/fuck-sable-1.8.0.jar",
+    "modrinth": {
+      "mod-id": "YS1hdEUp",
+      "version": "7yXD09Rw"
+    },
+    "curseforge": null,
+    "side": "server",
+    "side_basis": "Published environment; client-only user choices override optional server support."
   },
   {
     "filename": "gbf-1.21.1-1.0.2.jar",
@@ -1569,6 +1588,44 @@
       "mod-id": "YL57xq9U",
       "version": "KduFYu4t"
     }
+  },
+  {
+    "filename": "Jade-1.21.1-NeoForge-15.10.6.jar",
+    "sha256": "276f1f65a20d04f536989c4f311949d770b52c440c23c2b904a08860f3c93810",
+    "sha512": "dad9755dce8d85d914fc4df2baa0211f13e5839a71c1925fdd01f69081a95e30a2934e6273f8b01f0169adebe7a9dae57a8d904de0c4cb36dc17369bb474f0f2",
+    "size": 726853,
+    "ids": [
+      "jade"
+    ],
+    "name": "Jade",
+    "version": "15.10.6+neoforge",
+    "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/eYz2YBGT/Jade-1.21.1-NeoForge-15.10.6.jar",
+    "modrinth": {
+      "mod-id": "nvQzSEkH",
+      "version": "eYz2YBGT"
+    },
+    "curseforge": null,
+    "side": "both",
+    "side_basis": "Published environment; client-only user choices override optional server support."
+  },
+  {
+    "filename": "JadeAddons-1.21.1-NeoForge-6.1.2.jar",
+    "sha256": "1e7ce561f66c90446797e57f836c4459bb0dbc408b6bd551e5e18038774641ae",
+    "sha512": "7fc0f413a73e11af6463cc246d9390e0cbe14ff46d0778d9893be59bb1dbbf300a745cc50731412ab4a940f7fe06e5433fa61a423a38ff64b6c6742c5ee62c7b",
+    "size": 82315,
+    "ids": [
+      "jadeaddons"
+    ],
+    "name": "Jade Addons",
+    "version": "6.1.2+neoforge",
+    "url": "https://cdn.modrinth.com/data/xuDOzCLy/versions/O3F6Dkle/JadeAddons-1.21.1-NeoForge-6.1.2.jar",
+    "modrinth": {
+      "mod-id": "xuDOzCLy",
+      "version": "O3F6Dkle"
+    },
+    "curseforge": null,
+    "side": "both",
+    "side_basis": "Published environment; client-only user choices override optional server support."
   },
   {
     "filename": "kaleidoscope_lib-1.1.1-neoforge-mc1.21.1.jar",
@@ -1723,6 +1780,25 @@
     }
   },
   {
+    "filename": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+    "sha256": "68e6f4201c5de97b77929a7215c9552495696ca6a3bf3ae4eacc34e135f6cc8b",
+    "sha512": "f95c0cc881211ee0442434976775e07aae40b4a2ba4e3a85455bc57ca9d3c991e239cd98374a8abd442dc9c378dcd9001e2caa1bf69991d424b5652dd7f3483b",
+    "size": 73938,
+    "ids": [
+      "mousetweaks"
+    ],
+    "name": "Mouse Tweaks",
+    "version": "2.26.1",
+    "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/9I21YYxf/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+    "modrinth": {
+      "mod-id": "aC3cM3Vq",
+      "version": "9I21YYxf"
+    },
+    "curseforge": null,
+    "side": "client",
+    "side_basis": "Client-only published environment or explicit user choice."
+  },
+  {
     "filename": "netmusiccanplayradio-0.2.0-neoforge+mc1.21.1.jar",
     "sha256": "af132a1deca354c32bb560699b9d28ba5fe76ae30f8a6e1278b68cdf8770ccde",
     "sha512": "d24d834fdbdedde6e6b669466f060a5306ffb17f7142b45ae78a8d3df49ef209ee6e588c4d5ffdc1893d9e91f15598105b46d00e92b391053d0ad2698ba5f970",
@@ -1759,76 +1835,80 @@
     }
   },
   {
-    "filename": "OELib-neoforge-1.21.1-0.2.3.jar",
-    "sha256": "876e7d8837be3e4471880a698fbced371f5094a8610d73f72cb87ae38b4dbcae",
-    "sha512": "bf5ffa8abad4b972a2b49ac109c7f7a7fad1c9eb84f51851185c1c3717941c7d3a0229c284e9ddfafcaf2bde8bd17df9e13ce5e991d567ede505346c42a60b1b",
-    "size": 840689,
+    "filename": "oelib-neoforge-1.21.1-0.3.2.jar",
+    "sha256": "c088828b332da215f428c93f55c033bef8357647c6eccafe01fcf6ac4dd2e3f3",
+    "sha512": "14ecd87302a97d63e9eeafac196620531e45edf2010d3d78a704cabb6bd3198f0945e1de2a54632c9d169feebde0f02120e79afbe03a928cc531d0c495bb7601",
+    "size": 4020395,
     "ids": [
       "oelib"
     ],
     "name": "OELib",
-    "version": "0.2.3",
+    "version": "0.3.2",
+    "url": "https://mediafilez.forgecdn.net/files/9486/535/oelib-neoforge-1.21.1-0.3.2.jar",
+    "curseforge": {
+      "project-id": 1319210,
+      "file-id": 9486535
+    },
+    "modrinth": null,
     "side": "both",
-    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
-    "url": "https://cdn.modrinth.com/data/7ODqOXka/versions/GLkyyaFG/OELib-neoforge-1.21.1-0.2.3.jar",
-    "modrinth": {
-      "mod-id": "7ODqOXka",
-      "version": "GLkyyaFG"
-    }
+    "side_basis": "Published environment; client-only user choices override optional server support."
   },
   {
-    "filename": "oneenoughblock-neoforge-1.21.1-1.1.2-hotfix.jar",
-    "sha256": "6ded4ef519b1598d66fc120df6271060b848fb06a174f74540e3de2ef407155b",
-    "sha512": "e3964e1bd3f8680da45c581284c132404e8b46a820ef6055a7157a08c72a44ddbf123ed37af2d5526bd3cefec3b21ae83597f87ada981a359cc4852724f68f75",
-    "size": 85490,
+    "filename": "OneEnoughBlock-neoforge-1.21.1-1.1.5.jar",
+    "sha256": "e9154385d8f122721fad3751c15ccbce2791ae27e85b22f8e33d8be01089ae81",
+    "sha512": "90ccb3c5d9bc55b10f014e31ed4d4ea8fd636aebe1745adde2d06f463cea46634bf33b4a34460117c7cae9ffb6be9c4280aea0fd6057e68bf912de76dfc7cc13",
+    "size": 84730,
     "ids": [
       "oneenoughblock"
     ],
     "name": "OneEnoughBlock",
-    "version": "1.1.2-hotfix",
+    "version": "1.1.5",
+    "url": "https://mediafilez.forgecdn.net/files/9405/256/OneEnoughBlock-neoforge-1.21.1-1.1.5.jar",
+    "curseforge": {
+      "project-id": 1356867,
+      "file-id": 9405256
+    },
+    "modrinth": null,
     "side": "both",
-    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
-    "url": "https://cdn.modrinth.com/data/gP7RIb0Q/versions/PDVoFCX9/oneenoughblock-neoforge-1.21.1-1.1.2-hotfix.jar",
-    "modrinth": {
-      "mod-id": "gP7RIb0Q",
-      "version": "PDVoFCX9"
-    }
+    "side_basis": "Published environment; client-only user choices override optional server support."
   },
   {
-    "filename": "oneenoughfluid-neoforge-1.21.1-1.1.1-hotfix.jar",
-    "sha256": "83c71976dd10b26556d52ac2d3f2b62ed19ea07e28ce6b1ff7ca723f79b16ed8",
-    "sha512": "264600a89ade7c27138d8fb27739d32dd545904e721479d120bc24052df0b071ab349a4df88012ec4e5dc2d9a68d0c52d52d37fad07e4bf902a2ab111513ec30",
-    "size": 81894,
+    "filename": "OneEnoughFluid-neoforge-1.21.1-1.1.3.jar",
+    "sha256": "91ea4e323c7637802ff625a7b835d86a4fe34ff4944a6b5cd5da4d734af7df8d",
+    "sha512": "1c09ea9f6e854cb0628a83abbbf50afaf56cc3355c947021628f76707e3568f520e9567839f91eb541c462fea72822ea6191211bf81212146f8493bb4821f8ac",
+    "size": 83925,
     "ids": [
       "oneenoughfluid"
     ],
     "name": "OneEnoughFluid",
-    "version": "1.1.1-hotfix",
+    "version": "1.1.3",
+    "url": "https://mediafilez.forgecdn.net/files/9405/257/OneEnoughFluid-neoforge-1.21.1-1.1.3.jar",
+    "curseforge": {
+      "project-id": 1366406,
+      "file-id": 9405257
+    },
+    "modrinth": null,
     "side": "both",
-    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
-    "url": "https://cdn.modrinth.com/data/dNn2uCxa/versions/DlqCeJC6/oneenoughfluid-neoforge-1.21.1-1.1.1-hotfix.jar",
-    "modrinth": {
-      "mod-id": "dNn2uCxa",
-      "version": "DlqCeJC6"
-    }
+    "side_basis": "Published environment; client-only user choices override optional server support."
   },
   {
-    "filename": "oneenoughitem-neoforge-1.21.1-1.0.8.jar",
-    "sha256": "f2bd5eeeefb7155f95d686a055d0c713da540c3ce6d2fd09fe18caea4f686583",
-    "sha512": "cfb459b24ad65646b2c1abfd3ed23d92e14c69bc1b973cd164d31ccbc2861611220b323be4dfafd14308e448eed7dc25a0703e0a6793a03325032ee802f52a80",
-    "size": 260782,
+    "filename": "OneEnoughItem-neoforge-1.21.1-1.0.10.jar",
+    "sha256": "e0597fa6a84ac8aa906904c6d32adcc794e290dc129f829d718120d36becb9e0",
+    "sha512": "3904ff6243f3ec1b8e7d57c4f3b9e45ca4e90c43659059ce78d8932fe52592f5c033255ddac35052dd31f602b856b00f90ca60ca052bce7524fc829006836c0a",
+    "size": 266129,
     "ids": [
       "oneenoughitem"
     ],
-    "name": "oneenoughitem",
-    "version": "1.0.8",
+    "name": "OneEnoughItem",
+    "version": "1.0.10",
+    "url": "https://mediafilez.forgecdn.net/files/9405/255/OneEnoughItem-neoforge-1.21.1-1.0.10.jar",
+    "curseforge": {
+      "project-id": 1312660,
+      "file-id": 9405255
+    },
+    "modrinth": null,
     "side": "both",
-    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
-    "url": "https://cdn.modrinth.com/data/7pCNymxz/versions/1gXNmHrU/oneenoughitem-neoforge-1.21.1-1.0.8.jar",
-    "modrinth": {
-      "mod-id": "7pCNymxz",
-      "version": "1gXNmHrU"
-    }
+    "side_basis": "Published environment; client-only user choices override optional server support."
   },
   {
     "filename": "Platform-neoforge-1.21.1-1.4.2.jar",
@@ -1885,6 +1965,25 @@
     }
   },
   {
+    "filename": "railways-0.3.0-beta.2+neoforge-mc1.21.1.jar",
+    "sha256": "64b74ddad661deae1cfe7e8334cfa3d39bb8ef7b761f83595ba0476c4a9bb1d5",
+    "sha512": "def5c767467bf7863e2efc1a8cc3bf3442e1090ee1504e447c4120b9ff4ff6780de93d2a7d1bf696cd19407010d465b99f00bbf780776b0a9648804fa1b45f75",
+    "size": 18728584,
+    "ids": [
+      "railways"
+    ],
+    "name": "Create: Steam 'n' Rails 1.21.1",
+    "version": "0.3.0-beta.2+neoforge-mc1.21.1",
+    "url": "https://cdn.modrinth.com/data/L3Jv0QZI/versions/czVeSmZo/railways-0.3.0-beta.2%2Bneoforge-mc1.21.1.jar",
+    "modrinth": {
+      "mod-id": "L3Jv0QZI",
+      "version": "czVeSmZo"
+    },
+    "curseforge": null,
+    "side": "both",
+    "side_basis": "Published environment; client-only user choices override optional server support."
+  },
+  {
     "filename": "randomoptimization-1.7.7-all-1.21.1.jar",
     "sha256": "17a36b95992c66a0f231f5f78884afd486d2c5560930657f9c0624e2609f7f5b",
     "sha512": "869f0088ad9007ff029c4272e4c07243fcb10b15aaa27bc9ba7a526227a442cc9b27a11759cc081b8312c5b2327abb3cfc66add38ee6cb29e8747865c7596ce4",
@@ -1894,8 +1993,8 @@
     ],
     "name": "Random Optimization",
     "version": "1.7.7",
-    "side": "both",
-    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "side": "client",
+    "side_basis": "Client-only published environment or explicit user choice.",
     "url": "https://cdn.modrinth.com/data/Mjoo9rPv/versions/5n7HtT4g/randomoptimization-1.7.7-all-1.21.1.jar",
     "modrinth": {
       "mod-id": "Mjoo9rPv",
@@ -1956,6 +2055,25 @@
       "mod-id": "I3mWDgfy",
       "version": "7VQ9pGev"
     }
+  },
+  {
+    "filename": "sablejade-1.3.0.jar",
+    "sha256": "f26e974115226d83ec363e3d327e739c87ded760d781ca0538181094eb4bb9a2",
+    "sha512": "20a0b808b5e1ea0e7251bd9ac5161bd96cf504b054f27f85343980956980210be6b364e8d6cbadbde9a6588550afd24e66ee5f17480839998772dc9de719ad64",
+    "size": 301532,
+    "ids": [
+      "sablejade"
+    ],
+    "name": "Jade Sable Compat",
+    "version": "1.3.0",
+    "url": "https://cdn.modrinth.com/data/jCrJ4iGH/versions/cxUohR7A/sablejade-1.3.0.jar",
+    "modrinth": {
+      "mod-id": "jCrJ4iGH",
+      "version": "cxUohR7A"
+    },
+    "curseforge": null,
+    "side": "client",
+    "side_basis": "Client-only published environment or explicit user choice."
   },
   {
     "filename": "sawmill-1.21-1.9.3-neoforge.jar",
@@ -2049,22 +2167,42 @@
     }
   },
   {
-    "filename": "sophisticatedcore-1.21.1-1.5.42.2496.jar",
-    "sha256": "d1d8713af68a232043aebc0f16dbb953c2a685042164c614147f6121c17b59b9",
-    "sha512": "d5a57db0c3485d8455ae64780e174d962a53a2592932ddf39c5b74197bb39431eb225d26b834cf90513f5c8ec45945e9dc1230bf8fe11f7801a52d8658e9acd5",
-    "size": 1856954,
+    "filename": "sophisticatedcore-1.21.1-1.5.43.2504.jar",
+    "sha256": "6273cfa446b338f165a9c799ddd78fcb320fad0b519a70d969165b7518d3bac8",
+    "sha512": "873cdbfd318233c5a0c165e947e8cbe550cd9a843c69d0e7a3316960c62adf75eb52896c9d2c80403693ce28d4c2ecea11fff62fd2a79c5df7ccfe7094bf0f72",
+    "size": 1856959,
     "ids": [
       "sophisticatedcore"
     ],
     "name": "Sophisticated Core",
-    "version": "1.5.42",
-    "side": "both",
-    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
-    "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/URsV4WGl/sophisticatedcore-1.21.1-1.5.42.2496.jar",
+    "version": "1.5.43",
+    "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/h272jVeM/sophisticatedcore-1.21.1-1.5.43.2504.jar",
     "modrinth": {
       "mod-id": "nmoqTijg",
-      "version": "URsV4WGl"
-    }
+      "version": "h272jVeM"
+    },
+    "curseforge": null,
+    "side": "both",
+    "side_basis": "Published environment; client-only user choices override optional server support."
+  },
+  {
+    "filename": "sophisticatedinventoryinteractions-1.21.1-0.1.16.239.jar",
+    "sha256": "1e0d1355e961e392f3a0a0ec5354374c869919911e4d4c352772a37a4fb217c8",
+    "sha512": "cfa45d53fcbec9562185ba3c72a7f7a0edadf3e0c899f8b619b347ea8cfc059650a91952444c40c80c5187fc8ea62790eea31eaae569897d903cc6c4706f2ff9",
+    "size": 144179,
+    "ids": [
+      "sophisticatedinventoryinteractions"
+    ],
+    "name": "Sophisticated Inventory Interactions",
+    "version": "0.1.16",
+    "url": "https://cdn.modrinth.com/data/orgY0JIo/versions/7oGWifbP/sophisticatedinventoryinteractions-1.21.1-0.1.16.239.jar",
+    "modrinth": {
+      "mod-id": "orgY0JIo",
+      "version": "7oGWifbP"
+    },
+    "curseforge": null,
+    "side": "both",
+    "side_basis": "Published environment; client-only user choices override optional server support."
   },
   {
     "filename": "spawn-4.0.8-1.21.1.jar",
@@ -2140,6 +2278,25 @@
     }
   },
   {
+    "filename": "swaying_garden-1.21.1-neoforge-1.1.2.1.jar",
+    "sha256": "b95858a1f60099e7243bc7c808cc77cc093d2ef71dd424c125704bb6ea0e0c29",
+    "sha512": "c7ad468b9bc51729617922e5bd2293e5bfcfccfbb6b22012b891ee768bcbea72a085639bdb2ef50f7364be2d12d451677f982ad51a55be6c2027c2dd2c3d9b26",
+    "size": 99155,
+    "ids": [
+      "swaying_garden"
+    ],
+    "name": "Swaying Garden",
+    "version": "1.1.2.1",
+    "url": "https://mediafilez.forgecdn.net/files/6936/17/swaying_garden-1.21.1-neoforge-1.1.2.1.jar",
+    "curseforge": {
+      "project-id": 1203057,
+      "file-id": 6936017
+    },
+    "modrinth": null,
+    "side": "client",
+    "side_basis": "Client-only published environment or explicit user choice."
+  },
+  {
     "filename": "teallib-1.3.teal.jar",
     "sha256": "297004b131df16839a09f97ecd703ea20e89937289e5613d3711e385f9377218",
     "sha512": "11060adb8aae151879e8e4db4ad5409df1044784fe9e6d6a5f4750ea778317bd37ca9129f39d23e18988b912ab036a9fb3a128761726f927ac23797dd02ed381",
@@ -2211,6 +2368,25 @@
       "project-id": 1764993,
       "file-id": 9773440
     }
+  },
+  {
+    "filename": "xaerominimap-neoforge-1.21.1-26.6.0.jar",
+    "sha256": "d3398221b2262abfe2d394b588122e5b3fd2e4d8c4bf66a5fd357352fcf51b2e",
+    "sha512": "d56b93ddb921285624b491d6a85aba23748bec9974867399c881c257eb25a746df92a735473adf3a6875e0928a56ff78245d5238eb9207b0e45c3fec20c896dc",
+    "size": 2186351,
+    "ids": [
+      "xaerominimap"
+    ],
+    "name": "Xaero's Minimap",
+    "version": "26.6.0",
+    "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/irjR7dHk/xaerominimap-neoforge-1.21.1-26.6.0.jar",
+    "modrinth": {
+      "mod-id": "1bokaNcj",
+      "version": "irjR7dHk"
+    },
+    "curseforge": null,
+    "side": "client",
+    "side_basis": "Client-only published environment or explicit user choice."
   },
   {
     "filename": "xaeroworldmap-neoforge-1.21.1-1.47.0.jar",

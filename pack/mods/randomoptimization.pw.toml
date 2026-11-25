@@ -1,7 +1,7 @@
 # Imported version: 1.7.7
 name = "Random Optimization"
 filename = "randomoptimization-1.7.7-all-1.21.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/Mjoo9rPv/versions/5n7HtT4g/randomoptimization-1.7.7-all-1.21.1.jar"

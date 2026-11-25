@@ -1,0 +1,13 @@
+# Imported version: 0.1.16
+name = "Sophisticated Inventory Interactions"
+filename = "sophisticatedinventoryinteractions-1.21.1-0.1.16.239.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/orgY0JIo/versions/7oGWifbP/sophisticatedinventoryinteractions-1.21.1-0.1.16.239.jar"
+hash-format = "sha256"
+hash = "1e0d1355e961e392f3a0a0ec5354374c869919911e4d4c352772a37a4fb217c8"
+
+[update.modrinth]
+mod-id = "orgY0JIo"
+version = "7oGWifbP"

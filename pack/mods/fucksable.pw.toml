@@ -1,0 +1,13 @@
+# Imported version: 1.8.0
+name = "fuck Sable"
+filename = "fuck-sable-1.8.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/YS1hdEUp/versions/7yXD09Rw/fuck-sable-1.8.0.jar"
+hash-format = "sha256"
+hash = "7104ad0d3823b02ea047c7043103987476dcbe3230ce323bf2c68d11781bc13d"
+
+[update.modrinth]
+mod-id = "YS1hdEUp"
+version = "7yXD09Rw"

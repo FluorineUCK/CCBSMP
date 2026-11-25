@@ -1,0 +1,34 @@
+[
+  {
+    "path": "resourcepacks/create_mcGUI_v2.13.0.zip",
+    "sha512": "552af53f2ef5d8253eaaaf72a1dd9a5e56d3ba7fba117bb640bf9be49568a57e22a0fe26928ecf1e3b04c8b8e9c7e2af193a7b48dc0e34f19353d1a50fd50e85",
+    "sha256": "902dd26920021a90104ea3453e04a1f5e224228ab4fe910623be1c57bff21b8a",
+    "size": 1790191,
+    "filename": "create_mcGUI_v2.13.0.zip",
+    "side": "client",
+    "name": "Create mcGUI",
+    "slug": "create-mcgui",
+    "version": "2.13.0",
+    "url": "https://mediafilez.forgecdn.net/files/9691/447/create_mcGUI_v2.13.0.zip",
+    "curseforge": {
+      "project-id": 1674897,
+      "file-id": 9691447
+    }
+  },
+  {
+    "path": "shaderpacks/ComplementaryReimagined_r5.10.zip",
+    "sha512": "edced01fb330af215ac73b8d9d31011565089f971f87145b87f413f40ee2128b48970aed26f8e5e879899647ec847b3eefca64bfc013aabbcf25275a207f663d",
+    "sha256": "4a61c33c87a7febe7ce898c51ca233683cd1d9854dd8fb7b0d039c88dec2fca2",
+    "size": 567387,
+    "filename": "ComplementaryReimagined_r5.10.zip",
+    "side": "client",
+    "name": "Complementary Reimagined",
+    "slug": "complementary-reimagined",
+    "version": "r5.10",
+    "url": "https://cdn.modrinth.com/data/HVnmMxH1/versions/RKfUB9VC/ComplementaryReimagined_r5.10.zip",
+    "modrinth": {
+      "mod-id": "HVnmMxH1",
+      "version": "RKfUB9VC"
+    }
+  }
+]

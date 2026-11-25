@@ -1,13 +1,13 @@
-# Imported version: 0.2.3
+# Imported version: 0.3.2
 name = "OELib"
-filename = "OELib-neoforge-1.21.1-0.2.3.jar"
+filename = "oelib-neoforge-1.21.1-0.3.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/7ODqOXka/versions/GLkyyaFG/OELib-neoforge-1.21.1-0.2.3.jar"
+url = "https://mediafilez.forgecdn.net/files/9486/535/oelib-neoforge-1.21.1-0.3.2.jar"
 hash-format = "sha256"
-hash = "876e7d8837be3e4471880a698fbced371f5094a8610d73f72cb87ae38b4dbcae"
+hash = "c088828b332da215f428c93f55c033bef8357647c6eccafe01fcf6ac4dd2e3f3"
 
-[update.modrinth]
-mod-id = "7ODqOXka"
-version = "GLkyyaFG"
+[update.curseforge]
+project-id = 1319210
+file-id = 9486535

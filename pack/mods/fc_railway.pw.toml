@@ -1,0 +1,9 @@
+# Imported version: 1.0.0
+name = "Free Creates Railway"
+filename = "free_creates_railway.jar"
+side = "both"
+
+[download]
+url = "https://github.com/LrcxzzMC/Fcr/releases/download/Release1.0.0/free_creates_railway.jar"
+hash-format = "sha256"
+hash = "c8f37cae817edd382e250a318d797c417633875ad86efd6fc8a16470025f6de1"

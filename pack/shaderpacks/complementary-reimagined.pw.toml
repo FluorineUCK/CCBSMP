@@ -1,0 +1,13 @@
+# Imported version: r5.10
+name = "Complementary Reimagined"
+filename = "ComplementaryReimagined_r5.10.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/HVnmMxH1/versions/RKfUB9VC/ComplementaryReimagined_r5.10.zip"
+hash-format = "sha256"
+hash = "4a61c33c87a7febe7ce898c51ca233683cd1d9854dd8fb7b0d039c88dec2fca2"
+
+[update.modrinth]
+mod-id = "HVnmMxH1"
+version = "RKfUB9VC"

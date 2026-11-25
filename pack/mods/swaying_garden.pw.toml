@@ -1,0 +1,13 @@
+# Imported version: 1.1.2.1
+name = "Swaying Garden"
+filename = "swaying_garden-1.21.1-neoforge-1.1.2.1.jar"
+side = "client"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/6936/17/swaying_garden-1.21.1-neoforge-1.1.2.1.jar"
+hash-format = "sha256"
+hash = "b95858a1f60099e7243bc7c808cc77cc093d2ef71dd424c125704bb6ea0e0c29"
+
+[update.curseforge]
+project-id = 1203057
+file-id = 6936017

@@ -1,13 +1,13 @@
-# Imported version: 9.6.0+1.21.1
+# Imported version: 9.6.1+1.21.1
 name = "Curios API"
-filename = "curios-neoforge-9.6.0-1.21.1.jar"
+filename = "curios-neoforge-9.6.1+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/vvuO3ImH/versions/KJsZIQrT/curios-neoforge-9.6.0%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/vvuO3ImH/versions/8lywiRts/curios-neoforge-9.6.1%2B1.21.1.jar"
 hash-format = "sha256"
-hash = "5ae6703ac25a5cfb138ce34924799b642021c8109aacef578e899e8591d67a3e"
+hash = "84188457b9ef22e74113f1856fca7ffeb1195445627bfdf976f2e3006f0f3f5b"
 
 [update.modrinth]
 mod-id = "vvuO3ImH"
-version = "KJsZIQrT"
+version = "8lywiRts"

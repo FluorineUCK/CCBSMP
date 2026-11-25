@@ -1,13 +1,13 @@
-# Imported version: 1.1.2-hotfix
+# Imported version: 1.1.5
 name = "OneEnoughBlock"
-filename = "oneenoughblock-neoforge-1.21.1-1.1.2-hotfix.jar"
+filename = "OneEnoughBlock-neoforge-1.21.1-1.1.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/gP7RIb0Q/versions/PDVoFCX9/oneenoughblock-neoforge-1.21.1-1.1.2-hotfix.jar"
+url = "https://mediafilez.forgecdn.net/files/9405/256/OneEnoughBlock-neoforge-1.21.1-1.1.5.jar"
 hash-format = "sha256"
-hash = "6ded4ef519b1598d66fc120df6271060b848fb06a174f74540e3de2ef407155b"
+hash = "e9154385d8f122721fad3751c15ccbce2791ae27e85b22f8e33d8be01089ae81"
 
-[update.modrinth]
-mod-id = "gP7RIb0Q"
-version = "PDVoFCX9"
+[update.curseforge]
+project-id = 1356867
+file-id = 9405256

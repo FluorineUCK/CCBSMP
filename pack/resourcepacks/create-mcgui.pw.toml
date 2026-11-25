@@ -1,0 +1,13 @@
+# Imported version: 2.13.0
+name = "Create mcGUI"
+filename = "create_mcGUI_v2.13.0.zip"
+side = "client"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/9691/447/create_mcGUI_v2.13.0.zip"
+hash-format = "sha256"
+hash = "902dd26920021a90104ea3453e04a1f5e224228ab4fe910623be1c57bff21b8a"
+
+[update.curseforge]
+project-id = 1674897
+file-id = 9691447

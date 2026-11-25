@@ -2,6 +2,23 @@
 
 ## 未发布 — 1.1.0-rc.1
 
+### 2026-11-25：补齐 Hotai 源形式及 OE 目录
+- 为当前全部两套 Hotai 补丁保存完整 `.class` 和已有 `.badiff`，位于 tools/hotai/artifacts/；保留 Java 修改器，运行目录不重复加载两种形式。
+- 对精确版本 JAR 进行差分回放，两套 badiff 结果均与保留 class 逐字节一致；不新增游戏运行验证结论，不启用 MoreCulling。
+- OEI/OEB/OEF 的模组引用和 config 已同步；补入此前遗漏的游戏根目录 oei/、oeb/、oef/，各含当前 Test 的 global_replacement_cache.dat 原样快照，并纳入后续导入和哈希索引。
+- 此时三个数据文件各 20 字节，common.json 的 Default_Rules_data / Default_Rules_tag 均为空；仅记录现状，不新建替换规则，不修改正式世界。
+
+### 2026-11-25：按当前 Test 对齐本地候选
+- 当前基线为 136 个启用 JAR，全部有精确文件哈希和公开下载引用；相对此前 127 项，新增 12 项、升级 7 项、移除 3 项。
+- 升级 OELib 0.3.2、OEI 1.0.10、OEB 1.1.5、OEF 1.1.3、Curios 9.6.1、Create Transit 0.3.0、SophisticatedCore 1.5.43.2504。
+- 以 Test 为准移除 ClientSort、Create Cyber Goggles、Create Furniture Seats 引用，不修改 Test，也不自动装回。
+- Random Optimization、BEB、MouseTweaks、Swaying Garden 等保持仅客户端；新模组安装侧已记录，不等于专用服务端兼容测试通过。
+- 同步 201 个配置/脚本/Hotai 文件，排除 56 个个人、缓存、备份、禁用模组或待人工审查文件。
+- 加入 resourcepacks/create_mcGUI_v2.13.0.zip 与 shaderpacks/ComplementaryReimagined_r5.10.zip 的下载元数据、安装路径和哈希；不提交 ZIP，不强制玩家的光影/资源包启用设置。
+- 保留 MoreCulling 禁用补丁及 ragdoll 补丁原有目标、安装侧和有限验证说明；修正导入脚本将所有补丁误记为 MoreCulling 的问题，新增/变化的补丁必须先审核。
+- 静态校验：339 个索引文件、136 个模组引用、2 个资源引用，未解析下载 0；8 个自动化测试通过。完整整合包运行回归尚未完成。
+- 本次只更新本地工作区，未提交、未推送 GitHub、未构建发布包、未部署服务器或更新 AutoModpack 分发内容。
+
 ### 仓库结构
 - 改为 packwiz 风格的 pack/、deploy/、tools/ 布局。
 - 新增 pack.toml 与空 index.toml，固定 Minecraft 1.21.1 和 NeoForge 21.1.265。

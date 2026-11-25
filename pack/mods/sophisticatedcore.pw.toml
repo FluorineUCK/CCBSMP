@@ -1,13 +1,13 @@
-# Imported version: 1.5.42
+# Imported version: 1.5.43
 name = "Sophisticated Core"
-filename = "sophisticatedcore-1.21.1-1.5.42.2496.jar"
+filename = "sophisticatedcore-1.21.1-1.5.43.2504.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/nmoqTijg/versions/URsV4WGl/sophisticatedcore-1.21.1-1.5.42.2496.jar"
+url = "https://cdn.modrinth.com/data/nmoqTijg/versions/h272jVeM/sophisticatedcore-1.21.1-1.5.43.2504.jar"
 hash-format = "sha256"
-hash = "d1d8713af68a232043aebc0f16dbb953c2a685042164c614147f6121c17b59b9"
+hash = "6273cfa446b338f165a9c799ddd78fcb320fad0b519a70d969165b7518d3bac8"
 
 [update.modrinth]
 mod-id = "nmoqTijg"
-version = "URsV4WGl"
+version = "h272jVeM"
