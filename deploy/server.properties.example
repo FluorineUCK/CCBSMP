@@ -1,0 +1,10 @@
+# Template only; not an exported runtime configuration.
+# Keep authentication unchanged until identity migration is validated.
+server-port=44629
+online-mode=true
+white-list=true
+enforce-whitelist=true
+enable-command-block=true
+spawn-protection=0
+# RCON is disabled in the template; configure it privately at deployment.
+enable-rcon=false

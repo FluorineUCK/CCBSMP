@@ -62,3 +62,9 @@ config/skinrestorer/*cache*.json
 .vscode/
 Thumbs.db
 Desktop.ini
+
+# Local tooling and untracked deployment overrides
+/tools/bin/
+/deploy/local/
+/deploy/**/*.local.*
+/pack/.packwiz-cache/

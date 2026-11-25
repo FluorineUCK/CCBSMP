@@ -1,0 +1,12 @@
+name = "CCBSMP v1.1"
+version = "1.1.0-rc.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0e45dc6926181e12b554601bdb4fc0bfeb4c09b3366dfc74c6a493b5c9b0b96b"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.265"

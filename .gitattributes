@@ -7,3 +7,6 @@
 *.bat text eol=crlf
 *.png binary
 *.badiff binary
+*.class binary
+.packwizignore text eol=lf
+*.properties.example text eol=lf
