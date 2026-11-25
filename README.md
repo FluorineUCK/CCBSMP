@@ -62,15 +62,4 @@ python -m unittest discover -s tools -p "test_*.py"
 - 不给全局 `.class`/`.badiff` 忽略规则，避免受控补丁被漏掉；构建临时文件仍放在被忽略的 build/ 下。
 - 不为当前已禁用的模组自动启用旧补丁；原模组升级后必须重新验证补丁。
 
-## Git 与发布边界
-
-main 保存经审查的源码变更；测试改动用 update/* 分支，正式发布后创建版本标签。
-Git push 不部署、不重启服务器。世界、玩家数据和身份数据库单独备份，不进入 Git。
-第三方 JAR、构建包和下载缓存不入库；本仓库只管理其下载元数据。
-提交前检查 `git diff --cached`，发布前审查最终文件索引。
-
-## 下一步
-
-进行干净实例重建、安装侧复核与 AutoModpack 集成。当前记录的安装侧来自服务端基线及明确计划，不代表已经完成专用服务端运行验证。
-
 格式参考：https://packwiz.infra.link/reference/pack-format/pack-toml/
