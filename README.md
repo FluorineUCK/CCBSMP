@@ -2,6 +2,12 @@
 
 仓库：https://github.com/FluorineUCK/CCBSMP
 
+![1795633339104](image/README/1795633339104.png)
+
+欢迎，这里是CCBSMP的仓库
+
+你可以在这里找到CCBSMP使用的所有模组（的下载路径），kjs脚本，或者hotai补丁。如果你对共同维护这个项目感兴趣，欢迎以PR的形式向服务器投稿配方/修复/兼容，它们将会以热更新的方式添加到服务器中。或者，你希望某些新模组出现在这个服务器/希望某些模组赶紧消失，你可以在issue提供你的意见，我们会根据支持率（比投票更好！）来决定模组的去留。
+
 ## 项目结构
 
 ```text
@@ -24,21 +30,6 @@ README.md
 .gitattributes
 ```
 
-## 当前状态
-
-已从当前 CCBSMP Test 导入 127 个启用模组的审计锁，全部已生成真实下载源的 `.pw.toml`。
-导入 171 个配置、KubeJS 与 Hotai 文件；排除 40 个个人设置、缓存、备份和禁用模组配置。
-`defaultconfigs/` 在 Test 中为空，保留目录。资源包与光影不在本次导入范围内。
-ModernFix 已按用户要求排除，当前 Test 与仓库均不包含；不得从历史 v1.1 计划重新加入。正式服务器未修改。
-
-已按用户要求移除 Vanillin `1.1.3-local.starlight`，未换装其他版本。原 JAR 仅保留在仓库外的本地备份。
-当前清单没有待匹配下载源；文件级校验通过不等于已完成干净实例启动、下载可用性和进服测试。
-
-Hotai 按 Test 原路径保留一个 More Culling `.class` 补丁；目标 More Culling 当前禁用，补丁不意味着目标模组已启用。
-`tools/hotai/patches.lock.json` 记录补丁、目标 JAR 哈希与安装侧；未运行游戏验证或转换 `.badiff`。
-
-候选版本 1.1.0-rc.1，Minecraft 1.21.1 / NeoForge 21.1.265。
-
 ## 本地检查
 
 Python 3.11+，不依赖第三方 Python 包：
@@ -51,17 +42,17 @@ python -m unittest discover -s tools -p "test_*.py"
 
 `tools/import_test.py --source <实例目录>` 按已核对的审计锁导入，不下载模组、不修改实例、不自动删除仓库文件。
 再次导入前先审阅源文件变化并更新锁；删除/排除已有文件需显式审核，校验器会拒绝未纳入索引的文件。
-`tools/import-report.json` 列出所有导入、排除与未匹配项；审计锁不替代 packwiz 发布元数据。
+`tools/import-report.json` 列出所有导入、排除与未匹配项。
 
 ## 模组与索引
 
 模组使用 packwiz `.pw.toml`，记录名称、目标文件名、安装侧、真实下载来源和内容哈希。
-安装侧使用 `client`、`server` 或 `both`，不依靠文件名猜测。
+安装侧使用 `client`、`server` 或 `both`
 文件变动后在 `pack/` 内运行 `packwiz refresh` 更新索引及 pack.toml 中的索引哈希。
 `pack/config` 不是运行实例 config 的全量副本；个人偏好、凭据与缓存不导入。
 部署模板不纳入 pack 索引，且不会自动覆盖正式服配置。
 
-## Hotai 同样版本化
+## Hotai 版本化
 
 - `pack/hotai/<内部类路径>.badiff` 可作为受控文件直接提交，由 index.toml 记录哈希。
 - 外部托管补丁可用 `pack/hotai/<内部类路径>.pw.toml`，其 filename 指向同目录下的 `.badiff`，并填写安装侧、固定下载地址和哈希。
