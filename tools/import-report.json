@@ -601,7 +601,7 @@
     },
     {
       "path": "config/RuOK.toml",
-      "sha256": "a093ec350ace3c42fe19c30a28bf72d2b741c0cc6070564d7a2e1b04769d1534"
+      "sha256": "9ef6f1f63f185ce354c375bd16f6dc63558c842bf55aeed38f2c73b418560bec"
     },
     {
       "path": "config/sable-client.toml",
@@ -818,6 +818,42 @@
     {
       "path": "oef/oef_global_replacement_cache.dat",
       "sha256": "3411cc025e7a82ce3521fe07c50f4283dfb3c8b253a07cac1d2c927b4fdc1b26"
+    },
+    {
+      "path": "config/xaero/lib/client.cfg",
+      "sha256": "43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336"
+    },
+    {
+      "path": "config/xaero/lib/profiles/default.cfg",
+      "sha256": "34ae854b17d896d7cb853bdc28c27231a3947e91cb9f0991f372846ee3c2a907"
+    },
+    {
+      "path": "config/xaero/minimap/client.cfg",
+      "sha256": "c0915eff5d1a7905cd1038d646eb9086fd1a29e2f637d53535e4da161de17b9f"
+    },
+    {
+      "path": "config/xaero/minimap/default_radar_categories_client.json",
+      "sha256": "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
+    },
+    {
+      "path": "config/xaero/minimap/profiles/default.cfg",
+      "sha256": "f1ff62b22cfc97486d00e8bd3367a3207f0a8da235e7b365c5aa2a54e3f8dc25"
+    },
+    {
+      "path": "config/xaero/minimap/profiles/info_display_config/default.cfg.txt",
+      "sha256": "184e654fa1fc8ad09943c97c4e65ab78acb5b3cfca22417a831513d1b6d9bbc6"
+    },
+    {
+      "path": "config/xaero/world-map/client.cfg",
+      "sha256": "d0f079a8df083f6f60a0e0c1316a25fc841755a91bdcb2f86c66ead8e7d4d13d"
+    },
+    {
+      "path": "config/xaero/world-map/profiles/default.cfg",
+      "sha256": "5422abf9c83fedef6509144293fad20f588d4bb6ce0cf1af78cbcd2bcd0d2ccf"
+    },
+    {
+      "path": "config/xaerohud.txt",
+      "sha256": "6de57f88c55043cfafb952219205e2080da514284c822a277cd9f1ef804f0def"
     }
   ],
   "excluded_files": [
@@ -922,15 +958,7 @@
       "reason": "personal settings, cache, statistics or local web service"
     },
     {
-      "path": "config/xaero/lib/client.cfg",
-      "reason": "personal settings, cache, statistics or local web service"
-    },
-    {
       "path": "config/xaero/lib/common.cfg",
-      "reason": "personal settings, cache, statistics or local web service"
-    },
-    {
-      "path": "config/xaero/lib/profiles/default.cfg",
       "reason": "personal settings, cache, statistics or local web service"
     },
     {
@@ -938,15 +966,7 @@
       "reason": "personal settings, cache, statistics or local web service"
     },
     {
-      "path": "config/xaero/minimap/client.cfg",
-      "reason": "personal settings, cache, statistics or local web service"
-    },
-    {
       "path": "config/xaero/minimap/common.cfg",
-      "reason": "personal settings, cache, statistics or local web service"
-    },
-    {
-      "path": "config/xaero/minimap/default_radar_categories_client.json",
       "reason": "personal settings, cache, statistics or local web service"
     },
     {
@@ -954,19 +974,7 @@
       "reason": "personal settings, cache, statistics or local web service"
     },
     {
-      "path": "config/xaero/minimap/profiles/default.cfg",
-      "reason": "personal settings, cache, statistics or local web service"
-    },
-    {
-      "path": "config/xaero/minimap/profiles/info_display_config/default.cfg.txt",
-      "reason": "personal settings, cache, statistics or local web service"
-    },
-    {
       "path": "config/xaero/minimap/server_profiles/default.cfg",
-      "reason": "personal settings, cache, statistics or local web service"
-    },
-    {
-      "path": "config/xaero/world-map/client.cfg",
       "reason": "personal settings, cache, statistics or local web service"
     },
     {
@@ -974,15 +982,7 @@
       "reason": "personal settings, cache, statistics or local web service"
     },
     {
-      "path": "config/xaero/world-map/profiles/default.cfg",
-      "reason": "personal settings, cache, statistics or local web service"
-    },
-    {
       "path": "config/xaero/world-map/server_profiles/default.cfg",
-      "reason": "personal settings, cache, statistics or local web service"
-    },
-    {
-      "path": "config/xaerohud.txt",
       "reason": "personal settings, cache, statistics or local web service"
     },
     {
@@ -1038,6 +1038,10 @@
       "reason": "personal settings, cache, statistics or local web service"
     },
     {
+      "path": "config/zstdnet/stats/runs/1795642388039-407911f0.json",
+      "reason": "personal settings, cache, statistics or local web service"
+    },
+    {
       "path": "config/zstdnet/stats/series/2026-11-25.json",
       "reason": "personal settings, cache, statistics or local web service"
     },
@@ -1050,5 +1054,5 @@
   "resourcepacks_imported": true,
   "resource_references": 2,
   "side_policy": "Reviewed existing sides plus published environment; user client-only overrides retained. Not a server runtime validation.",
-  "indexed_files": 342
+  "indexed_files": 351
 }

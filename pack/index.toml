@@ -747,7 +747,7 @@ metafile = false
 
 [[files]]
 file = "config/RuOK.toml"
-hash = "a093ec350ace3c42fe19c30a28bf72d2b741c0cc6070564d7a2e1b04769d1534"
+hash = "9ef6f1f63f185ce354c375bd16f6dc63558c842bf55aeed38f2c73b418560bec"
 metafile = false
 
 [[files]]
@@ -943,6 +943,51 @@ metafile = false
 [[files]]
 file = "config/wearable_toolbox-client.toml"
 hash = "b29c9dca07aeaa55efbd61eba2fcbbb10198daf293e795459a65f29c4483bcd6"
+metafile = false
+
+[[files]]
+file = "config/xaero/lib/client.cfg"
+hash = "43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336"
+metafile = false
+
+[[files]]
+file = "config/xaero/lib/profiles/default.cfg"
+hash = "34ae854b17d896d7cb853bdc28c27231a3947e91cb9f0991f372846ee3c2a907"
+metafile = false
+
+[[files]]
+file = "config/xaero/minimap/client.cfg"
+hash = "c0915eff5d1a7905cd1038d646eb9086fd1a29e2f637d53535e4da161de17b9f"
+metafile = false
+
+[[files]]
+file = "config/xaero/minimap/default_radar_categories_client.json"
+hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
+metafile = false
+
+[[files]]
+file = "config/xaero/minimap/profiles/default.cfg"
+hash = "f1ff62b22cfc97486d00e8bd3367a3207f0a8da235e7b365c5aa2a54e3f8dc25"
+metafile = false
+
+[[files]]
+file = "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
+hash = "184e654fa1fc8ad09943c97c4e65ab78acb5b3cfca22417a831513d1b6d9bbc6"
+metafile = false
+
+[[files]]
+file = "config/xaero/world-map/client.cfg"
+hash = "d0f079a8df083f6f60a0e0c1316a25fc841755a91bdcb2f86c66ead8e7d4d13d"
+metafile = false
+
+[[files]]
+file = "config/xaero/world-map/profiles/default.cfg"
+hash = "5422abf9c83fedef6509144293fad20f588d4bb6ce0cf1af78cbcd2bcd0d2ccf"
+metafile = false
+
+[[files]]
+file = "config/xaerohud.txt"
+hash = "6de57f88c55043cfafb952219205e2080da514284c822a277cd9f1ef804f0def"
 metafile = false
 
 [[files]]
@@ -1367,7 +1412,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "86659457d76be3fa555fd64a5d97a8028c101425b7ab6ad10eccf5f578cfd8a5"
+hash = "99d4f77078efd63668a7fb442b667aeb47006d1d17855c0ac1ed2ee36329b12c"
 metafile = true
 
 [[files]]
@@ -1442,7 +1487,7 @@ metafile = true
 
 [[files]]
 file = "mods/mezz_config-1-21-1-neoforge-0-7-1-standalone.pw.toml"
-hash = "737f3002feab2835b7b66968def29ed22ca6a09f4b25dffd224f0716e2824805"
+hash = "40716c2a52a4ce92cf8477f082586379759be634986709490e47f84826f1064d"
 metafile = true
 
 [[files]]

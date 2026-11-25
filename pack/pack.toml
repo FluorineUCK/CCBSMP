@@ -1,11 +1,11 @@
 name = "CCBSMP v1.1"
-version = "1.1.0-rc.1"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f1ba8ab4a97b17dde9813b652175de2924add2a88b56fc6af6fdbad4b846649f"
+hash = "2fdfdbda18d3e4d4aec67846176492bd43d841f5d17134232d76fa3db712c7af"
 
 [versions]
 minecraft = "1.21.1"

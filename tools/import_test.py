@@ -9,6 +9,11 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 PACK = ROOT / 'pack'
 CONTENT_FOLDERS = ('config', 'defaultconfigs', 'kubejs', 'hotai', 'oei', 'oeb', 'oef')
+CLIENT_DEFAULTS = frozenset(json.loads((ROOT / 'tools/client-defaults.json').read_text(encoding='utf-8')))
+
+def is_client_default(rel):
+    """Only explicitly reviewed UI defaults bypass personal-data exclusions."""
+    return rel in CLIENT_DEFAULTS
 
 def sha(data):
     return hashlib.sha256(data).hexdigest()
@@ -122,7 +127,7 @@ def main():
                 continue
             rel = p.relative_to(source).as_posix()
             reason = None
-            if rel in personal or rel.startswith(private_prefixes):
+            if (rel in personal or rel.startswith(private_prefixes)) and not is_client_default(rel):
                 reason = 'personal settings, cache, statistics or local web service'
             elif p.suffix.lower() in {'.bak', '.log', '.tmp', '.db', '.sqlite'}:
                 reason = 'runtime or backup file'

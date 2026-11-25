@@ -6,6 +6,12 @@ import import_test as importer
 
 
 class ImportTests(unittest.TestCase):
+    def test_reviewed_hud_defaults_are_not_private(self):
+        self.assertTrue(importer.is_client_default('config/xaerohud.txt'))
+        self.assertTrue(importer.is_client_default('config/xaero/minimap/profiles/default.cfg'))
+        self.assertFalse(importer.is_client_default('xaero/minimap/Multiplayer_example/config.txt'))
+        self.assertFalse(importer.is_client_default('config/xaero/private-new-file.cfg'))
+
     def test_oe_rule_roots_are_managed(self):
         self.assertTrue({'oei', 'oeb', 'oef'}.issubset(importer.CONTENT_FOLDERS))
 

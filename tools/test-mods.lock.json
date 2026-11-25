@@ -43,8 +43,8 @@
     ],
     "name": "Just Enough Items",
     "version": "19.76.1.481",
-    "side": "client",
-    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "side": "both",
+    "side_basis": "User requested server JEI; full dedicated-server smoke test passed with JEI 19.76.1.481 and MezzConfig 0.7.1.",
     "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/lDv3cHMp/jei-1.21.1-neoforge-19.76.1.481.jar",
     "modrinth": {
       "mod-id": "u6dRKJwZ",
@@ -1753,8 +1753,8 @@
     "ids": [],
     "name": "mezz_config-1.21.1-neoforge-0.7.1-standalone.jar",
     "version": "",
-    "side": "client",
-    "side_basis": "current server baseline + explicitly planned server additions; other Test-only files stay client",
+    "side": "both",
+    "side_basis": "User requested server JEI; full dedicated-server smoke test passed with JEI 19.76.1.481 and MezzConfig 0.7.1.",
     "url": "https://cdn.modrinth.com/data/7tEfOcA7/versions/V6oWFnxW/mezz_config-1.21.1-neoforge-0.7.1-standalone.jar",
     "modrinth": {
       "mod-id": "7tEfOcA7",
