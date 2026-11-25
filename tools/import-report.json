@@ -1,13 +1,7 @@
 {
-  "active_mods_in_test": 128,
+  "active_mods_in_test": 127,
   "resolved_mods": 127,
-  "unresolved_mods": [
-    {
-      "filename": "vanillin-neoforge-1.21.1-1.1.3-local.starlight.jar",
-      "sha256": "88eadd068f6d81787721a0db3b6127ba28f9f60971dfbdde401f467c9c2c7905",
-      "reason": "Exact published file has not yet been matched; not replaced or omitted from audit."
-    }
-  ],
+  "unresolved_mods": [],
   "copied_files": [
     {
       "path": "config/aeronautics-client.toml",

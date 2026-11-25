@@ -1,6 +1,6 @@
 # CCBSMP
 
-私有仓库：https://github.com/FluorineUCK/CCBSMP
+仓库：https://github.com/FluorineUCK/CCBSMP
 
 ## 项目结构
 
@@ -26,14 +26,13 @@ README.md
 
 ## 当前状态
 
-已从当前 CCBSMP Test 导入 128 个启用模组的审计锁，其中 127 个已生成真实下载源的 `.pw.toml`。
+已从当前 CCBSMP Test 导入 127 个启用模组的审计锁，全部已生成真实下载源的 `.pw.toml`。
 导入 171 个配置、KubeJS 与 Hotai 文件；排除 40 个个人设置、缓存、备份和禁用模组配置。
 `defaultconfigs/` 在 Test 中为空，保留目录。资源包与光影不在本次导入范围内。
-本次快照中 ModernFix 已不在 Test 启用目录，未重新添加；未修改 Test 或正式服务器。
+ModernFix 已按用户要求排除，当前 Test 与仓库均不包含；不得从历史 v1.1 计划重新加入。正式服务器未修改。
 
-**尚不可完整发布：** Vanillin `1.1.3-local.starlight` 的准确发布源待匹配。没有替换为原版，也没有把 JAR 提交到仓库。
-其精确文件名、哈希和安装侧保存在 `tools/test-mods.lock.json`，未伪造 `.pw.toml` 链接。
-CF 原版 1.1.3 为 870344 字节，Test 构建为 123858 字节，SHA256 不同。
+已按用户要求移除 Vanillin `1.1.3-local.starlight`，未换装其他版本。原 JAR 仅保留在仓库外的本地备份。
+当前清单没有待匹配下载源；文件级校验通过不等于已完成干净实例启动、下载可用性和进服测试。
 
 Hotai 按 Test 原路径保留一个 More Culling `.class` 补丁；目标 More Culling 当前禁用，补丁不意味着目标模组已启用。
 `tools/hotai/patches.lock.json` 记录补丁、目标 JAR 哈希与安装侧；未运行游戏验证或转换 `.badiff`。
@@ -46,7 +45,7 @@ Python 3.11+，不依赖第三方 Python 包：
 
 ```powershell
 python tools/verify_pack.py --allow-incomplete  # 检查现有文件和索引，不代表可发布
-python tools/verify_pack.py                     # 默认阻止未补齐下载源的发布
+python tools/verify_pack.py                     # 严格检查索引、哈希和下载源完整性
 python -m unittest discover -s tools -p "test_*.py"
 ```
 
@@ -81,6 +80,6 @@ Git push 不部署、不重启服务器。世界、玩家数据和身份数据�
 
 ## 下一步
 
-补齐 local.starlight 的精确发布来源，再进行干净实例重建、安装侧复核与 AutoModpack 集成。当前记录的安装侧来自服务端基线及明确计划，不代表已经完成专用服务端运行验证。
+进行干净实例重建、安装侧复核与 AutoModpack 集成。当前记录的安装侧来自服务端基线及明确计划，不代表已经完成专用服务端运行验证。
 
 格式参考：https://packwiz.infra.link/reference/pack-format/pack-toml/
