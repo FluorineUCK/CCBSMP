@@ -92,3 +92,7 @@ pack/kubejs/data/oeb/replacements/*.json
 - Minecraft 看门狗 150 秒；堆内存示例 `-Xms2G -Xmx10G`。
 - 已知限制：外部看门狗只检测进程，游戏主线程退出但 Java 非 daemon 线程残留时可能漏判。此次仅同步现有实现，不宣称修复。
 - 已知客户端问题：2026-11-28 启动发生 `create:cardboard_helmet` 客户端扩展重复注册；此次版本管理同步不代表该崩溃已修复或整包回归通过。
+
+## 致谢
+
+感谢 [YunXian_LI（@YunXianLI338）](https://github.com/YunXianLI338) 为 CCBSMP 提供两个 KubeJS JavaScript 脚本，帮助完善整合包。
