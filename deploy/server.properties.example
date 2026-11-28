@@ -9,3 +9,7 @@ enable-command-block=true
 spawn-protection=0
 # RCON is disabled in the template; configure it privately at deployment.
 enable-rcon=false
+
+# Current production watchdog threshold (milliseconds).
+max-tick-time=150000
+motd=机械动力：机巧新生多人生存服务器·一周目

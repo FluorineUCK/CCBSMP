@@ -8,7 +8,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 PACK = ROOT / 'pack'
-CONTENT_FOLDERS = ('config', 'defaultconfigs', 'kubejs', 'hotai', 'oei', 'oeb', 'oef')
+CONTENT_FOLDERS = ('config', 'defaultconfigs', 'kubejs', 'hotai')
 CLIENT_DEFAULTS = frozenset(json.loads((ROOT / 'tools/client-defaults.json').read_text(encoding='utf-8')))
 
 def is_client_default(rel):

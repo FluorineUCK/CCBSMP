@@ -1,0 +1,14 @@
+{
+  "ServerRoot": "C:\\Users\\Administrator\\Desktop\\CCBSMP",
+  "WorldDirectory": "world",
+  "BackupRoot": "D:\\CCBSMP-backup",
+  "WatchdogScript": "C:\\Users\\Administrator\\Desktop\\CCBSMP\\watchdog\\watchdog.ps1",
+  "IntervalMinutes": 60,
+  "UseVss": true,
+  "RconTimeoutSeconds": 60,
+  "CopyTimeoutSeconds": 300,
+  "FreezeBudgetSeconds": 600,
+  "RestoreAttempts": 3,
+  "FreeSpaceReserveBytes": 536870912,
+  "LogMaxBytes": 5242880
+}

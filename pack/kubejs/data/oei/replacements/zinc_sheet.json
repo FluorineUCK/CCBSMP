@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "create_biotech:zinc_sheet",
+      "createdeco:zinc_sheet"
+    ],
+    "resultItems": "powergrid:zinc_sheet"
+  }
+]

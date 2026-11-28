@@ -527,7 +527,7 @@ metafile = false
 
 [[files]]
 file = "config/jei/client/ingredient-list-mod-sort-order.ini"
-hash = "3dc773204c4f7641784d6b0053e6d83fc58d93942b9c50578e3a1073a7ab7514"
+hash = "56697cc49af7fa02e361f4ec2fd19b022256b78273077e9bb705722881fa011d"
 metafile = false
 
 [[files]]
@@ -747,7 +747,7 @@ metafile = false
 
 [[files]]
 file = "config/RuOK.toml"
-hash = "9ef6f1f63f185ce354c375bd16f6dc63558c842bf55aeed38f2c73b418560bec"
+hash = "5ac0c0059a6043e71488f0bf1c7f892d56301c7265965b8bfbe1a751de7e38e3"
 metafile = false
 
 [[files]]
@@ -1011,6 +1011,11 @@ hash = "316e4265b82b08a117be0579411e02ca472c8b536cb3ce01ad9ad7c65c7788e3"
 metafile = false
 
 [[files]]
+file = "hotai/net/abraxator/moresnifferflowers/mixins/client/CreativeInventoryScreenMixin.badiff"
+hash = "5e8b9ff990752872203c860ec44b73497473e33f3a68327ee945126d84bce77b"
+metafile = false
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/block/example_block.png"
 hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
 metafile = false
@@ -1036,13 +1041,108 @@ hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
 metafile = false
 
 [[files]]
+file = "kubejs/data/oef/replacements/crude_oil.json"
+hash = "4060985027c8675827884604d693766680480c0abd89d366386c0b338809b141"
+metafile = false
+
+[[files]]
+file = "kubejs/data/oef/replacements/honey.json"
+hash = "4e1078ce01fbf30614e09f3b14764bf7815ba3afa0cf846022d5ee8d18765f10"
+metafile = false
+
+[[files]]
+file = "kubejs/data/oei/replacements/brass_ingot.json"
+hash = "f3fb432716503a71d02fd50eb6a5ea09f4e925ac809d8d0fde507268375e1488"
+metafile = false
+
+[[files]]
+file = "kubejs/data/oei/replacements/brass_nugget.json"
+hash = "d7f9fa77f49db2c647fe5577ef0a9ddd0e88144acbe8aebd94e6d264e644f82f"
+metafile = false
+
+[[files]]
+file = "kubejs/data/oei/replacements/cocoa_butter.json"
+hash = "3f42703d739b445122ac21ee87d2d3e9e78076f9ea9e9b5afae2a5906a7392f7"
+metafile = false
+
+[[files]]
+file = "kubejs/data/oei/replacements/cocoa_powder.json"
+hash = "6baf19bfbdc907261a792a9495e5682e7efdc246a62fff836b6434824890285f"
+metafile = false
+
+[[files]]
+file = "kubejs/data/oei/replacements/copper_nugget.json"
+hash = "a14583afeed92a18b31f37d3ff04e69350dc98362d079e1062506f84c958b850"
+metafile = false
+
+[[files]]
+file = "kubejs/data/oei/replacements/dough.json"
+hash = "e2fac453a70d25506c41aed429126212ce6cdc0b2eaf0f7ffd620876ee684cbe"
+metafile = false
+
+[[files]]
+file = "kubejs/data/oei/replacements/raw_zinc.json"
+hash = "9acebd9eb8d6a427d74b86c57f638610e91700c32c63a7b2617206e5a189fe43"
+metafile = false
+
+[[files]]
+file = "kubejs/data/oei/replacements/rice_crop.json"
+hash = "f427b57e75b4030c1433d28798b09f4161ed250b071614b9090d7ea91e56b6f6"
+metafile = false
+
+[[files]]
+file = "kubejs/data/oei/replacements/tomato.json"
+hash = "7895d4e62fdf079b7db40245daa2e388006a44de2af0a03fb4e563a27a112747"
+metafile = false
+
+[[files]]
+file = "kubejs/data/oei/replacements/wheat_flour.json"
+hash = "3e267af716db092093a34c2bf55992c0de245a7771084c2e1611c82bfc89baf3"
+metafile = false
+
+[[files]]
+file = "kubejs/data/oei/replacements/zinc_ingot.json"
+hash = "f8b51907802a41ccc39ac0be318664be6214dfe05ab19f192a8a7af94964544f"
+metafile = false
+
+[[files]]
+file = "kubejs/data/oei/replacements/zinc_nugget.json"
+hash = "ddff05c36727dd2a9524850ff92fce75440d453c9ab27f5331ee7db0731f98da"
+metafile = false
+
+[[files]]
+file = "kubejs/data/oei/replacements/zinc_sheet.json"
+hash = "9acf9be4e9a50ebe3e13b42b8c4177c79b734cd2e049c3a09f77ede02b71371a"
+metafile = false
+
+[[files]]
 file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 metafile = false
 
 [[files]]
+file = "kubejs/server_scripts/diesel_generator_recipes.js"
+hash = "c2944626218209023493e80bdb4ad2840a3e293ca254c84296ee4343810390d9"
+metafile = false
+
+[[files]]
 file = "kubejs/server_scripts/main.js"
 hash = "dae099ae3be7f033c0c190ee8c3b023b42f6b235d9d0591be5926e8435dbd67f"
+metafile = false
+
+[[files]]
+file = "kubejs/server_scripts/recpies/anvilcraft/exp_exchange.js"
+hash = "62d1cd56bb3dcf61a1a2c4abd72cd2c88fdad9d65112faec656ce08d7f0349f0"
+metafile = false
+
+[[files]]
+file = "kubejs/server_scripts/recpies/createdieselgenerator/blaze_rodz.js"
+hash = "a9a7ec1193405d34b8a3477ea5a68eecc65850e8e360852038b273e6f7c752e8"
+metafile = false
+
+[[files]]
+file = "kubejs/server_scripts/recpies/unbreakable_smithing.js"
+hash = "de55284700cc4b8519414a7326423c2355696bc11cc34e6bb2cff57937bf0b68"
 metafile = false
 
 [[files]]
@@ -1256,11 +1356,6 @@ hash = "037aff09806f4d371dd9220c5285e668f45494fffe2bc0b8d086296d9037c1c2"
 metafile = true
 
 [[files]]
-file = "mods/createoreexcavation.pw.toml"
-hash = "0c80ad3fcd50e0c98d5d048db7025d3f3f3f3c7d5eb0382d8224f17416717462"
-metafile = true
-
-[[files]]
 file = "mods/createphantom.pw.toml"
 hash = "71408490849728ff4e66ce6c0acbfeb48658df2ad2318ba7868de02fd4300382"
 metafile = true
@@ -1471,6 +1566,11 @@ hash = "0082d05edc97b9c39411c99fa4239725e6976bce5af7020301adce20d689a0b6"
 metafile = true
 
 [[files]]
+file = "mods/lithium.pw.toml"
+hash = "ce751fb871de512a8d3273a68269850443da9629f94e015420ac6ce1d0a5e39e"
+metafile = true
+
+[[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "932c29e8cb28df8eba773c7cbb5a3282611f5fc24f058f5970c39f6448f6754f"
 metafile = true
@@ -1488,6 +1588,11 @@ metafile = true
 [[files]]
 file = "mods/mezz_config-1-21-1-neoforge-0-7-1-standalone.pw.toml"
 hash = "40716c2a52a4ce92cf8477f082586379759be634986709490e47f84826f1064d"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "aac588cf9ecb522db0468a64d654d0972ddfb497669941942d3d7b2c3cf93f1d"
 metafile = true
 
 [[files]]
@@ -1729,21 +1834,6 @@ metafile = true
 file = "mods/zstdnet.pw.toml"
 hash = "c716be9e0dcd1cec2f694d1681f2bb1479fbf353dfc9ade20dcb5c0a78696f33"
 metafile = true
-
-[[files]]
-file = "oeb/oeb_global_replacement_cache.dat"
-hash = "3411cc025e7a82ce3521fe07c50f4283dfb3c8b253a07cac1d2c927b4fdc1b26"
-metafile = false
-
-[[files]]
-file = "oef/oef_global_replacement_cache.dat"
-hash = "3411cc025e7a82ce3521fe07c50f4283dfb3c8b253a07cac1d2c927b4fdc1b26"
-metafile = false
-
-[[files]]
-file = "oei/oei_global_replacement_cache.dat"
-hash = "3411cc025e7a82ce3521fe07c50f4283dfb3c8b253a07cac1d2c927b4fdc1b26"
-metafile = false
 
 [[files]]
 file = "resourcepacks/create-mcgui.pw.toml"

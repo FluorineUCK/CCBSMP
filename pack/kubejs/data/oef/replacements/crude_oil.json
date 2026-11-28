@@ -1,0 +1,13 @@
+[
+  {
+    "matchFluid": [
+      "createdieselgenerators:crude_oil"
+    ],
+    "resultFluid": "anvilcraft:oil",
+    "rules": {
+      "data": {
+        "recipe": "replace"
+      }
+    }
+  }
+]

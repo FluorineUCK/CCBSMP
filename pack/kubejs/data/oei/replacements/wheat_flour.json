@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "anvilcraft:flour",
+      "kaleidoscope_cookery:flour"
+    ],
+    "resultItems": "create:wheat_flour"
+  }
+]

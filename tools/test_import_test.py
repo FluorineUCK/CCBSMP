@@ -12,8 +12,9 @@ class ImportTests(unittest.TestCase):
         self.assertFalse(importer.is_client_default('xaero/minimap/Multiplayer_example/config.txt'))
         self.assertFalse(importer.is_client_default('config/xaero/private-new-file.cfg'))
 
-    def test_oe_rule_roots_are_managed(self):
-        self.assertTrue({'oei', 'oeb', 'oef'}.issubset(importer.CONTENT_FOLDERS))
+    def test_oe_rules_use_kubejs_not_runtime_cache_roots(self):
+        self.assertIn('kubejs', importer.CONTENT_FOLDERS)
+        self.assertTrue({'oei', 'oeb', 'oef'}.isdisjoint(importer.CONTENT_FOLDERS))
 
     def test_preserves_patch_metadata(self):
         with tempfile.TemporaryDirectory() as tmp:

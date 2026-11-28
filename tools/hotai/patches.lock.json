@@ -36,5 +36,24 @@
       "path": "tools/hotai/artifacts/dev/leo/sableplayerragdoll/mob/MobRagdollSourceRecovery.badiff",
       "sha256": "316e4265b82b08a117be0579411e02ca472c8b536cb3ce01ad9ad7c65c7788e3"
     }
+  },
+  {
+    "path": "hotai/net/abraxator/moresnifferflowers/mixins/client/CreativeInventoryScreenMixin.badiff",
+    "sha256": "5e8b9ff990752872203c860ec44b73497473e33f3a68327ee945126d84bce77b",
+    "side": "client",
+    "target_mod_id": "moresnifferflowers",
+    "target_file": "[更多嗅探兽花卉] MoreSnifferFlowers-1.21.1-neo-6.8.jar",
+    "target_jar_sha256": "1a84878443b85d9e9623fc59c7fa7fe31562030d669a2adf08780325aeb917b0",
+    "target_enabled": true,
+    "runtime_verified": true,
+    "note": "Isolated NeoForge 21.1.265 client with MSF 6.8: Hotai transformed mixin and client remained alive. Bytecode slot mapping tests pass. No in-world inventory/AnvilCraft/network acceptance test.",
+    "class_source": {
+      "path": "tools/hotai/artifacts/net/abraxator/moresnifferflowers/mixins/client/CreativeInventoryScreenMixin.class",
+      "sha256": "0c1077242bd2ae9136408c4a50ec9e089d3c3bd01ca05abe256300ad1454c477"
+    },
+    "diff_source": {
+      "path": "tools/hotai/artifacts/net/abraxator/moresnifferflowers/mixins/client/CreativeInventoryScreenMixin.badiff",
+      "sha256": "5e8b9ff990752872203c860ec44b73497473e33f3a68327ee945126d84bce77b"
+    }
   }
 ]

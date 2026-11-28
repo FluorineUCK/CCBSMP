@@ -63,3 +63,32 @@ python -m unittest discover -s tools -p "test_*.py"
 - 不为当前已禁用的模组自动启用旧补丁；原模组升级后必须重新验证补丁。
 
 格式参考：https://packwiz.infra.link/reference/pack-format/pack-toml/
+
+## 2026-11-28 同步基线
+
+- 客户端以 `CCBSMP v1.1 Hotfix 1` 为准；正式服只读核对，不在这次 Git 同步中部署或重启。
+- `pack/mods` 是客户端与服务端的联合清单，按 `side` 筛选。ModernFix、Lithium 和 Fuck Sable 当前仅服务端；认证模组继续由 `deploy/auth/version.lock.json` 管理。
+- `deploy/production-mods.lock.json` 记录正式服实际 JAR 文件名/SHA256；`deploy/user_jvm_args.example.txt` 是无凭据启动参数示例。
+- AutoModpack 已停用；`deploy/automodpack` 仅保留历史模板，不用于当前部署或分发。
+- 矿石开掘从当前清单移除。Hotai 现有补丁、完整 class、badiff 与制作源码保留；不因客户端暂未安装某补丁而删掉项目中的修复。
+- `tools/import_test.py` 是严格快照导入器，旧 Test 不再是当前联合清单的权威来源；不要直接运行它覆盖这次合并基线。
+
+### OE 规则位置
+
+统一在以下位置维护 JSON 规则（OEB 暂无已提供规则）：
+
+```text
+pack/kubejs/data/oei/replacements/*.json
+pack/kubejs/data/oef/replacements/*.json
+pack/kubejs/data/oeb/replacements/*.json
+```
+
+根目录 `oei/`、`oef/`、`oeb/` 的 `*_global_replacement_cache.dat` 是运行时缓存，已从索引和导入目录中移除，**不搬进 KubeJS 数据包**。模组的 `pack/config/oe*` 配置仍保留。正式服现有 13 个 OEI 规则、2 个 OEF 规则与配方脚本已纳入仓库。
+
+### 服务端维护
+
+- `tools/server-watchdog/`：每分钟检查进程，15 分钟内连续 3 次启动失败后锁定。
+- `tools/server-world-backup/`：每小时 VSS 世界快照、哈希校验、覆盖最新备份；默认目标在远端 D 盘。
+- Minecraft 看门狗 150 秒；堆内存示例 `-Xms2G -Xmx10G`。
+- 已知限制：外部看门狗只检测进程，游戏主线程退出但 Java 非 daemon 线程残留时可能漏判。此次仅同步现有实现，不宣称修复。
+- 已知客户端问题：2026-11-28 启动发生 `create:cardboard_helmet` 客户端扩展重复注册；此次版本管理同步不代表该崩溃已修复或整包回归通过。

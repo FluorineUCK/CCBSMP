@@ -1,0 +1,13 @@
+[
+  {
+    "matchFluid": [
+      "anvilcraft:honey"
+    ],
+    "resultFluid": "create:honey",
+    "rules": {
+      "data": {
+        "recipe": "replace"
+      }
+    }
+  }
+]

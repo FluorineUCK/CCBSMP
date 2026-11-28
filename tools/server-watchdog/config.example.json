@@ -1,0 +1,13 @@
+{
+  "ServerRoot": "C:\\Users\\Administrator\\Desktop\\CCBSMP",
+  "JavaExe": "C:\\Program Files\\Java\\jdk-21.0.11\\bin\\java.exe",
+  "JvmArgsFile": "user_jvm_args.txt",
+  "ForgeArgsFile": "libraries/net/neoforged/neoforge/21.1.265/win_args.txt",
+  "GamePort": 44629,
+  "CheckIntervalSeconds": 60,
+  "SuccessSeconds": 300,
+  "FailureWindowSeconds": 900,
+  "MaxFailures": 3,
+  "LaunchGraceSeconds": 120,
+  "LogMaxBytes": 5242880
+}

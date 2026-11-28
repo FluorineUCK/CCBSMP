@@ -1,0 +1,3 @@
+-Xms2G
+-Xmx10G
+-Dfile.encoding=UTF-8

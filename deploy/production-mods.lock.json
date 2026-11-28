@@ -1,0 +1,466 @@
+[
+  {
+    "name": "aeroworks-1.5.0.jar",
+    "sha256": "30bad4bf907ee5ae2849de163634cf9a5bc8507bb4b12d7d291c59f3265d7bad"
+  },
+  {
+    "name": "AlwaysEat-neoforge-1.0.0.jar",
+    "sha256": "ed6b9bfedaddb5c15c592a83af9a4c76815d94fd70718718be1722a34e5f93ed"
+  },
+  {
+    "name": "anvilcraft-neoforge-1.21.1-1.6.0+snapshot.2980.jar",
+    "sha256": "cdd729ae8eaffa5e476b2ef04395212a7711c9054b362f00f41195c22cc9a04a"
+  },
+  {
+    "name": "anvilcraft_create_addition-neoforge-1.21.1-1.0.0+snapshot.15.jar",
+    "sha256": "e3ac4f119ad5166ec519e9eda6d195994bc8667f12091782b9ba5dda468b7247"
+  },
+  {
+    "name": "architectury-13.0.12-neoforge.jar",
+    "sha256": "aa558d884c9d35399bf5471e042d6be30c32e4a1cf0a5d06a4480ad49dba3ac0"
+  },
+  {
+    "name": "azimuth-1.4.10.jar",
+    "sha256": "e9f56d10a6ae56c8d02d2e9e1668c7b70d545d8e20cf4972f0710e9b01989d8a"
+  },
+  {
+    "name": "bits_n_bobs-2.3.5.jar",
+    "sha256": "3e1647383c6ed1d629b6f20210179d5870bcbf8ba2a2a0ec58af69b53513db68"
+  },
+  {
+    "name": "civillis-neoforge-2.0.1-release+mc1.21.1.jar",
+    "sha256": "54af17b71061e5b161cd528d1b95874bedd44502668ad0803a28d5afb3cf0957"
+  },
+  {
+    "name": "cloth-config-15.0.140-neoforge.jar",
+    "sha256": "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4"
+  },
+  {
+    "name": "create-1.21.1-6.0.10.jar",
+    "sha256": "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a"
+  },
+  {
+    "name": "create-aeronautics-bundled-1.21.1-1.3.3.jar",
+    "sha256": "f430c52eedc1a20f7458c9f5b07cc212fe90869bd302c69c6dedf7b75a2a5c9f"
+  },
+  {
+    "name": "create-enchantment-industry-2.5.4b.jar",
+    "sha256": "0230b4dfa5af59bc91aef6a26f13165aeeec7026969ce39c823fc3d198e2241d"
+  },
+  {
+    "name": "create-integrated-farming-1.4.4.jar",
+    "sha256": "ed9ee886491a9d42912bda674de5c86827ef097406538dca5eb4ae3f55490f01"
+  },
+  {
+    "name": "create-transit-mc1.21.1-0.3.0.jar",
+    "sha256": "5658b71204f9fb2754fdd1e0b144e24e2c2fcab6b49430061dad0c7c49c8f92c"
+  },
+  {
+    "name": "createcobblestone-1.5.1+neoforge-1.21.1-160.jar",
+    "sha256": "2ba64507b1524ffc74f706455bb7bf47e939740683653fab5a62e3a3cabee584"
+  },
+  {
+    "name": "createcraftedbeginning-0.1.1.jar",
+    "sha256": "03a5f100d385093ff4b9e68c2ed0d94eae38ba04182f05a424ea1aa6fed2e075"
+  },
+  {
+    "name": "createdeco-2.1.3.jar",
+    "sha256": "edacf1ad0bd6b9f1667d711650dc0cde604356d91caca7ca1ec428c2f9400c6e"
+  },
+  {
+    "name": "CreateDragonsPlus-1.11.9.jar",
+    "sha256": "37f05a6775bbe811fe8c2833fa6289a1c704d0b25bdd5f239d343a5c6f62ed8a"
+  },
+  {
+    "name": "createfactorycontroller-1.2.4-neoforge-1.21.1.jar",
+    "sha256": "747fee32b9a886c3bf41b5f17887fd191af5e4906b728a810e664087f593dae7"
+  },
+  {
+    "name": "creategearsandtavern-1.2.0-1.21.1.jar",
+    "sha256": "357e0d456130b7d4ab863e844565809a660a9d1de87432a04817cab745989aa2"
+  },
+  {
+    "name": "createimp-1.4.5.jar",
+    "sha256": "cd17e8f97bb7da610eabe9ac52027c9185beb504853e2e5a9834ddd054af37f0"
+  },
+  {
+    "name": "createliquidfuel-3.0.0-1.21.1.jar",
+    "sha256": "6b0ccd1579f59d13b927d7462a1f3c60b1069da967e54d3fb5629dbe2ff89216"
+  },
+  {
+    "name": "createphantom-1.0.3.jar",
+    "sha256": "3ac4adeefcdf4d5ee840fca3f841b63b82cb8c34d9d841bbdb2eba4fc16e2703"
+  },
+  {
+    "name": "createultimine-1.21.1-neoforge-1.4.0.jar",
+    "sha256": "e5a447beea53fe0074bf7ab1977b1210a1c9be57b11427731b6f203cb454f92d"
+  },
+  {
+    "name": "create_aquatic_ambitions-1.21.1-2.0.4.jar",
+    "sha256": "d50180fd30dc7f034ea4ad5185d18cfa652457be1d8e7a45f0b491d0e6642d44"
+  },
+  {
+    "name": "create_connected-1.3.3-mc1.21.1.jar",
+    "sha256": "0c5eb9ffb5c8d71e6e2a39023feb85c51adfb10d38949bc47c4abbd53b351a4f"
+  },
+  {
+    "name": "create_crystal_industry-1.0.13.jar",
+    "sha256": "cc4b32e587fb6b9ffa01b7e9153ac0af2d2d1d58d63102d6fee3f7968da77a0c"
+  },
+  {
+    "name": "create_hand_made-0.7.0-beta.jar",
+    "sha256": "67ccc4893457434bd780470f5ad1c054350647c3bd8a2b0fe87b7c39987f0a34"
+  },
+  {
+    "name": "create_ltab-4.1.1.jar",
+    "sha256": "46224ada0a0e4f9615d19faf34182b99a9806495605792dbe86893a7a52ec888"
+  },
+  {
+    "name": "cr_aero_structures.jar",
+    "sha256": "bd0ce4ae06004482f21491ab26623b99cd0e7e97375c6c6f8f104092eca2b006"
+  },
+  {
+    "name": "curios-neoforge-9.6.1+1.21.1.jar",
+    "sha256": "84188457b9ef22e74113f1856fca7ffeb1195445627bfdf976f2e3006f0f3f5b"
+  },
+  {
+    "name": "directauth-neoforge-1.21.1-1.3.2.jar",
+    "sha256": "6a8dcb29a2ee96720d1510e00bf4077c528e7e3011de0fd5c27b6be5d52cda2f"
+  },
+  {
+    "name": "fastleafdecay-35.jar",
+    "sha256": "0b90f259caef64c3aa09d05427859990a51adec072540a9c598370b86c966a98"
+  },
+  {
+    "name": "fragmentum-5.4.0+1.21.1-neoforge.jar",
+    "sha256": "fb7e1b28d54fda52c62df2a7c050e772030d7c75663d1679371deb0a860d3c1f"
+  },
+  {
+    "name": "free_creates_railway.jar",
+    "sha256": "c8f37cae817edd382e250a318d797c417633875ad86efd6fc8a16470025f6de1"
+  },
+  {
+    "name": "ftb-library-neoforge-2101.1.40.jar",
+    "sha256": "d97d8ae91b5049406f1bac5634ecbceafe7ff0f00e850047792deef4aec05d50"
+  },
+  {
+    "name": "ftb-ultimine-neoforge-2101.1.15.jar",
+    "sha256": "1393a85ceb6e4794450d5f06043e3a033278e31b86de8e03950d8b87604b2213"
+  },
+  {
+    "name": "fuck-sable-1.8.0.jar",
+    "sha256": "7104ad0d3823b02ea047c7043103987476dcbe3230ce323bf2c68d11781bc13d"
+  },
+  {
+    "name": "geckolib-neoforge-1.21.1-4.9.4.jar",
+    "sha256": "5f5d93386b6a660439a77c5cfda67b47a957864a3a6462a015bcc8402bfbb5b3"
+  },
+  {
+    "name": "Jade-1.21.1-NeoForge-15.10.6.jar",
+    "sha256": "276f1f65a20d04f536989c4f311949d770b52c440c23c2b904a08860f3c93810"
+  },
+  {
+    "name": "JadeAddons-1.21.1-NeoForge-6.1.2.jar",
+    "sha256": "1e7ce561f66c90446797e57f836c4459bb0dbc408b6bd551e5e18038774641ae"
+  },
+  {
+    "name": "kaleidoscopetavern-1.2.0-neoforge+mc1.21.1.jar",
+    "sha256": "03f35e1e614953b22cd1f5e34345613f3a6a283bf1b1c99659b57d58970edeff"
+  },
+  {
+    "name": "kaleidoscope_lib-1.1.1-neoforge-mc1.21.1.jar",
+    "sha256": "09ad5a3824e35d32c41f8b2a9e749e9cf4e46b616d5b43894ce50e2f1a3963b5"
+  },
+  {
+    "name": "kotlinforforge-5.13.0-all.jar",
+    "sha256": "1aa52c3e992d8ee4d1b9e9bdb0c62bf7ad03845195136d63f312ade6f30809de"
+  },
+  {
+    "name": "kubejs-neoforge-2101.7.2-build.381.jar",
+    "sha256": "e4539156a6e93badf140d050306d2b4d7975037541b3c51f746cf78bf6fe14a2"
+  },
+  {
+    "name": "lithium-neoforge-0.15.4+mc1.21.1.jar",
+    "sha256": "488f33216030c1cb0baa33e59de3d657d08d5795a6c2080c8c8bbbc133fc8757"
+  },
+  {
+    "name": "lithostitched-1.8.1-neoforge-21.1.jar",
+    "sha256": "e0da669fa5facc61a09b9b7bae21b322993de1fcd1eb05787adffb7309598cca"
+  },
+  {
+    "name": "loconautics-0.1.3BETA.jar",
+    "sha256": "2cd0b33189b2ebdb3551b59aa8fb5cfef6b4b89d238b99b0185cf45bec05e5de"
+  },
+  {
+    "name": "mechanicals-1.21.1-1.1.6.jar",
+    "sha256": "0ce9bb97a68a2fc7340695eacd5b9898f2dc481dc6384df62bfb10c92c9de549"
+  },
+  {
+    "name": "mezz_config-1.21.1-neoforge-0.7.1-standalone.jar",
+    "sha256": "c42510938584eda0aae134003e367d745fd32ceac1836221cecac4cbc7bfa3a1"
+  },
+  {
+    "name": "modernfix-neoforge-5.27.27+mc1.21.1.jar",
+    "sha256": "7010aae2e837122fe8dabd5932358e2ba334fcbc62ca6530cb1cb00402d2c63b"
+  },
+  {
+    "name": "moonlight-1.21.1-3.8.5-neoforge.jar",
+    "sha256": "dbba1d1a3af835356c8504dee2adc2fc18d1141fbd0c93dfe08c0951e21a48e0"
+  },
+  {
+    "name": "netmusiccanplayradio-0.2.0-neoforge+mc1.21.1.jar",
+    "sha256": "af132a1deca354c32bb560699b9d28ba5fe76ae30f8a6e1278b68cdf8770ccde"
+  },
+  {
+    "name": "oelib-neoforge-1.21.1-0.3.2.jar",
+    "sha256": "c088828b332da215f428c93f55c033bef8357647c6eccafe01fcf6ac4dd2e3f3"
+  },
+  {
+    "name": "OneEnoughBlock-neoforge-1.21.1-1.1.5.jar",
+    "sha256": "e9154385d8f122721fad3751c15ccbce2791ae27e85b22f8e33d8be01089ae81"
+  },
+  {
+    "name": "OneEnoughFluid-neoforge-1.21.1-1.1.3.jar",
+    "sha256": "91ea4e323c7637802ff625a7b835d86a4fe34ff4944a6b5cd5da4d734af7df8d"
+  },
+  {
+    "name": "OneEnoughItem-neoforge-1.21.1-1.0.10.jar",
+    "sha256": "e0597fa6a84ac8aa906904c6d32adcc794e290dc129f829d718120d36becb9e0"
+  },
+  {
+    "name": "Platform-neoforge-1.21.1-1.4.2.jar",
+    "sha256": "56f63d73614e35841f6f8ac79d2eb2f7d8b9ff6414272eecac19274644c849ac"
+  },
+  {
+    "name": "powerchip-2.1.2.jar",
+    "sha256": "1f15f94e355f63307271a139c1448fc951ccbe6ea63b54fff38bb55dd6b36a29"
+  },
+  {
+    "name": "ragdoll_corpse-1.21.1-0.4.0.jar",
+    "sha256": "86fee7f780560a3168440e56cb635d116d5b6dd19aececa10e0194ae5926e8f1"
+  },
+  {
+    "name": "railways-0.3.0-beta.2+neoforge-mc1.21.1.jar",
+    "sha256": "64b74ddad661deae1cfe7e8334cfa3d39bb8ef7b761f83595ba0476c4a9bb1d5"
+  },
+  {
+    "name": "Retraining-neoforge-1.21-2.0.0.jar",
+    "sha256": "5af5827a3035daab71b7a534face245c64237e5521c6c8125628ca116fe8aa26"
+  },
+  {
+    "name": "sable-neoforge-1.21.1-2.0.6.jar",
+    "sha256": "9c199157843bf953a47dff625fc5bb41c01a90538d35ad18e6996bbcb8a617c2"
+  },
+  {
+    "name": "sable_player_ragdoll-1.21.1-0.8.1.jar",
+    "sha256": "52231de8cf20713040e948ec41c0813d8b1eab2e7ec327c1ff5da8bdc3ba33fd"
+  },
+  {
+    "name": "sawmill-1.21-1.9.3-neoforge.jar",
+    "sha256": "aed00e45d1255aa69c17bdc4ee1dd53d789b2b8c6a0f543fb1b86e19218d34bc"
+  },
+  {
+    "name": "servercore-neoforge-1.5.19+1.21.1.jar",
+    "sha256": "a5706aa0bb3a47c5f1adab44306685736688ec03414f60beb4fcbe05b99f5a82"
+  },
+  {
+    "name": "serverwarashi-1.21.1-2.1.1.5.jar",
+    "sha256": "4c9c56802fb669fb3d8eeb99e320c6f1108949bae658b196f103b4192963dc1f"
+  },
+  {
+    "name": "simulatedcoasters-0.1.6.jar",
+    "sha256": "197c667ec57ff6d231b7fd81b270d96f4ba8109b02e706a6830d580e9d609cc5"
+  },
+  {
+    "name": "skinrestorer-2.11.1+1.21-neoforge.jar",
+    "sha256": "f2c6962fd3102743f795d174d9419cf03ffd5b58f545903b04ee991b5e371a16"
+  },
+  {
+    "name": "sophisticatedbackpacks-1.21.1-3.26.23.2263.jar",
+    "sha256": "8df6a8ebad2aebc71bc54e51eddd47fe931ed8bc338f7d1924e272ac72e38092"
+  },
+  {
+    "name": "sophisticatedcore-1.21.1-1.5.43.2504.jar",
+    "sha256": "6273cfa446b338f165a9c799ddd78fcb320fad0b519a70d969165b7518d3bac8"
+  },
+  {
+    "name": "sophisticatedinventoryinteractions-1.21.1-0.1.16.239.jar",
+    "sha256": "1e0d1355e961e392f3a0a0ec5354374c869919911e4d4c352772a37a4fb217c8"
+  },
+  {
+    "name": "spawn-4.0.8-1.21.1.jar",
+    "sha256": "705dabdfb29b163500334a08c095b51ea8800db08b6c96ec430c52b30d6d9842"
+  },
+  {
+    "name": "stellarcreateoptimization-neoforge-1.21.1-1.1.3.jar",
+    "sha256": "251d5f7a7a916d6202e5ac5241e2f6aafef3e884c06d95c3a2d21045507448f9"
+  },
+  {
+    "name": "struts-1.3.1.jar",
+    "sha256": "21002a8b6881a3d08da74f03f29ab23551db50d755d7e75b8b94847511d9a863"
+  },
+  {
+    "name": "supplementaries-1.21.1-4.1.4-neoforge.jar",
+    "sha256": "04bf0c80070fdcafd4dfc2f8a259d32ec7abc7c31b7667e00d01d67e77d5c7f0"
+  },
+  {
+    "name": "teallib-1.3.teal.jar",
+    "sha256": "297004b131df16839a09f97ecd703ea20e89937289e5613d3711e385f9377218"
+  },
+  {
+    "name": "tectonic-3.0.28-neoforge-21.1.jar",
+    "sha256": "cf188c70e7dd94f6e3a81cef9fe99f1151f13217809f7576aaedb0c3e6547ae1"
+  },
+  {
+    "name": "VanillaBackport-neoforge-1.21.1-1.2.2.jar",
+    "sha256": "af66aa2458f21c691b5c0feb14439e15c72e14051ed592050df1b6bf8bdeb089"
+  },
+  {
+    "name": "wearable_toolbox-0.1.10.jar",
+    "sha256": "0b4c69fe61e78d0254fad19708554e563a4f8a9ccd0a9f3428aa7542fb03f63a"
+  },
+  {
+    "name": "zstdnet-1.21.1-neoforge-1.5.0.jar",
+    "sha256": "cd5e0246b582d2a64e7d6cafc8b0ae64dba42e88872fea1220d0652ae1efa0bb"
+  },
+  {
+    "name": "[FTB 任务] ftb-quests-neoforge-2101.1.39.jar",
+    "sha256": "40f9bea7bb96e8129303b0dc1b9e47b38234f52018ff332f967be03df07a466e"
+  },
+  {
+    "name": "[FTB 团队] ftb-teams-neoforge-2101.1.12.jar",
+    "sha256": "b3f33436070b7ae4a706280561f1d2f1d1eb1a089cb13ec9851e99646165aed2"
+  },
+  {
+    "name": "[JEI物品管理器] jei-1.21.1-neoforge-19.76.1.481.jar",
+    "sha256": "0614f0a6a6ef9d7e0a313b1d71561a561e8af4936e557710034507cfc356908f"
+  },
+  {
+    "name": "[农夫乐事] FarmersDelight-1.21.1-1.3.4.jar",
+    "sha256": "139ad7696462c89c03eea463f805abffa552526c5dadaadae221dd9624cb197c"
+  },
+  {
+    "name": "[千古乐事] immortalers_delight-1.21.1-neoforge-1.0.10.jar",
+    "sha256": "b6e5bf7d9eb4471cadc6e27ff356859c8dc98d5fca68a7c3c4a5417ad449a4a2"
+  },
+  {
+    "name": "[多态合成] polymorph-neoforge-1.2.0+1.21.1.jar",
+    "sha256": "4a09b7a3c8ea4f5b79acadb405a18140fe20d882e6930403c46cc7ad49c5ec06"
+  },
+  {
+    "name": "[拾光定影] exposure-neoforge-1.21.1-1.9.21.jar",
+    "sha256": "4d8bbb335523e10fd2d11eeaac3a0356c8c542f61620d5853b2ddfbe39c4276a"
+  },
+  {
+    "name": "[探险者指南针] ExplorersCompass-1.21.1-3.4.0-neoforge.jar",
+    "sha256": "71e7b47bd88c9c210d7c06fe5276736fc2e225e869778216537d584e6d1faf24"
+  },
+  {
+    "name": "[更多嗅探兽花卉] MoreSnifferFlowers-1.21.1-neo-6.8.jar",
+    "sha256": "1a84878443b85d9e9623fc59c7fa7fe31562030d669a2adf08780325aeb917b0"
+  },
+  {
+    "name": "[更好的攀爬] better_climbing-neoforge-4.jar",
+    "sha256": "5b3467bab819272eebea599410e940736d302f18332097e9a2d34193b4189b80"
+  },
+  {
+    "name": "[机械动力：交错电网] powergrid-mc1.21.1-0.6.2.jar",
+    "sha256": "e40d67a874431925d502af88e85064883c67936cfd689033d7df560cffcf19e7"
+  },
+  {
+    "name": "[机械动力：伪装方块+] copycats-3.0.11+mc.1.21.1-neoforge.jar",
+    "sha256": "eab9c71e0cc133c38f1063fc9c892599207240a1f0559ce1e3ecddc4ad7aa759"
+  },
+  {
+    "name": "[机械动力：动力刷怪笼] create_mechanical_spawner-1.21.1-1.3.2-6.0.10.jar",
+    "sha256": "f963b0a4e450484b36ec0b5d529fa7f32527dcc60ec93261ceef5c056f0a9134"
+  },
+  {
+    "name": "[机械动力：更快的蓝图加农炮] CreateFastSchematicCannon-2.6.1-neoforge-1.21.1.jar",
+    "sha256": "6d5ea8f1a7db565baf8d5ab8823fdbb25ed6cd0e47f028ac6c820c1ad993fd07"
+  },
+  {
+    "name": "[机械动力：柴油动力] createdieselgenerators-1.21.1-1.3.16.jar",
+    "sha256": "e04eba6ea9b959f0e8fdfe2aeceafd445ccd777a0a0e5aacd011123d49cdffcd"
+  },
+  {
+    "name": "[机械动力：生物科技] create_biotech-1.21.1-2.0.0.jar",
+    "sha256": "29d16438e5953017e56523336eca6b9d7e1759764ad1dac3e2e279356e52eba7"
+  },
+  {
+    "name": "[机械动力：电力学] electroenergetics-1.21.1-1.1.4.jar",
+    "sha256": "2362decf60ace66037eb2ae79f34fed57b5f152e0435164f5f91912ea837052f"
+  },
+  {
+    "name": "[机械动力：齿轮与麦穗] create_ratatouille-1.21.1-1.4.0.jar",
+    "sha256": "718725af78207805901df06f5dbcbf5f5f30fb6def1795b07ff0b60c653df194"
+  },
+  {
+    "name": "[森罗厨房：自动化] kaleidoscopecookery_automation-1.0.2.jar",
+    "sha256": "436f81bc8f90e21dcf1a2a43758d9d0e8d4d424a68438a97a7f20cfdea922a2a"
+  },
+  {
+    "name": "[森罗物语：下界] kaleidoscope_nether-1.1.2-neoforge+mc1.21.1.jar",
+    "sha256": "4698b09f9a3edd84ab37a9506c3b88c7b59e947b21ae894c477998421335ffb6"
+  },
+  {
+    "name": "[森罗物语：兼容] kaleidoscope_compat-2.9.7-neoforge+mc1.21.1-Patch.2.jar",
+    "sha256": "9876abc5bba1eaa06ea0c4ef140d1eb3b5a8fe9fa17150392a63e0449bc9eb34"
+  },
+  {
+    "name": "[森罗物语：动态结构] kaleidoscope_contraption-1.0.4.jar",
+    "sha256": "015f0549001d8a34c9d04ba6ab0aa2e1bf9c60d34a4c440cd7932dba36cecaa4"
+  },
+  {
+    "name": "[森罗物语：厨房] kaleidoscopecookery-1.7.0-neoforge+mc1.21.1.jar",
+    "sha256": "49f61b54e38298d90bccd22d23af4ae2a43a5c260c97f2c90941845f11bd0aff"
+  },
+  {
+    "name": "[森罗物语：末地] kaleidoscope_end-1.1.2-neoforge+mc1.21.1.jar",
+    "sha256": "14caedaed01b5e2f49258fd6d296330ad73039590df29e18294c3e75b7931fe8"
+  },
+  {
+    "name": "[森罗物语：玩偶] kaleidoscopedoll-1.4.2-neoforge+mc1.21.1.jar",
+    "sha256": "f802743a879892b7d62210e43a1f25f46e7f4f94852ff1b531d8affb23da2951"
+  },
+  {
+    "name": "[火花] spark-1.10.124-neoforge.jar",
+    "sha256": "647e8a81afbe414dba1df4ba15fd06c5d32d4cb544e68828405e8e074c2e16db"
+  },
+  {
+    "name": "[烟花苦力怕] CreeperFirework-neoforge-2.2.0.jar",
+    "sha256": "f047bbfaab90995c51311464d9a277008d92c3689be26cc2400f28aef813a760"
+  },
+  {
+    "name": "[犀牛] rhino-2101.2.8-build.91.jar",
+    "sha256": "1d53d962aa4dac54bcbb4f998c1845980cf194318f1d6b1580ea6ac15cce5ef3"
+  },
+  {
+    "name": "[简单的语音聊天] voicechat-neoforge-1.21.1-2.6.22.jar",
+    "sha256": "63116a4d21bd57221482d971dd85822f7c723c210b60411670cdb0aa26873cac"
+  },
+  {
+    "name": "[绷带] hotai-2.0.jar",
+    "sha256": "14e2af94e0e60a005090de6b2621c717e4108ff3db8a4b3576858abd3463ba38"
+  },
+  {
+    "name": "[网络音乐机] netmusic-1.5.2-neoforge+mc1.21.1.jar",
+    "sha256": "731fba4b4d47256d5f44f8392b093b53c7d1c650b66111eda75b820f7f89a14b"
+  },
+  {
+    "name": "[自然罗盘／生物群系指南针] NaturesCompass-1.21.1-3.4.0-neoforge.jar",
+    "sha256": "0e249ac11b2f916c5570d9679e188da652fa5664ba9cdb7be5dc9ff69497539c"
+  },
+  {
+    "name": "[苹果皮] appleskin-neoforge-mc1.21-3.0.9.jar",
+    "sha256": "38b48dd6231341c9f964ce6e42c57ec866c6cc8f72bec938390a59bafb3922df"
+  },
+  {
+    "name": "[试验假人] dummmmmmy-1.21-2.1.2-neoforge.jar",
+    "sha256": "eaece070b290e8399d97dfd01f8e4c0d8da5772efe50d97c99343e35b116cb67"
+  },
+  {
+    "name": "[铁氧体磁芯] ferritecore-7.0.3-neoforge.jar",
+    "sha256": "d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8"
+  }
+]

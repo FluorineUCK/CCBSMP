@@ -1,0 +1,10 @@
+[
+  {
+    "matchItems": [
+      "anvilcraft:dough",
+      "farmersdelight:wheat_dough",
+      "create:dough"
+    ],
+    "resultItems": "kaleidoscope_cookery:raw_dough"
+  }
+]

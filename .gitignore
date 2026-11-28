@@ -78,3 +78,10 @@ Desktop.ini
 # JEI uses a world-named config namespace; it is not a save directory.
 !/pack/config/jei/server/world/
 !/pack/config/jei/server/world/**
+
+# OE replacement caches are runtime state; author rules under kubejs/data.
+/pack/oei/
+/pack/oef/
+/pack/oeb/
+/tools/server-world-backup/fixture-*/
+/tools/server-watchdog/fixture-*/

@@ -6,9 +6,9 @@
     "reason": "Removed at user request: do not include this local.starlight build; no replacement version installed."
   },
   {
-    "mod_id": "modernfix",
-    "filename": "modernfix-neoforge-5.27.27+mc1.21.1.jar",
-    "date": "2026-11-25",
-    "reason": "User requested exclusion. Already absent from Test and current pack at verification; do not re-add from historical v1.1 plans."
+    "filename": "[机械动力：矿石开掘] createoreexcavation-1.21-1.6.8.jar",
+    "sha256": "d3a2e1a6e65de7e50ae9e279de399b6535da407abc8e6b4688a56f2e461aab99",
+    "date": "2026-11-28",
+    "reason": "Absent from current Hotfix 1 client; removed from shared baseline during Git reconciliation."
   }
 ]

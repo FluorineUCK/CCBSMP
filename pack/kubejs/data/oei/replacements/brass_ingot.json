@@ -1,0 +1,8 @@
+[
+  {
+    "matchItems": [
+      "anvilcraft:brass_ingot"
+    ],
+    "resultItems": "create:brass_ingot"
+  }
+]

@@ -340,25 +340,6 @@
     }
   },
   {
-    "filename": "[机械动力：矿石开掘] createoreexcavation-1.21-1.6.8.jar",
-    "sha256": "d3a2e1a6e65de7e50ae9e279de399b6535da407abc8e6b4688a56f2e461aab99",
-    "sha512": "844ae32ff0d22f4d3c83db3bae2f6edc0f74cd1a530f900bf18829838d5a354b1e439e52688416130d9fd9a52c3310458bbdbc7458f4c1c1d8ffb088ae802d32",
-    "size": 476990,
-    "ids": [
-      "createoreexcavation"
-    ],
-    "name": "Create Ore Excavation",
-    "version": "1.6.8",
-    "url": "https://cdn.modrinth.com/data/ResbpANg/versions/tivxiPTo/createoreexcavation-1.21-1.6.8.jar",
-    "modrinth": {
-      "mod-id": "ResbpANg",
-      "version": "tivxiPTo"
-    },
-    "curseforge": null,
-    "side": "both",
-    "side_basis": "Published environment; client-only user choices override optional server support."
-  },
-  {
     "filename": "[机械动力：齿轮与麦穗] create_ratatouille-1.21.1-1.4.0.jar",
     "sha256": "718725af78207805901df06f5dbcbf5f5f30fb6def1795b07ff0b60c653df194",
     "sha512": "4d8b5a1430e5001e6d055f836a5de8cfb6454496d992403a06f092f90f9bdec485171c4577c1551b4d5d6356f35013bd76a6e14eb27c406cbb5a8c392c1c9cd1",
@@ -1481,25 +1462,6 @@
     "modrinth": null
   },
   {
-    "filename": "fuck-sable-1.8.0.jar",
-    "sha256": "7104ad0d3823b02ea047c7043103987476dcbe3230ce323bf2c68d11781bc13d",
-    "sha512": "7d048282db2414ff389550c2f173926ecce358432bf0e65480c340f70d0e96bedd4191150ae32edca6bac5180e2c3010af03d6ad43996f67246bc7d605df9fbd",
-    "size": 203063,
-    "ids": [
-      "fucksable"
-    ],
-    "name": "fuck Sable",
-    "version": "1.8.0",
-    "url": "https://cdn.modrinth.com/data/YS1hdEUp/versions/7yXD09Rw/fuck-sable-1.8.0.jar",
-    "modrinth": {
-      "mod-id": "YS1hdEUp",
-      "version": "7yXD09Rw"
-    },
-    "curseforge": null,
-    "side": "server",
-    "side_basis": "Published environment; client-only user choices override optional server support."
-  },
-  {
     "filename": "gbf-1.21.1-1.0.2.jar",
     "sha256": "48984167d9e0b3c8608497dc1a09a26b1fa26e8297b0f9e6ad065e5513a776a1",
     "sha512": "b80ce5fc7a04308884b9e93d184c77adfe1f177593ce6b088ebf55aea0ff05b12f13d88a01ec8791584e35155bfbe8212ed10623ed1ca1d2ec8d68f75b074e2d",
@@ -2424,5 +2386,62 @@
       "project-id": 1506928,
       "file-id": 9044611
     }
+  },
+  {
+    "filename": "lithium-neoforge-0.15.4+mc1.21.1.jar",
+    "sha256": "488f33216030c1cb0baa33e59de3d657d08d5795a6c2080c8c8bbbc133fc8757",
+    "sha512": "2735da2088b88a8bdcd4ad02a2b6fffbfd3925557cefd4fa54b5477dfb9e582ea7f521300c060f57dff1325dd21bff276b7333363ad3371ed6893e3de9eca9cd",
+    "size": 774220,
+    "ids": [
+      "lithium"
+    ],
+    "name": "Lithium",
+    "version": "mc1.21.1-0.15.4-neoforge",
+    "side": "server",
+    "side_basis": "Installed on production only; not added to client",
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/DDUrRVCA/lithium-neoforge-0.15.4%2Bmc1.21.1.jar",
+    "modrinth": {
+      "mod-id": "gvQqBUqZ",
+      "version": "DDUrRVCA"
+    },
+    "curseforge": null
+  },
+  {
+    "filename": "modernfix-neoforge-5.27.27+mc1.21.1.jar",
+    "sha256": "7010aae2e837122fe8dabd5932358e2ba334fcbc62ca6530cb1cb00402d2c63b",
+    "sha512": "af14a35e51f1c5d94139c6225ae641e8b0ded5a8c68eb4806cf28025d6c043455ac289902cd6b854a867320ab845ad619b186d02b8341822faf03f4476dec555",
+    "size": 614138,
+    "ids": [
+      "modernfix"
+    ],
+    "name": "Modernfix",
+    "version": "5.27.27+mc1.21.1",
+    "side": "server",
+    "side_basis": "Installed on production only; not added to client",
+    "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/ZDZENbHH/modernfix-neoforge-5.27.27%2Bmc1.21.1.jar",
+    "modrinth": {
+      "mod-id": "nmDcB62a",
+      "version": "ZDZENbHH"
+    },
+    "curseforge": null
+  },
+  {
+    "filename": "fuck-sable-1.8.0.jar",
+    "sha256": "7104ad0d3823b02ea047c7043103987476dcbe3230ce323bf2c68d11781bc13d",
+    "sha512": "7d048282db2414ff389550c2f173926ecce358432bf0e65480c340f70d0e96bedd4191150ae32edca6bac5180e2c3010af03d6ad43996f67246bc7d605df9fbd",
+    "size": 203063,
+    "ids": [
+      "fucksable"
+    ],
+    "name": "fuck Sable",
+    "version": "1.8.0",
+    "url": "https://cdn.modrinth.com/data/YS1hdEUp/versions/7yXD09Rw/fuck-sable-1.8.0.jar",
+    "modrinth": {
+      "mod-id": "YS1hdEUp",
+      "version": "7yXD09Rw"
+    },
+    "curseforge": null,
+    "side": "server",
+    "side_basis": "Present on production, absent from Hotfix 1 client; preserve server-only deployment."
   }
 ]

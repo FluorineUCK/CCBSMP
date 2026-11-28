@@ -1,0 +1,8 @@
+[
+  {
+    "matchItems": [
+      "anvilcraft:zinc_ingot"
+    ],
+    "resultItems": "create:zinc_ingot"
+  }
+]
